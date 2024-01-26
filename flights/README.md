@@ -6,3 +6,5 @@ for i in range(1,13):
   monthly = slim.loc[slim["MONTH"] == i ]
   monthly.to_csv('flights.monthly.' + str(i) + '.csv')
 ```
+
+Then needed to eliminate ID column in a spreadsheet editor
