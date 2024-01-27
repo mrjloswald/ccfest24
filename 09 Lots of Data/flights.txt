@@ -1,0 +1,33 @@
+YEAR	MONTH	DAY	DAY_OF_WEEK	AIRLINE	FLIGHT_NUMBER	TAIL_NUMBER	ORIGIN_AIRPORT	DESTINATION_AIRPORT	SCHEDULED_DEPARTURE	DEPARTURE_TIME	DEPARTURE_DELAY	TAXI_OUT	WHEELS_OFF	SCHEDULED_TIME	ELAPSED_TIME	AIR_TIME	DISTANCE	WHEELS_ON	TAXI_IN	SCHEDULED_ARRIVAL	ARRIVAL_TIME	ARRIVAL_DELAY	DIVERTED	CANCELLED	CANCELLATION_REASON	AIR_SYSTEM_DELAY	SECURITY_DELAY	AIRLINE_DELAY	LATE_AIRCRAFT_DELAY	WEATHER_DELAY
+
+import pandas
+df = pandas.read_csv('/content/drive/MyDrive/flights.csv')
+slim = df[["ORIGIN_AIRPORT", "DESTINATION_AIRPORT", "ARRIVAL_DELAY", "ELAPSED_TIME", "DIVERTED", "CANCELLED"]].copy()
+slim.to_csv('flights.slimline.csv')
+
+Then filtered out all diverted or cancelled flights
+Deleted 42,606 rows with no time data (presumably cancelled or rerouted flights)
+
+Then removed unnecessary columns
+
+Removed These airport codes because they didn't have L/L data
+
+ECP
+PBG
+UST
+
+Then removed AK, HI and PR airports by hand
+
+ADK
+ADQ
+AKN
+ANC
+GST
+JNU
+KTN
+OME
+OTZ
+PSG
+SCC
+SIT
+YAK

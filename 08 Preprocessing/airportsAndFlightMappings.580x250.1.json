@@ -1,0 +1,8105 @@
+{
+  "ATL": {
+    "iata": "ATL",
+    "airportString": "Hartsfield-Jackson Atlanta International Airport",
+    "lat": 33.64044,
+    "lng": -84.42694,
+    "outboundFlightCounts": {
+      "all": 29512,
+      "IAD": 299,
+      "TTN": 25,
+      "DFW": 648,
+      "LGA": 718,
+      "IAH": 345,
+      "MCO": 703,
+      "CLT": 585,
+      "MIA": 429,
+      "FLL": 666,
+      "SLC": 219,
+      "DAL": 246,
+      "BDL": 245,
+      "SFO": 262,
+      "MDW": 391,
+      "PHX": 328,
+      "HOU": 393,
+      "PHL": 548,
+      "OKC": 173,
+      "DEN": 380,
+      "RSW": 335,
+      "MEM": 273,
+      "LAS": 298,
+      "SJU": 166,
+      "ORD": 492,
+      "PBI": 354,
+      "LAX": 377,
+      "STT": 68,
+      "TLH": 172,
+      "JAX": 410,
+      "MSP": 418,
+      "MOB": 191,
+      "BWI": 456,
+      "TPA": 583,
+      "CLE": 221,
+      "BOS": 387,
+      "EWR": 440,
+      "DTW": 426,
+      "PIT": 279,
+      "CVG": 176,
+      "ROA": 115,
+      "AGS": 199,
+      "MGM": 194,
+      "ROC": 87,
+      "MLB": 117,
+      "SRQ": 176,
+      "ICT": 81,
+      "ECP": 166,
+      "DCA": 560,
+      "MSY": 399,
+      "MSN": 60,
+      "FNT": 86,
+      "ORF": 189,
+      "SAV": 224,
+      "SEA": 186,
+      "HPN": 157,
+      "JAC": 7,
+      "IND": 323,
+      "EYW": 137,
+      "AUS": 251,
+      "JFK": 154,
+      "LEX": 201,
+      "GSO": 222,
+      "EVV": 86,
+      "XNA": 141,
+      "CAE": 224,
+      "HSV": 194,
+      "RDU": 428,
+      "MTJ": 7,
+      "RIC": 309,
+      "STL": 318,
+      "ASE": 30,
+      "LFT": 90,
+      "MKE": 281,
+      "EGE": 30,
+      "HDN": 26,
+      "SAT": 258,
+      "MCI": 306,
+      "MYR": 112,
+      "GSP": 227,
+      "GRK": 53,
+      "FAY": 156,
+      "CMH": 262,
+      "BHM": 249,
+      "OMA": 146,
+      "ILM": 147,
+      "SDF": 232,
+      "SAN": 178,
+      "CID": 87,
+      "HNL": 30,
+      "TUS": 53,
+      "ELP": 57,
+      "BMI": 68,
+      "TUL": 138,
+      "GNV": 171,
+      "JAN": 206,
+      "PNS": 196,
+      "BZN": 14,
+      "AVL": 169,
+      "BNA": 251,
+      "DAB": 118,
+      "GRR": 112,
+      "SGF": 119,
+      "BTR": 227,
+      "TRI": 166,
+      "AEX": 108,
+      "CRW": 86,
+      "GPT": 123,
+      "SBN": 109,
+      "VPS": 170,
+      "GTR": 83,
+      "MLU": 112,
+      "OAJ": 111,
+      "ABE": 74,
+      "ABY": 81,
+      "PHF": 136,
+      "LIT": 161,
+      "BUF": 128,
+      "CHS": 238,
+      "SHV": 171,
+      "DHN": 115,
+      "TYS": 114,
+      "CAK": 180,
+      "VLD": 86,
+      "DAY": 117,
+      "SYR": 86,
+      "MLI": 87,
+      "ALB": 85,
+      "PVD": 84,
+      "ATW": 33,
+      "MDT": 86,
+      "BQK": 84,
+      "PIA": 59,
+      "CHA": 200,
+      "PDX": 82,
+      "SNA": 86,
+      "ABQ": 51,
+      "COS": 26,
+      "MHT": 30,
+      "EWN": 56,
+      "BTV": 30,
+      "MBS": 3,
+      "GRB": 33,
+      "FAR": 3,
+      "SCE": 2,
+      "CHO": 85,
+      "RAP": 2,
+      "LNK": 28,
+      "SJC": 22,
+      "CSG": 79,
+      "AZO": 6,
+      "LAN": 3,
+      "ELM": 3,
+      "FSD": 30,
+      "PWM": 26,
+      "SMF": 43,
+      "AVP": 30,
+      "FSM": 77,
+      "RST": 29,
+      "DSM": 77,
+      "FWA": 3,
+      "ONT": 2,
+      "OAK": 1,
+      "MSO": 1,
+      "STX": 4
+    },
+    "square": {
+      "x": 405.7306,
+      "y": 157.45858343337338,
+      "s": 50
+    }
+  },
+  "ORD": {
+    "iata": "ORD",
+    "airportString": "Chicago O'Hare International Airport",
+    "lat": 41.9796,
+    "lng": -87.90446,
+    "outboundFlightCounts": {
+      "all": 23484,
+      "PHX": 405,
+      "IAH": 329,
+      "FLL": 248,
+      "DEN": 465,
+      "DTW": 536,
+      "BOS": 488,
+      "LGA": 848,
+      "ATL": 501,
+      "MIA": 389,
+      "MCO": 398,
+      "MBS": 118,
+      "IAD": 157,
+      "EWR": 279,
+      "TPA": 239,
+      "SFO": 504,
+      "MKE": 419,
+      "LAX": 612,
+      "RIC": 167,
+      "CLT": 461,
+      "BTV": 21,
+      "DSM": 344,
+      "SEA": 243,
+      "DCA": 466,
+      "LAS": 366,
+      "ASE": 109,
+      "SAT": 85,
+      "TVC": 158,
+      "SAN": 167,
+      "CHS": 31,
+      "IND": 239,
+      "PHL": 322,
+      "MSY": 109,
+      "SJU": 95,
+      "SNA": 142,
+      "FWA": 207,
+      "PDX": 115,
+      "RSW": 181,
+      "OMA": 177,
+      "SRQ": 30,
+      "PNS": 4,
+      "OKC": 116,
+      "DLH": 92,
+      "MCI": 215,
+      "PIT": 124,
+      "CLE": 440,
+      "MSP": 488,
+      "DFW": 679,
+      "TYS": 172,
+      "ANC": 8,
+      "BOI": 35,
+      "TUS": 52,
+      "JAC": 28,
+      "GRB": 241,
+      "ATW": 118,
+      "SYR": 143,
+      "MKG": 61,
+      "BZN": 3,
+      "PSP": 34,
+      "DBQ": 85,
+      "FAR": 170,
+      "JFK": 123,
+      "SMF": 35,
+      "PBI": 61,
+      "BUF": 103,
+      "CMH": 325,
+      "SBN": 112,
+      "HNL": 30,
+      "BDL": 108,
+      "MTJ": 30,
+      "OGG": 8,
+      "JAX": 38,
+      "ELP": 26,
+      "CMX": 59,
+      "FSD": 191,
+      "BNA": 288,
+      "ABQ": 26,
+      "CMI": 176,
+      "SDF": 121,
+      "RDU": 113,
+      "SJC": 34,
+      "BMI": 83,
+      "AUS": 164,
+      "COU": 61,
+      "BIS": 30,
+      "DAY": 246,
+      "SPI": 92,
+      "MHK": 57,
+      "CHA": 26,
+      "TOL": 88,
+      "FNT": 150,
+      "CVG": 312,
+      "BWI": 166,
+      "CID": 267,
+      "RST": 117,
+      "STC": 57,
+      "EGE": 26,
+      "TUL": 172,
+      "MSN": 318,
+      "JAN": 52,
+      "MLI": 169,
+      "ICT": 200,
+      "RAP": 4,
+      "LIT": 166,
+      "AZO": 117,
+      "ROC": 91,
+      "LSE": 102,
+      "MEM": 216,
+      "LNK": 91,
+      "GRR": 261,
+      "SLC": 225,
+      "LAN": 65,
+      "CRW": 34,
+      "ERI": 57,
+      "EVV": 115,
+      "PAH": 60,
+      "EAU": 61,
+      "AVL": 33,
+      "BHM": 76,
+      "ORF": 71,
+      "CAK": 79,
+      "MHT": 8,
+      "STL": 149,
+      "LEX": 141,
+      "SAV": 46,
+      "PVD": 56,
+      "CWA": 118,
+      "HPN": 174,
+      "ALO": 57,
+      "HSV": 35,
+      "MDT": 76,
+      "ELM": 56,
+      "ALB": 61,
+      "CHO": 61,
+      "SUX": 57,
+      "CAE": 56,
+      "XNA": 211,
+      "AVP": 33,
+      "SCE": 62,
+      "OAK": 30,
+      "SGF": 171,
+      "PIA": 182,
+      "COS": 65,
+      "MOB": 26,
+      "MQT": 25,
+      "ABE": 19,
+      "RNO": 22,
+      "GSO": 4,
+      "GSP": 27,
+      "PWM": 4,
+      "STT": 8,
+      "FCA": 4,
+      "GUC": 0,
+      "HDN": 5,
+      "ROA": 19
+    },
+    "square": {
+      "x": 370.9554,
+      "y": 74.0336134453782,
+      "s": 41.82976416373001
+    }
+  },
+  "DFW": {
+    "iata": "DFW",
+    "airportString": "Dallas/Fort Worth International Airport",
+    "lat": 32.89595,
+    "lng": -97.0372,
+    "outboundFlightCounts": {
+      "all": 23153,
+      "MIA": 344,
+      "ATL": 651,
+      "MCO": 424,
+      "LGA": 412,
+      "BTR": 239,
+      "OAK": 30,
+      "FLL": 255,
+      "DEN": 554,
+      "PHX": 405,
+      "DCA": 290,
+      "ORD": 673,
+      "BOS": 234,
+      "MSP": 249,
+      "CLT": 417,
+      "STL": 243,
+      "TPA": 242,
+      "IAH": 442,
+      "LAX": 619,
+      "BNA": 231,
+      "DSM": 146,
+      "MAF": 212,
+      "RDU": 132,
+      "PHL": 367,
+      "HOU": 138,
+      "CVG": 205,
+      "CRP": 239,
+      "MCI": 229,
+      "LAS": 433,
+      "DTW": 227,
+      "SHV": 212,
+      "TYS": 149,
+      "SFO": 438,
+      "BDL": 62,
+      "LIT": 127,
+      "SJC": 141,
+      "TUL": 243,
+      "GRK": 273,
+      "PNS": 155,
+      "IND": 138,
+      "SEA": 290,
+      "OKC": 234,
+      "SNA": 289,
+      "EWR": 217,
+      "XNA": 211,
+      "HDN": 40,
+      "MEM": 80,
+      "RIC": 62,
+      "MKE": 104,
+      "GSO": 88,
+      "VPS": 145,
+      "LAW": 128,
+      "SAT": 449,
+      "LBB": 118,
+      "CAE": 83,
+      "AUS": 415,
+      "HSV": 65,
+      "GPT": 88,
+      "SLC": 258,
+      "MSY": 251,
+      "MLI": 88,
+      "SAV": 92,
+      "AMA": 240,
+      "CMH": 123,
+      "JAN": 212,
+      "MSN": 119,
+      "OMA": 146,
+      "LFT": 150,
+      "GRR": 114,
+      "SAN": 308,
+      "IAD": 90,
+      "JAX": 117,
+      "CLL": 149,
+      "LEX": 93,
+      "BHM": 88,
+      "COS": 58,
+      "DAY": 88,
+      "CLE": 147,
+      "SPS": 105,
+      "FWA": 57,
+      "SGF": 233,
+      "CID": 128,
+      "FSM": 119,
+      "MGM": 87,
+      "PDX": 122,
+      "SJT": 150,
+      "LRD": 123,
+      "AEX": 92,
+      "PBI": 92,
+      "MFE": 150,
+      "PIA": 84,
+      "PIT": 110,
+      "BPT": 92,
+      "ACT": 146,
+      "RSW": 127,
+      "MLU": 84,
+      "SMF": 112,
+      "CHA": 57,
+      "CHS": 61,
+      "BWI": 148,
+      "MHK": 92,
+      "SAF": 61,
+      "FSD": 92,
+      "TYR": 150,
+      "TUS": 212,
+      "PSP": 87,
+      "ICT": 61,
+      "GUC": 35,
+      "TXK": 88,
+      "TLH": 60,
+      "MOB": 88,
+      "GGG": 53,
+      "ROW": 88,
+      "RNO": 68,
+      "JFK": 35,
+      "OGG": 39,
+      "ONT": 111,
+      "GJT": 61,
+      "ABI": 238,
+      "ABQ": 123,
+      "DRO": 65,
+      "HNL": 65,
+      "BRO": 88,
+      "EGE": 79,
+      "FAT": 49,
+      "SDF": 26,
+      "FAR": 35,
+      "RAP": 61,
+      "GRI": 60,
+      "GCK": 61,
+      "ORF": 56,
+      "COU": 61,
+      "MEI": 52,
+      "SJU": 66,
+      "CRW": 26,
+      "ASE": 61,
+      "LCH": 61,
+      "EVV": 30,
+      "SPI": 35,
+      "BMI": 61,
+      "ELP": 114,
+      "GSP": 57,
+      "JLN": 61,
+      "BIS": 30,
+      "CMI": 30,
+      "JAC": 35,
+      "MTJ": 4
+    },
+    "square": {
+      "x": 279.62800000000004,
+      "y": 164.90646258503403,
+      "s": 41.38113309840065
+    }
+  },
+  "LAX": {
+    "iata": "LAX",
+    "airportString": "Los Angeles International Airport",
+    "lat": 33.94254,
+    "lng": -118.40807,
+    "outboundFlightCounts": {
+      "all": 17340,
+      "PBI": 18,
+      "MIA": 269,
+      "CLT": 174,
+      "MSP": 248,
+      "IAH": 333,
+      "DEN": 494,
+      "DFW": 619,
+      "ORD": 645,
+      "SEA": 528,
+      "ATL": 377,
+      "EWR": 357,
+      "SFO": 1098,
+      "STL": 115,
+      "JFK": 1143,
+      "LAS": 928,
+      "PHL": 162,
+      "AUS": 240,
+      "PHX": 673,
+      "PDX": 160,
+      "BOS": 269,
+      "DTW": 180,
+      "SLC": 559,
+      "HNL": 451,
+      "BNA": 132,
+      "CLD": 203,
+      "IAD": 294,
+      "SMF": 546,
+      "DAL": 208,
+      "SAN": 555,
+      "MCO": 199,
+      "SAT": 144,
+      "TUS": 247,
+      "JAC": 38,
+      "ASE": 132,
+      "RDU": 50,
+      "BZN": 8,
+      "DCA": 92,
+      "OGG": 226,
+      "BOI": 73,
+      "EGE": 30,
+      "ELP": 100,
+      "BWI": 35,
+      "KOA": 106,
+      "MCI": 63,
+      "MRY": 153,
+      "RNO": 157,
+      "COS": 59,
+      "LIH": 110,
+      "ABQ": 151,
+      "MDW": 151,
+      "FAT": 271,
+      "HOU": 142,
+      "PSP": 152,
+      "SJC": 581,
+      "SBA": 149,
+      "FLL": 166,
+      "SAF": 18,
+      "MKE": 26,
+      "CMH": 50,
+      "OAK": 572,
+      "SBP": 184,
+      "IND": 46,
+      "PIT": 17,
+      "EUG": 53,
+      "TPA": 53,
+      "CVG": 33,
+      "MSY": 162,
+      "SMX": 59,
+      "HDN": 17,
+      "ICT": 29,
+      "CLE": 35,
+      "ITO": 12,
+      "RDM": 22,
+      "MEM": 28,
+      "OKC": 27,
+      "GEG": 30,
+      "ANC": 18,
+      "MTJ": 8
+    },
+    "square": {
+      "x": 65.91930000000005,
+      "y": 154.43637454981993,
+      "s": 33.50230414746544
+    }
+  },
+  "DEN": {
+    "iata": "DEN",
+    "airportString": "Denver International Airport",
+    "lat": 39.85841,
+    "lng": -104.667,
+    "outboundFlightCounts": {
+      "all": 17090,
+      "ATL": 382,
+      "MIA": 173,
+      "DFW": 533,
+      "LAX": 474,
+      "PHX": 664,
+      "IAH": 471,
+      "ORD": 455,
+      "SEA": 358,
+      "DTW": 194,
+      "MSP": 427,
+      "MCO": 249,
+      "CAK": 30,
+      "LGA": 239,
+      "PDX": 245,
+      "DCA": 121,
+      "EWR": 231,
+      "SFO": 438,
+      "COS": 209,
+      "GJT": 64,
+      "BZN": 79,
+      "SNA": 306,
+      "PUB": 52,
+      "SAN": 314,
+      "SAT": 145,
+      "RSW": 61,
+      "LAS": 523,
+      "STL": 159,
+      "BIL": 90,
+      "TUS": 190,
+      "MTJ": 61,
+      "BOI": 185,
+      "CLT": 143,
+      "IAD": 304,
+      "SLC": 573,
+      "MDW": 242,
+      "BIS": 109,
+      "DAL": 92,
+      "MCI": 191,
+      "MSY": 133,
+      "CLE": 132,
+      "BWI": 147,
+      "PHL": 175,
+      "JMS": 47,
+      "AUS": 230,
+      "PIT": 83,
+      "MEM": 57,
+      "LNK": 61,
+      "LFT": 30,
+      "ISN": 118,
+      "MKE": 177,
+      "FCA": 40,
+      "BOS": 157,
+      "FLL": 122,
+      "MLI": 35,
+      "SDF": 62,
+      "TUL": 135,
+      "FAR": 109,
+      "SGF": 63,
+      "ASE": 169,
+      "MSO": 32,
+      "XNA": 23,
+      "HSV": 25,
+      "MAF": 87,
+      "FSD": 149,
+      "MOT": 117,
+      "GRR": 47,
+      "MSN": 80,
+      "RAP": 36,
+      "CMH": 34,
+      "IND": 133,
+      "CVG": 60,
+      "BHM": 30,
+      "BNA": 177,
+      "ONT": 111,
+      "DSM": 83,
+      "SHV": 26,
+      "TPA": 168,
+      "GTF": 67,
+      "JFK": 53,
+      "ICT": 43,
+      "LIT": 50,
+      "LBB": 62,
+      "SGU": 30,
+      "GCC": 61,
+      "SJC": 157,
+      "CPR": 111,
+      "FAT": 64,
+      "SUN": 8,
+      "BFL": 52,
+      "HYS": 52,
+      "EUG": 57,
+      "BUR": 115,
+      "GEG": 121,
+      "SMF": 195,
+      "EGE": 4,
+      "ANC": 30,
+      "SAF": 35,
+      "GUC": 34,
+      "IDA": 68,
+      "RNO": 95,
+      "JAC": 91,
+      "PSC": 62,
+      "PSP": 114,
+      "HNL": 30,
+      "OGG": 21,
+      "KOA": 8,
+      "MFR": 34,
+      "LIH": 8,
+      "OAK": 109,
+      "SBA": 60,
+      "HOU": 145,
+      "CID": 58,
+      "OMA": 219,
+      "OKC": 178,
+      "PHF": 2,
+      "RKS": 61,
+      "LAR": 61,
+      "TYS": 33,
+      "DIK": 53,
+      "ELP": 87,
+      "AMA": 55,
+      "BMI": 2,
+      "ABQ": 114,
+      "DAY": 53,
+      "JAX": 30,
+      "RDU": 30,
+      "BDL": 30,
+      "RDM": 30,
+      "COD": 30,
+      "PIA": 4,
+      "HLN": 30,
+      "PBI": 17,
+      "MDT": 1,
+      "GSO": 1,
+      "MMH": 0,
+      "DRO": 52,
+      "HDN": 0
+    },
+    "square": {
+      "x": 203.32999999999998,
+      "y": 95.25400160064028,
+      "s": 33.16345893195988
+    }
+  },
+  "IAH": {
+    "iata": "IAH",
+    "airportString": "George Bush Intercontinental Airport",
+    "lat": 29.98047,
+    "lng": -95.33972,
+    "outboundFlightCounts": {
+      "all": 13376,
+      "MIA": 282,
+      "PHX": 301,
+      "SFO": 292,
+      "ORD": 366,
+      "DFW": 436,
+      "CLT": 361,
+      "LAS": 258,
+      "BWI": 51,
+      "DTW": 202,
+      "CMH": 61,
+      "MCO": 240,
+      "IAD": 127,
+      "ATL": 332,
+      "EWR": 305,
+      "GPT": 123,
+      "LAX": 355,
+      "DEN": 426,
+      "IND": 62,
+      "AUS": 139,
+      "SAN": 179,
+      "SDF": 58,
+      "MAF": 231,
+      "LGA": 228,
+      "SNA": 130,
+      "BNA": 120,
+      "PNS": 117,
+      "MCI": 140,
+      "GJT": 4,
+      "ASE": 71,
+      "VPS": 66,
+      "OMA": 116,
+      "HRL": 112,
+      "MFE": 221,
+      "TUS": 120,
+      "LFT": 217,
+      "COS": 92,
+      "ABQ": 87,
+      "ELP": 167,
+      "DAL": 199,
+      "LRD": 84,
+      "SAT": 233,
+      "ONT": 35,
+      "CRP": 193,
+      "HNL": 30,
+      "RNO": 4,
+      "SEA": 181,
+      "SJC": 26,
+      "SLC": 177,
+      "ISN": 30,
+      "PSP": 35,
+      "BFL": 56,
+      "BTR": 186,
+      "JAN": 159,
+      "DCA": 148,
+      "LIT": 140,
+      "TPA": 138,
+      "CVG": 110,
+      "CHS": 47,
+      "TUL": 200,
+      "GSP": 34,
+      "HSV": 78,
+      "RDU": 98,
+      "MSY": 249,
+      "FLL": 177,
+      "PHL": 163,
+      "SJU": 40,
+      "RSW": 53,
+      "BZN": 8,
+      "CLE": 141,
+      "SAV": 35,
+      "HOB": 48,
+      "JAC": 8,
+      "MOB": 132,
+      "BRO": 113,
+      "GUC": 4,
+      "HDN": 32,
+      "MTJ": 29,
+      "EGE": 30,
+      "BHM": 136,
+      "RIC": 56,
+      "XNA": 86,
+      "LCH": 85,
+      "CLL": 52,
+      "TYR": 42,
+      "CRW": 26,
+      "MKE": 88,
+      "LEX": 26,
+      "MEM": 133,
+      "BOS": 130,
+      "GRR": 30,
+      "TYS": 61,
+      "MSP": 111,
+      "PIT": 56,
+      "ORF": 26,
+      "CAE": 30,
+      "JAX": 61,
+      "SHV": 137,
+      "MLU": 52,
+      "AMA": 80,
+      "LBB": 87,
+      "GRK": 54,
+      "DSM": 53,
+      "AEX": 79,
+      "ICT": 77,
+      "BOI": 30,
+      "OKC": 91,
+      "PDX": 55,
+      "SMF": 52,
+      "PBI": 34,
+      "STL": 72
+    },
+    "square": {
+      "x": 296.60279999999995,
+      "y": 194.07292917166868,
+      "s": 28.129574410409326
+    }
+  },
+  "PHX": {
+    "iata": "PHX",
+    "airportString": "Phoenix Sky Harbor International Airport",
+    "lat": 33.43417,
+    "lng": -112.00806,
+    "outboundFlightCounts": {
+      "all": 13122,
+      "ORD": 404,
+      "MIA": 65,
+      "DFW": 407,
+      "CLT": 237,
+      "DTW": 200,
+      "IAH": 299,
+      "SLC": 547,
+      "SEA": 524,
+      "ATL": 326,
+      "DEN": 660,
+      "BWI": 119,
+      "MSP": 381,
+      "MDW": 178,
+      "LAX": 675,
+      "SFO": 415,
+      "DAL": 123,
+      "PDX": 252,
+      "JFK": 181,
+      "IAD": 30,
+      "HOU": 123,
+      "HNL": 94,
+      "PHL": 225,
+      "SJC": 275,
+      "YUM": 165,
+      "SNA": 351,
+      "SAN": 469,
+      "OGG": 50,
+      "LAS": 509,
+      "PSP": 150,
+      "EWR": 197,
+      "STL": 173,
+      "DCA": 88,
+      "FLG": 141,
+      "FLL": 87,
+      "AUS": 138,
+      "GJT": 89,
+      "ABQ": 222,
+      "TUS": 67,
+      "DRO": 69,
+      "MCO": 126,
+      "TPA": 92,
+      "MCI": 167,
+      "ELP": 150,
+      "BOS": 119,
+      "PIT": 88,
+      "OMA": 118,
+      "LIT": 30,
+      "RDU": 4,
+      "SAT": 89,
+      "SDF": 30,
+      "IND": 114,
+      "CMH": 88,
+      "MSY": 31,
+      "MKE": 115,
+      "SMF": 280,
+      "BOI": 96,
+      "OAK": 232,
+      "RNO": 138,
+      "BFL": 58,
+      "BNA": 57,
+      "SBA": 92,
+      "ONT": 257,
+      "GEG": 66,
+      "LIH": 32,
+      "CLE": 79,
+      "KOA": 34,
+      "BUR": 168,
+      "OKC": 57,
+      "TUL": 58,
+      "MRY": 49,
+      "FAT": 61,
+      "SBP": 78,
+      "BUF": 30,
+      "ANC": 37,
+      "CVG": 12,
+      "MTJ": 8,
+      "DSM": 0
+    },
+    "square": {
+      "x": 129.9194,
+      "y": 159.5221088435374,
+      "s": 27.78530767145568
+    }
+  },
+  "SFO": {
+    "iata": "SFO",
+    "airportString": "San Francisco International Airport",
+    "lat": 37.619,
+    "lng": -122.37484,
+    "outboundFlightCounts": {
+      "all": 12891,
+      "CLT": 148,
+      "MSP": 164,
+      "DFW": 440,
+      "IAH": 289,
+      "DEN": 413,
+      "ATL": 263,
+      "ORD": 508,
+      "LAX": 1111,
+      "PHX": 406,
+      "EWR": 376,
+      "LGB": 92,
+      "SLC": 285,
+      "JFK": 735,
+      "SAN": 555,
+      "MIA": 97,
+      "SEA": 577,
+      "DTW": 87,
+      "BOI": 150,
+      "SBP": 154,
+      "LAS": 721,
+      "SMF": 214,
+      "IAD": 253,
+      "DCA": 61,
+      "BOS": 294,
+      "HNL": 151,
+      "EUG": 160,
+      "SNA": 368,
+      "FLL": 135,
+      "PHL": 183,
+      "MFR": 129,
+      "MMH": 34,
+      "CEC": 60,
+      "SBA": 211,
+      "RNO": 160,
+      "ASE": 42,
+      "PDX": 382,
+      "ONT": 185,
+      "PSP": 275,
+      "LIH": 30,
+      "BZN": 4,
+      "OGG": 102,
+      "MCO": 66,
+      "KOA": 62,
+      "MRY": 118,
+      "AUS": 185,
+      "MCI": 35,
+      "FAT": 120,
+      "STL": 65,
+      "OKC": 30,
+      "TUS": 102,
+      "BUR": 141,
+      "ABQ": 30,
+      "SUN": 24,
+      "SAT": 39,
+      "MKE": 26,
+      "DAL": 110,
+      "ACV": 148,
+      "JAC": 27,
+      "RDD": 91,
+      "CLE": 35,
+      "MDW": 56,
+      "BFL": 61,
+      "IND": 26,
+      "RDM": 60,
+      "ANC": 4,
+      "RDU": 30,
+      "COS": 4,
+      "PSC": 30,
+      "BWI": 4,
+      "PIT": 4,
+      "MSY": 30,
+      "OTH": 16,
+      "CVG": 21,
+      "MTJ": 8,
+      "HDN": 4
+    },
+    "square": {
+      "x": 26.251599999999943,
+      "y": 117.65706282513007,
+      "s": 27.472214692328546
+    }
+  },
+  "LAS": {
+    "iata": "LAS",
+    "airportString": "McCarran International Airport",
+    "lat": 36.08036,
+    "lng": -115.15233,
+    "outboundFlightCounts": {
+      "all": 11604,
+      "MSP": 223,
+      "ATL": 297,
+      "MIA": 123,
+      "MCI": 147,
+      "DFW": 432,
+      "CLT": 138,
+      "IAH": 260,
+      "HNL": 74,
+      "BWI": 124,
+      "DTW": 258,
+      "SFO": 698,
+      "SLC": 323,
+      "HOU": 119,
+      "PHX": 512,
+      "EWR": 150,
+      "ORD": 356,
+      "DEN": 524,
+      "PDX": 220,
+      "SEA": 434,
+      "JFK": 330,
+      "LGB": 89,
+      "SNA": 228,
+      "BUR": 274,
+      "LAX": 953,
+      "DAL": 123,
+      "SAT": 117,
+      "MKE": 88,
+      "BOI": 61,
+      "MDW": 213,
+      "CMH": 35,
+      "ABQ": 118,
+      "MCO": 57,
+      "OMA": 61,
+      "PHL": 204,
+      "AUS": 92,
+      "BNA": 66,
+      "GEG": 61,
+      "AMA": 30,
+      "ONT": 132,
+      "IND": 57,
+      "PIT": 34,
+      "RDU": 30,
+      "SAN": 376,
+      "TPA": 49,
+      "SJC": 259,
+      "ELP": 61,
+      "RNO": 284,
+      "OAK": 320,
+      "OKC": 61,
+      "FNT": 30,
+      "TUS": 118,
+      "MSY": 57,
+      "SMF": 228,
+      "MAF": 35,
+      "ICT": 30,
+      "CLE": 61,
+      "BOS": 71,
+      "DSM": 30,
+      "BHM": 30,
+      "BLI": 30,
+      "DCA": 30,
+      "IAD": 116,
+      "FLL": 91,
+      "LIT": 30,
+      "STL": 101,
+      "ALB": 4,
+      "LBB": 30,
+      "SDF": 30,
+      "BUF": 30,
+      "TUL": 30,
+      "ANC": 13,
+      "CVG": 32
+    },
+    "square": {
+      "x": 98.47669999999994,
+      "y": 133.0496198479392,
+      "s": 25.72783952290594
+    }
+  },
+  "MCO": {
+    "iata": "MCO",
+    "airportString": "Orlando International Airport",
+    "lat": 28.42889,
+    "lng": -81.31603,
+    "outboundFlightCounts": {
+      "all": 10083,
+      "MIA": 278,
+      "EWR": 417,
+      "LAX": 198,
+      "PHX": 127,
+      "DFW": 424,
+      "SLC": 95,
+      "MSP": 179,
+      "LGA": 361,
+      "JFK": 447,
+      "ATL": 709,
+      "IAH": 240,
+      "CLT": 268,
+      "DCA": 303,
+      "SFO": 66,
+      "DEN": 249,
+      "LAS": 57,
+      "BOS": 247,
+      "MDW": 216,
+      "HPN": 93,
+      "MDT": 21,
+      "CLE": 112,
+      "BNA": 128,
+      "DAL": 92,
+      "STL": 136,
+      "SJU": 302,
+      "ORH": 30,
+      "BUF": 128,
+      "ORD": 405,
+      "PVD": 184,
+      "IND": 123,
+      "DTW": 241,
+      "FLL": 61,
+      "BDL": 159,
+      "PHL": 439,
+      "BWI": 283,
+      "IAD": 162,
+      "AUS": 89,
+      "MKE": 128,
+      "MCI": 61,
+      "PIT": 132,
+      "ISP": 89,
+      "ALB": 87,
+      "MHT": 65,
+      "ACY": 92,
+      "FNT": 30,
+      "CAK": 57,
+      "DAY": 30,
+      "HOU": 122,
+      "BHM": 61,
+      "CMH": 114,
+      "MSY": 95,
+      "RIC": 66,
+      "RDU": 91,
+      "ILG": 16,
+      "SYR": 30,
+      "LBE": 30,
+      "SAT": 30,
+      "SWF": 30,
+      "SAN": 53,
+      "ROC": 30,
+      "CVG": 79,
+      "SDF": 34,
+      "MEM": 34,
+      "ORF": 30,
+      "GRR": 34,
+      "SEA": 39,
+      "PSE": 41,
+      "BQN": 41,
+      "TTN": 51,
+      "BMI": 8,
+      "OMA": 8,
+      "MSN": 4
+    },
+    "square": {
+      "x": 436.83970000000005,
+      "y": 209.5949379751901,
+      "s": 23.666305231770128
+    }
+  },
+  "LGA": {
+    "iata": "LGA",
+    "airportString": "LaGuardia Airport (Marine Air Terminal)",
+    "lat": 40.77724,
+    "lng": -73.87261,
+    "outboundFlightCounts": {
+      "all": 9517,
+      "DFW": 413,
+      "MIA": 611,
+      "FLL": 486,
+      "DTW": 442,
+      "ATL": 716,
+      "MSP": 187,
+      "MCO": 362,
+      "ORD": 858,
+      "PBI": 303,
+      "DAL": 249,
+      "IAH": 219,
+      "TPA": 183,
+      "DEN": 238,
+      "CLT": 309,
+      "CLE": 278,
+      "SAV": 10,
+      "RSW": 49,
+      "RDU": 247,
+      "RIC": 74,
+      "GSP": 3,
+      "MDW": 195,
+      "CAK": 50,
+      "SRQ": 34,
+      "DCA": 372,
+      "ROC": 23,
+      "MSY": 55,
+      "PHL": 17,
+      "HOU": 79,
+      "CMH": 159,
+      "TYS": 24,
+      "MYR": 61,
+      "BNA": 244,
+      "STL": 222,
+      "CHO": 53,
+      "MKE": 85,
+      "SDF": 79,
+      "GSO": 152,
+      "CHS": 30,
+      "DAY": 55,
+      "IAD": 102,
+      "XNA": 44,
+      "ORF": 69,
+      "CAE": 48,
+      "BOS": 674,
+      "BTV": 4,
+      "LIT": 25,
+      "LEX": 2,
+      "BHM": 47,
+      "JAX": 6,
+      "EYW": 0,
+      "MCI": 62,
+      "OMA": 19,
+      "MHT": 45,
+      "CVG": 21,
+      "BUF": 24,
+      "PIT": 35,
+      "SYR": 7
+    },
+    "square": {
+      "x": 511.2739,
+      "y": 86.062024809924,
+      "s": 22.899159663865547
+    }
+  },
+  "DTW": {
+    "iata": "DTW",
+    "airportString": "Detroit Metropolitan Airport",
+    "lat": 42.21206,
+    "lng": -83.34884,
+    "outboundFlightCounts": {
+      "all": 9473,
+      "LGA": 438,
+      "MIA": 120,
+      "BOS": 280,
+      "DFW": 231,
+      "ATL": 427,
+      "FLL": 239,
+      "LAS": 259,
+      "IAH": 185,
+      "PHX": 201,
+      "PBI": 37,
+      "DEN": 193,
+      "JFK": 44,
+      "RSW": 232,
+      "CLT": 301,
+      "MCO": 240,
+      "MKE": 155,
+      "TPA": 259,
+      "APN": 52,
+      "DCA": 164,
+      "SLC": 121,
+      "SEA": 151,
+      "SRQ": 7,
+      "LAN": 71,
+      "SFO": 87,
+      "ORD": 526,
+      "EWR": 269,
+      "MSY": 88,
+      "STL": 82,
+      "MSP": 220,
+      "BTV": 75,
+      "TUL": 26,
+      "GRR": 124,
+      "SAN": 47,
+      "BHM": 55,
+      "LAX": 180,
+      "BUF": 59,
+      "AVP": 49,
+      "MDT": 79,
+      "MDW": 257,
+      "GRB": 14,
+      "GSO": 46,
+      "ESC": 52,
+      "CIU": 56,
+      "MCI": 115,
+      "BDL": 101,
+      "BWI": 216,
+      "LEX": 38,
+      "BNA": 148,
+      "PHL": 163,
+      "PLN": 52,
+      "DSM": 25,
+      "RIC": 53,
+      "PVD": 70,
+      "RDU": 54,
+      "ABE": 67,
+      "OKC": 26,
+      "EVV": 74,
+      "MSN": 106,
+      "PDX": 3,
+      "PIA": 28,
+      "CVG": 13,
+      "CAK": 33,
+      "CLE": 34,
+      "SBN": 100,
+      "OMA": 46,
+      "IND": 80,
+      "CID": 80,
+      "TTN": 2,
+      "PIT": 53,
+      "IAD": 37,
+      "ORF": 17,
+      "CHA": 25,
+      "FWA": 32,
+      "TVC": 38,
+      "MBS": 37,
+      "LIT": 25,
+      "SAT": 64,
+      "ELM": 102,
+      "SAV": 2,
+      "MLI": 31,
+      "AUS": 30,
+      "SCE": 0,
+      "SJU": 4,
+      "ATW": 35,
+      "JAX": 22,
+      "MHT": 11,
+      "CMH": 1,
+      "ROC": 15,
+      "HPN": 63,
+      "ERI": 69,
+      "AZO": 71,
+      "HSV": 14,
+      "GSP": 12,
+      "DAY": 24,
+      "PWM": 3,
+      "MEM": 5,
+      "ALB": 6,
+      "SYR": 1,
+      "SDF": 0
+    },
+    "square": {
+      "x": 416.51160000000004,
+      "y": 71.70808323329332,
+      "s": 22.83952290593657
+    }
+  },
+  "CLT": {
+    "iata": "CLT",
+    "airportString": "Charlotte Douglas International Airport",
+    "lat": 35.21401,
+    "lng": -80.94313,
+    "outboundFlightCounts": {
+      "all": 9350,
+      "ORD": 442,
+      "DFW": 417,
+      "PHL": 288,
+      "MIA": 273,
+      "ATL": 587,
+      "PHX": 241,
+      "BWI": 320,
+      "IAH": 350,
+      "EWR": 387,
+      "MDW": 57,
+      "ORF": 78,
+      "MSY": 145,
+      "JFK": 236,
+      "PBI": 170,
+      "MCO": 268,
+      "MEM": 87,
+      "DTW": 300,
+      "SEA": 50,
+      "SFO": 147,
+      "RDU": 244,
+      "DEN": 143,
+      "DCA": 228,
+      "CLE": 113,
+      "TPA": 258,
+      "IND": 57,
+      "BOS": 321,
+      "SJU": 67,
+      "LAX": 174,
+      "FLL": 237,
+      "PIT": 231,
+      "LGA": 304,
+      "JAX": 204,
+      "HOU": 30,
+      "MSP": 209,
+      "LAS": 138,
+      "MCI": 130,
+      "BNA": 118,
+      "STT": 37,
+      "ALB": 61,
+      "RSW": 175,
+      "ILM": 0,
+      "AUS": 25,
+      "BDL": 132,
+      "IAD": 8,
+      "STL": 92,
+      "RIC": 109,
+      "PVD": 101,
+      "SYR": 49,
+      "BUF": 110,
+      "SAT": 30,
+      "PWM": 30,
+      "ROC": 30,
+      "SAN": 57,
+      "PDX": 15,
+      "SLC": 57,
+      "CHS": 47,
+      "TTN": 17,
+      "STX": 4,
+      "CVG": 14,
+      "MDT": 26,
+      "CMH": 14
+    },
+    "square": {
+      "x": 440.56870000000004,
+      "y": 141.71658663465385,
+      "s": 22.672811059907833
+    }
+  },
+  "MSP": {
+    "iata": "MSP",
+    "airportString": "Minneapolis-Saint Paul International Airport",
+    "lat": 44.88055,
+    "lng": -93.21692,
+    "outboundFlightCounts": {
+      "all": 8903,
+      "FLL": 88,
+      "DEN": 424,
+      "DFW": 250,
+      "ORD": 496,
+      "ATL": 417,
+      "LAX": 242,
+      "MIA": 106,
+      "CLT": 210,
+      "LAS": 224,
+      "MDW": 347,
+      "SEA": 186,
+      "PHX": 377,
+      "RSW": 143,
+      "LGA": 186,
+      "TUS": 18,
+      "PIT": 13,
+      "SFO": 164,
+      "PDX": 83,
+      "MCO": 179,
+      "DTW": 220,
+      "IAD": 35,
+      "SLC": 148,
+      "MSY": 28,
+      "BWI": 54,
+      "SMF": 26,
+      "DSM": 11,
+      "JAC": 7,
+      "OMA": 105,
+      "CVG": 43,
+      "TPA": 140,
+      "ROC": 1,
+      "ISN": 107,
+      "CLE": 63,
+      "ABQ": 6,
+      "TUL": 4,
+      "SDF": 0,
+      "DLH": 57,
+      "FSD": 143,
+      "BOS": 150,
+      "SAN": 82,
+      "DIK": 55,
+      "EWR": 110,
+      "INL": 23,
+      "MCI": 95,
+      "STL": 180,
+      "BJI": 61,
+      "IMT": 30,
+      "BNA": 99,
+      "RAP": 71,
+      "SNA": 81,
+      "IAH": 127,
+      "AUS": 17,
+      "GRB": 75,
+      "RHI": 61,
+      "HIB": 48,
+      "ABR": 61,
+      "BRD": 52,
+      "GRR": 87,
+      "BZN": 30,
+      "MKE": 164,
+      "DCA": 142,
+      "IND": 55,
+      "FAR": 134,
+      "OKC": 34,
+      "JFK": 45,
+      "SBN": 30,
+      "JAX": 5,
+      "SJC": 26,
+      "TTN": 2,
+      "BOI": 44,
+      "PHL": 174,
+      "GEG": 58,
+      "MSO": 30,
+      "ANC": 33,
+      "BIL": 33,
+      "BDL": 55,
+      "RIC": 26,
+      "CMH": 17,
+      "DAY": 19,
+      "ICT": 29,
+      "LAN": 48,
+      "RNO": 2,
+      "MSN": 60,
+      "PSP": 29,
+      "CID": 41,
+      "BIS": 137,
+      "RST": 39,
+      "SAT": 26,
+      "CWA": 0,
+      "SJU": 6,
+      "EGE": 0,
+      "ATW": 36,
+      "ASE": 5,
+      "MEM": 24,
+      "MOT": 49,
+      "MBS": 2,
+      "GFK": 49,
+      "XNA": 17,
+      "AZO": 15,
+      "RDU": 25,
+      "BMI": 22,
+      "MLI": 11,
+      "LSE": 11,
+      "FNT": 17,
+      "LNK": 17,
+      "FCA": 8
+    },
+    "square": {
+      "x": 317.83079999999995,
+      "y": 45.01250500200082,
+      "s": 22.0669558145839
+    }
+  },
+  "BOS": {
+    "iata": "BOS",
+    "airportString": "Gen. Edward Lawrence Logan International Airport",
+    "lat": 42.36435,
+    "lng": -71.00518,
+    "outboundFlightCounts": {
+      "all": 8837,
+      "MYR": 30,
+      "MIA": 216,
+      "BWI": 364,
+      "DTW": 278,
+      "PBI": 198,
+      "JFK": 471,
+      "BUF": 87,
+      "EWR": 315,
+      "DFW": 235,
+      "ORD": 485,
+      "LAX": 271,
+      "MSP": 153,
+      "ATL": 386,
+      "PHL": 470,
+      "DCA": 670,
+      "PHX": 120,
+      "CLT": 319,
+      "IAD": 125,
+      "FLL": 208,
+      "RIC": 192,
+      "PIT": 95,
+      "IAH": 132,
+      "SAN": 79,
+      "JAX": 81,
+      "HOU": 88,
+      "AUS": 30,
+      "TPA": 99,
+      "STT": 39,
+      "DEN": 160,
+      "MCO": 247,
+      "SFO": 293,
+      "RSW": 190,
+      "LAS": 70,
+      "RDU": 120,
+      "SAV": 30,
+      "SJU": 103,
+      "SRQ": 30,
+      "CLE": 72,
+      "CHS": 30,
+      "MDW": 87,
+      "SEA": 102,
+      "SLC": 36,
+      "MSY": 30,
+      "BNA": 30,
+      "MKE": 49,
+      "LGB": 18,
+      "PDX": 22,
+      "SJC": 3,
+      "STL": 53,
+      "MCI": 48,
+      "CAK": 26,
+      "LGA": 675,
+      "CVG": 24
+    },
+    "square": {
+      "x": 539.9482,
+      "y": 70.18457382953181,
+      "s": 21.97750067769043
+    }
+  },
+  "EWR": {
+    "iata": "EWR",
+    "airportString": "Newark Liberty International Airport",
+    "lat": 40.6925,
+    "lng": -74.16866,
+    "outboundFlightCounts": {
+      "all": 8697,
+      "MIA": 275,
+      "MCO": 419,
+      "FLL": 357,
+      "SFO": 369,
+      "CLT": 363,
+      "IAH": 307,
+      "BOS": 310,
+      "PHX": 202,
+      "DFW": 236,
+      "ATL": 447,
+      "JAX": 69,
+      "LAX": 352,
+      "TPA": 184,
+      "DEN": 232,
+      "SEA": 115,
+      "PBI": 282,
+      "SJU": 110,
+      "MDW": 165,
+      "DAY": 57,
+      "RDU": 31,
+      "CLE": 138,
+      "RSW": 131,
+      "SYR": 33,
+      "MEM": 79,
+      "CHS": 70,
+      "LAS": 151,
+      "CMH": 106,
+      "ORD": 261,
+      "SAN": 85,
+      "SNA": 56,
+      "JAC": 8,
+      "HNL": 30,
+      "DTW": 259,
+      "STT": 39,
+      "BNA": 185,
+      "MSY": 74,
+      "IAD": 108,
+      "IND": 126,
+      "EGE": 30,
+      "STL": 181,
+      "SAV": 39,
+      "MCI": 84,
+      "AUS": 60,
+      "MKE": 85,
+      "HOU": 79,
+      "SLC": 30,
+      "PVD": 57,
+      "AVL": 4,
+      "CVG": 126,
+      "XNA": 23,
+      "MSN": 28,
+      "GSO": 82,
+      "MSP": 111,
+      "GSP": 57,
+      "GRR": 48,
+      "SDF": 52,
+      "RIC": 86,
+      "OMA": 50,
+      "DCA": 135,
+      "PDX": 29,
+      "TYS": 26,
+      "SAT": 4,
+      "SBN": 30,
+      "TUL": 3,
+      "DSM": 3,
+      "BQN": 23,
+      "BDL": 3,
+      "BUF": 29,
+      "ROC": 33,
+      "BWI": 2,
+      "ALB": 2,
+      "HDN": 4,
+      "BZN": 6,
+      "MTJ": 2,
+      "ORF": 50,
+      "PWM": 4,
+      "BTV": 7,
+      "PIT": 41,
+      "AVP": 1,
+      "MHT": 47
+    },
+    "square": {
+      "x": 508.31339999999994,
+      "y": 86.90976390556223,
+      "s": 21.78774735700732
+    }
+  },
+  "SLC": {
+    "iata": "SLC",
+    "airportString": "Salt Lake City International Airport",
+    "lat": 40.78839,
+    "lng": -111.97777,
+    "outboundFlightCounts": {
+      "all": 8635,
+      "ATL": 221,
+      "IAH": 176,
+      "DFW": 259,
+      "LAX": 559,
+      "DEN": 599,
+      "SJC": 160,
+      "PHX": 544,
+      "MSP": 153,
+      "DTW": 122,
+      "SFO": 258,
+      "ORD": 230,
+      "PDX": 202,
+      "LAS": 324,
+      "MDW": 65,
+      "CDC": 52,
+      "SAN": 202,
+      "CLT": 57,
+      "JFK": 169,
+      "STL": 9,
+      "EWR": 30,
+      "BZN": 88,
+      "OKC": 35,
+      "CNY": 53,
+      "BIL": 96,
+      "OAK": 201,
+      "TUS": 87,
+      "CVG": 33,
+      "FCA": 73,
+      "BTM": 61,
+      "FAR": 23,
+      "SEA": 256,
+      "PHL": 64,
+      "GEG": 101,
+      "RNO": 87,
+      "EUG": 56,
+      "HLN": 78,
+      "CPR": 54,
+      "PIH": 60,
+      "BOI": 116,
+      "VEL": 52,
+      "RDM": 49,
+      "SUN": 64,
+      "PSC": 85,
+      "COD": 30,
+      "PSP": 64,
+      "LGB": 196,
+      "SMF": 117,
+      "GCC": 30,
+      "EKO": 60,
+      "IDA": 119,
+      "JAC": 87,
+      "SNA": 136,
+      "BWI": 78,
+      "FAT": 60,
+      "MSO": 68,
+      "MFR": 56,
+      "HNL": 30,
+      "GJT": 56,
+      "SGU": 115,
+      "COS": 56,
+      "TWF": 61,
+      "OMA": 57,
+      "MCO": 95,
+      "BUR": 62,
+      "GTF": 77,
+      "ONT": 86,
+      "ABQ": 82,
+      "BNA": 32,
+      "DCA": 56,
+      "RKS": 29,
+      "SAT": 32,
+      "TUL": 25,
+      "LWS": 52,
+      "BOS": 36,
+      "MSY": 30,
+      "RAP": 29,
+      "AUS": 32,
+      "MSN": 17,
+      "DSM": 2,
+      "MCI": 42
+    },
+    "square": {
+      "x": 130.22229999999993,
+      "y": 85.95048019207685,
+      "s": 21.70371374356194
+    }
+  },
+  "JFK": {
+    "iata": "JFK",
+    "airportString": "John F. Kennedy International Airport (New York International Airport)",
+    "lat": 40.63975,
+    "lng": -73.77893,
+    "outboundFlightCounts": {
+      "all": 8456,
+      "SJU": 417,
+      "MIA": 326,
+      "BQN": 35,
+      "PBI": 226,
+      "MCO": 446,
+      "TPA": 250,
+      "ATL": 154,
+      "SFO": 735,
+      "FLL": 463,
+      "PHX": 181,
+      "LAX": 1143,
+      "RSW": 159,
+      "MSY": 104,
+      "LAS": 329,
+      "BOS": 474,
+      "BUF": 175,
+      "RDU": 185,
+      "IAD": 87,
+      "SRQ": 30,
+      "CHS": 61,
+      "SAV": 61,
+      "ORD": 123,
+      "STT": 54,
+      "JAX": 65,
+      "MSP": 50,
+      "CLT": 237,
+      "HOU": 34,
+      "AUS": 138,
+      "HNL": 38,
+      "DFW": 35,
+      "SEA": 148,
+      "DTW": 39,
+      "DCA": 184,
+      "SAN": 115,
+      "BTV": 91,
+      "ROC": 92,
+      "SLC": 169,
+      "SYR": 92,
+      "PWM": 87,
+      "LGB": 49,
+      "CLE": 30,
+      "CVG": 30,
+      "CMH": 61,
+      "IND": 30,
+      "ORF": 30,
+      "BWI": 30,
+      "OAK": 18,
+      "BNA": 30,
+      "EGE": 30,
+      "BUR": 30,
+      "SAT": 1,
+      "SJC": 18,
+      "PDX": 52,
+      "SMF": 18,
+      "ABQ": 20,
+      "DEN": 53,
+      "PSE": 30,
+      "JAC": 1,
+      "PSP": 4
+    },
+    "square": {
+      "x": 512.2107,
+      "y": 87.43747498999602,
+      "s": 21.461100569259962
+    }
+  },
+  "SEA": {
+    "iata": "SEA",
+    "airportString": "Seattle-Tacoma International Airport",
+    "lat": 47.44898,
+    "lng": -122.30931,
+    "outboundFlightCounts": {
+      "all": 8427,
+      "ANC": 473,
+      "MSP": 185,
+      "MIA": 35,
+      "PHX": 525,
+      "DEN": 357,
+      "IAH": 182,
+      "DFW": 290,
+      "EWR": 119,
+      "SJC": 343,
+      "OAK": 273,
+      "SFO": 570,
+      "LAS": 432,
+      "IAD": 39,
+      "LAX": 531,
+      "SNA": 187,
+      "ORD": 240,
+      "MDW": 57,
+      "ATL": 186,
+      "PHL": 63,
+      "SAN": 280,
+      "SLC": 257,
+      "PSP": 88,
+      "SMF": 223,
+      "DTW": 151,
+      "PDX": 174,
+      "JFK": 148,
+      "ONT": 63,
+      "JNU": 61,
+      "KTN": 92,
+      "BUR": 92,
+      "GEG": 281,
+      "MCO": 40,
+      "DCA": 57,
+      "BWI": 30,
+      "HNL": 148,
+      "TPA": 30,
+      "LIH": 61,
+      "FLL": 30,
+      "FAT": 63,
+      "OGG": 123,
+      "BOS": 102,
+      "MKE": 26,
+      "TUS": 35,
+      "MCI": 30,
+      "KOA": 61,
+      "MSY": 30,
+      "ABQ": 61,
+      "OMA": 30,
+      "SAT": 30,
+      "LGB": 70,
+      "STL": 30,
+      "AUS": 30,
+      "CLT": 50,
+      "FAI": 92,
+      "SBA": 30,
+      "COS": 30,
+      "BLI": 30,
+      "CVG": 3,
+      "JAC": 4,
+      "BZN": 1,
+      "HDN": 12
+    },
+    "square": {
+      "x": 26.906900000000036,
+      "y": 19.317927170868384,
+      "s": 21.421794524261315
+    }
+  },
+  "FLL": {
+    "iata": "FLL",
+    "airportString": "Fort Lauderdale-Hollywood International Airport",
+    "lat": 26.07258,
+    "lng": -80.15275,
+    "outboundFlightCounts": {
+      "all": 7187,
+      "BDL": 101,
+      "LGA": 486,
+      "JFK": 465,
+      "EWR": 360,
+      "IAH": 178,
+      "CLT": 237,
+      "BOS": 210,
+      "LAS": 92,
+      "ATL": 668,
+      "DFW": 260,
+      "ORD": 248,
+      "MCO": 61,
+      "BWI": 363,
+      "JAX": 61,
+      "MSP": 88,
+      "DTW": 238,
+      "DEN": 123,
+      "HOU": 61,
+      "ACY": 92,
+      "SJU": 268,
+      "BNA": 65,
+      "MSY": 91,
+      "PVD": 87,
+      "TPA": 181,
+      "PHX": 87,
+      "PHL": 217,
+      "DCA": 213,
+      "CLE": 66,
+      "BUF": 69,
+      "DAL": 61,
+      "SFO": 133,
+      "MDW": 97,
+      "ISP": 65,
+      "CVG": 47,
+      "IND": 34,
+      "ALB": 34,
+      "MCI": 30,
+      "LAX": 166,
+      "HPN": 61,
+      "MKE": 53,
+      "SWF": 30,
+      "TTN": 26,
+      "RDU": 61,
+      "STT": 30,
+      "LBE": 30,
+      "AUS": 61,
+      "ORH": 30,
+      "STL": 66,
+      "CMH": 30,
+      "PIT": 65,
+      "SEA": 30,
+      "MYR": 30,
+      "RIC": 30,
+      "IAD": 22,
+      "PBG": 30,
+      "IAG": 30,
+      "BQN": 12
+    },
+    "square": {
+      "x": 448.4725,
+      "y": 233.16746698679475,
+      "s": 19.741122255353755
+    }
+  },
+  "BWI": {
+    "iata": "BWI",
+    "airportString": "Baltimore-Washington International Airport",
+    "lat": 39.1754,
+    "lng": -76.6682,
+    "outboundFlightCounts": {
+      "all": 6921,
+      "MIA": 98,
+      "DTW": 217,
+      "MSP": 55,
+      "ORD": 166,
+      "CLT": 321,
+      "FLL": 365,
+      "MCO": 285,
+      "DFW": 149,
+      "HOU": 85,
+      "LAS": 128,
+      "PHX": 118,
+      "SLC": 78,
+      "ATL": 456,
+      "TPA": 189,
+      "IAH": 51,
+      "BOS": 364,
+      "STL": 90,
+      "DEN": 147,
+      "ABQ": 30,
+      "MEM": 30,
+      "RSW": 149,
+      "CHS": 85,
+      "PBI": 95,
+      "DAL": 92,
+      "JAX": 89,
+      "AUS": 57,
+      "SAN": 57,
+      "MCI": 54,
+      "BHM": 57,
+      "ISP": 128,
+      "PIT": 84,
+      "PWM": 66,
+      "ROC": 58,
+      "DAY": 82,
+      "MHT": 159,
+      "LAX": 35,
+      "SAT": 54,
+      "MKE": 61,
+      "BDL": 174,
+      "MDW": 166,
+      "RDU": 152,
+      "SJU": 60,
+      "BUF": 150,
+      "ECP": 4,
+      "CMH": 113,
+      "PVD": 185,
+      "ALB": 123,
+      "ORF": 88,
+      "SDF": 79,
+      "OKC": 30,
+      "JFK": 30,
+      "BNA": 165,
+      "CLE": 94,
+      "IND": 84,
+      "MSY": 64,
+      "SEA": 30,
+      "LIT": 26,
+      "FNT": 35,
+      "GRR": 57,
+      "GSP": 30,
+      "SFO": 4,
+      "EWR": 2,
+      "PHL": 3,
+      "OAK": 25
+    },
+    "square": {
+      "x": 483.31800000000004,
+      "y": 102.08683473389354,
+      "s": 19.38059094605584
+    }
+  },
+  "MDW": {
+    "iata": "MDW",
+    "airportString": "Chicago Midway International Airport",
+    "lat": 41.78598,
+    "lng": -87.75242,
+    "outboundFlightCounts": {
+      "all": 6749,
+      "PHX": 178,
+      "DAL": 181,
+      "TPA": 120,
+      "MCO": 216,
+      "DEN": 237,
+      "ATL": 390,
+      "LAS": 216,
+      "BHM": 56,
+      "DCA": 266,
+      "OAK": 61,
+      "SFO": 57,
+      "SLC": 63,
+      "SAN": 88,
+      "LGA": 192,
+      "SEA": 57,
+      "MCI": 220,
+      "FLL": 97,
+      "DTW": 257,
+      "HOU": 151,
+      "OKC": 34,
+      "BNA": 176,
+      "ABQ": 56,
+      "MSY": 65,
+      "EWR": 164,
+      "CMH": 138,
+      "PVD": 65,
+      "BUF": 66,
+      "MHT": 63,
+      "LAX": 150,
+      "CLT": 57,
+      "PHL": 163,
+      "MSP": 345,
+      "SMF": 30,
+      "STL": 192,
+      "SDF": 84,
+      "MEM": 54,
+      "SAT": 57,
+      "OMA": 146,
+      "BOS": 87,
+      "BWI": 164,
+      "PIT": 142,
+      "RDU": 84,
+      "ALB": 61,
+      "CLE": 142,
+      "ORF": 30,
+      "LIT": 29,
+      "BDL": 65,
+      "IAD": 61,
+      "JAX": 30,
+      "RSW": 99,
+      "AUS": 61,
+      "GSP": 61,
+      "CHS": 30,
+      "TUL": 30,
+      "TUS": 30,
+      "PDX": 30,
+      "ICT": 53,
+      "SJC": 30,
+      "ONT": 30,
+      "ROC": 56,
+      "DSM": 57,
+      "TTN": 13,
+      "RNO": 3
+    },
+    "square": {
+      "x": 372.47579999999994,
+      "y": 75.97058823529412,
+      "s": 19.147465437788018
+    }
+  },
+  "MIA": {
+    "iata": "MIA",
+    "airportString": "Miami International Airport",
+    "lat": 25.79325,
+    "lng": -80.29056,
+    "outboundFlightCounts": {
+      "all": 6695,
+      "PHL": 243,
+      "DFW": 345,
+      "LGA": 613,
+      "EWR": 274,
+      "ATL": 429,
+      "CLT": 273,
+      "ORD": 388,
+      "DCA": 283,
+      "DEN": 176,
+      "LAS": 123,
+      "IAH": 281,
+      "BOS": 216,
+      "TPA": 190,
+      "LAX": 271,
+      "JFK": 326,
+      "SJU": 216,
+      "SFO": 97,
+      "MCO": 278,
+      "DTW": 120,
+      "EGE": 30,
+      "RDU": 97,
+      "PHX": 66,
+      "EYW": 105,
+      "PNS": 92,
+      "BWI": 97,
+      "CMH": 61,
+      "ORF": 60,
+      "CHS": 64,
+      "CVG": 61,
+      "TLH": 97,
+      "MSY": 28,
+      "STT": 83,
+      "MSP": 106,
+      "IAD": 71,
+      "STX": 49,
+      "STL": 61,
+      "BHM": 61,
+      "MEM": 30,
+      "SEA": 35,
+      "BDL": 30,
+      "SAN": 30,
+      "GSO": 30,
+      "RIC": 4,
+      "BNA": 4,
+      "GNV": 51,
+      "TUL": 4
+    },
+    "square": {
+      "x": 447.0944,
+      "y": 235.96188475390156,
+      "s": 19.074274871238817
+    }
+  },
+  "DCA": {
+    "iata": "DCA",
+    "airportString": "Ronald Reagan Washington National Airport",
+    "lat": 38.85208,
+    "lng": -77.03772,
+    "outboundFlightCounts": {
+      "all": 6683,
+      "IAH": 148,
+      "DFW": 290,
+      "BOS": 675,
+      "MIA": 283,
+      "FLL": 213,
+      "DTW": 164,
+      "JFK": 184,
+      "MSP": 143,
+      "CLT": 233,
+      "DAL": 261,
+      "PHX": 88,
+      "MCO": 302,
+      "ATL": 560,
+      "DEN": 121,
+      "BNA": 88,
+      "ORD": 465,
+      "PBI": 99,
+      "SEA": 57,
+      "SJU": 30,
+      "LAS": 30,
+      "SFO": 61,
+      "LAX": 92,
+      "BDL": 61,
+      "TPA": 242,
+      "MSY": 61,
+      "JAX": 61,
+      "MKE": 89,
+      "MDW": 266,
+      "CLE": 119,
+      "HOU": 113,
+      "IND": 61,
+      "RSW": 121,
+      "STL": 87,
+      "CHS": 57,
+      "LGA": 372,
+      "SLC": 55,
+      "EWR": 136,
+      "PHL": 31,
+      "MCI": 30,
+      "PDX": 30,
+      "AUS": 30,
+      "CAK": 30,
+      "PIT": 0,
+      "BTR": 0
+    },
+    "square": {
+      "x": 479.62280000000004,
+      "y": 105.32132853141258,
+      "s": 19.05801030089455
+    }
+  },
+  "SAN": {
+    "iata": "SAN",
+    "airportString": "San Diego International Airport (Lindbergh Field)",
+    "lat": 32.73356,
+    "lng": -117.18966,
+    "outboundFlightCounts": {
+      "all": 6086,
+      "SLC": 202,
+      "LAX": 560,
+      "BWI": 54,
+      "MDW": 85,
+      "DEN": 332,
+      "EWR": 84,
+      "DFW": 308,
+      "ATL": 178,
+      "PHX": 471,
+      "SEA": 280,
+      "PDX": 158,
+      "MSP": 81,
+      "JFK": 115,
+      "IAH": 149,
+      "OGG": 30,
+      "DTW": 48,
+      "DAL": 61,
+      "SJC": 257,
+      "IAD": 88,
+      "SFO": 566,
+      "HOU": 61,
+      "AUS": 57,
+      "PHL": 66,
+      "LAS": 374,
+      "BOS": 79,
+      "ORD": 159,
+      "MCO": 53,
+      "LIH": 13,
+      "HNL": 57,
+      "SMF": 244,
+      "OAK": 316,
+      "CLT": 57,
+      "BNA": 30,
+      "MSY": 30,
+      "MCI": 30,
+      "BOI": 30,
+      "SAT": 56,
+      "TUS": 79,
+      "RNO": 60,
+      "ABQ": 53,
+      "MIA": 30,
+      "CVG": 3
+    },
+    "square": {
+      "x": 78.10339999999997,
+      "y": 166.531012404962,
+      "s": 18.24884792626728
+    }
+  },
+  "TPA": {
+    "iata": "TPA",
+    "airportString": "Tampa International Airport",
+    "lat": 27.97547,
+    "lng": -82.53325,
+    "outboundFlightCounts": {
+      "all": 5970,
+      "EWR": 183,
+      "DFW": 241,
+      "JFK": 251,
+      "BOS": 100,
+      "ATL": 584,
+      "DEN": 168,
+      "ORD": 238,
+      "LGA": 184,
+      "CLT": 263,
+      "BWI": 189,
+      "DTW": 259,
+      "PHX": 92,
+      "LAX": 53,
+      "MIA": 190,
+      "DCA": 243,
+      "MSP": 140,
+      "HOU": 92,
+      "FLL": 176,
+      "CLE": 72,
+      "SJU": 97,
+      "BNA": 112,
+      "IAD": 104,
+      "IAH": 137,
+      "MSY": 85,
+      "STL": 61,
+      "IND": 70,
+      "PVD": 60,
+      "PHL": 233,
+      "CAK": 30,
+      "CMH": 65,
+      "CVG": 24,
+      "AUS": 30,
+      "BDL": 96,
+      "BUF": 62,
+      "DAL": 61,
+      "FNT": 30,
+      "MDW": 119,
+      "PIT": 61,
+      "MHT": 34,
+      "LAS": 49,
+      "MCI": 30,
+      "RDU": 85,
+      "ROC": 30,
+      "HPN": 30,
+      "BHM": 57,
+      "MEM": 30,
+      "SAT": 26,
+      "ACY": 30,
+      "MKE": 60,
+      "SEA": 30,
+      "ISP": 30,
+      "SDF": 34,
+      "ALB": 34,
+      "ILG": 8,
+      "LBE": 17,
+      "TTN": 19,
+      "GRR": 25
+    },
+    "square": {
+      "x": 424.6675,
+      "y": 214.13095238095238,
+      "s": 18.091623746272703
+    }
+  },
+  "PHL": {
+    "iata": "PHL",
+    "airportString": "Philadelphia International Airport",
+    "lat": 39.87195,
+    "lng": -75.24114,
+    "outboundFlightCounts": {
+      "all": 5767,
+      "IAH": 163,
+      "MCO": 438,
+      "ATL": 551,
+      "DFW": 367,
+      "CLT": 260,
+      "PHX": 219,
+      "FLL": 213,
+      "LAS": 203,
+      "SLC": 64,
+      "ORD": 325,
+      "MIA": 243,
+      "DEN": 176,
+      "BOS": 470,
+      "MSP": 174,
+      "SJU": 101,
+      "DTW": 163,
+      "STT": 25,
+      "BNA": 56,
+      "RSW": 100,
+      "TPA": 237,
+      "PBI": 153,
+      "MDW": 163,
+      "LAX": 161,
+      "PIT": 86,
+      "LGA": 22,
+      "SFO": 177,
+      "MSY": 30,
+      "SAN": 65,
+      "AUS": 18,
+      "STL": 49,
+      "DCA": 32,
+      "SEA": 62,
+      "IND": 25,
+      "SAT": 18,
+      "JAX": 24,
+      "RDU": 93,
+      "BWI": 4
+    },
+    "square": {
+      "x": 497.5886,
+      "y": 95.11854741896762,
+      "s": 17.81648143128219
+    }
+  },
+  "DAL": {
+    "iata": "DAL",
+    "airportString": "Dallas Love Field",
+    "lat": 32.84711,
+    "lng": -96.85177,
+    "outboundFlightCounts": {
+      "all": 5152,
+      "IAH": 199,
+      "MDW": 181,
+      "BWI": 92,
+      "STL": 203,
+      "LGA": 249,
+      "ATL": 246,
+      "FLL": 61,
+      "LAS": 123,
+      "PHX": 123,
+      "TUL": 85,
+      "DCA": 261,
+      "DEN": 92,
+      "MCO": 92,
+      "HOU": 604,
+      "TPA": 61,
+      "ELP": 116,
+      "LAX": 208,
+      "OKC": 88,
+      "BNA": 61,
+      "MSY": 230,
+      "ABQ": 143,
+      "SAN": 61,
+      "SNA": 30,
+      "MCI": 195,
+      "AUS": 277,
+      "MAF": 139,
+      "SAT": 282,
+      "LBB": 143,
+      "AMA": 115,
+      "SFO": 110,
+      "LIT": 91,
+      "BHM": 79,
+      "ICT": 53,
+      "OAK": 25
+    },
+    "square": {
+      "x": 281.48229999999995,
+      "y": 165.3950580232093,
+      "s": 16.98292220113852
+    }
+  },
+  "HOU": {
+    "iata": "HOU",
+    "airportString": "William P. Hobby Airport",
+    "lat": 29.64542,
+    "lng": -95.27889,
+    "outboundFlightCounts": {
+      "all": 4650,
+      "DFW": 138,
+      "ATL": 391,
+      "PHX": 120,
+      "MCO": 121,
+      "MDW": 148,
+      "HRL": 143,
+      "SAT": 123,
+      "SAN": 61,
+      "LAX": 143,
+      "DAL": 601,
+      "OAK": 54,
+      "SNA": 30,
+      "OKC": 111,
+      "LAS": 118,
+      "IND": 35,
+      "MSY": 288,
+      "PIT": 26,
+      "ECP": 30,
+      "FLL": 61,
+      "TPA": 92,
+      "ABQ": 88,
+      "CRP": 111,
+      "DEN": 146,
+      "BOS": 88,
+      "DCA": 114,
+      "AUS": 118,
+      "STL": 108,
+      "JFK": 34,
+      "EWR": 79,
+      "LGA": 79,
+      "GSP": 26,
+      "BWI": 84,
+      "ELP": 80,
+      "TUL": 83,
+      "BNA": 112,
+      "CLT": 30,
+      "MAF": 109,
+      "PNS": 30,
+      "MEM": 53,
+      "CHS": 30,
+      "JAX": 30,
+      "MCI": 56,
+      "BHM": 52,
+      "RDU": 32
+    },
+    "square": {
+      "x": 297.2111,
+      "y": 197.42476990796317,
+      "s": 16.30252100840336
+    }
+  },
+  "BNA": {
+    "iata": "BNA",
+    "airportString": "Nashville International Airport",
+    "lat": 36.12448,
+    "lng": -86.67818,
+    "outboundFlightCounts": {
+      "all": 4096,
+      "DTW": 158,
+      "ATL": 252,
+      "DFW": 231,
+      "LAX": 133,
+      "MIA": 5,
+      "CVG": 45,
+      "ORD": 295,
+      "LAS": 66,
+      "SLC": 32,
+      "CLT": 118,
+      "STL": 57,
+      "DEN": 175,
+      "MSP": 90,
+      "LGA": 244,
+      "IAH": 136,
+      "PHX": 57,
+      "CHS": 30,
+      "BWI": 167,
+      "DAL": 61,
+      "EWR": 163,
+      "BOS": 31,
+      "MCO": 127,
+      "CMH": 57,
+      "MDW": 173,
+      "SAN": 30,
+      "DCA": 87,
+      "HOU": 110,
+      "PHL": 56,
+      "JFK": 30,
+      "TPA": 114,
+      "SAT": 57,
+      "IAD": 21,
+      "MCI": 84,
+      "RDU": 90,
+      "MSY": 110,
+      "PNS": 34,
+      "JAX": 63,
+      "ECP": 30,
+      "FLL": 64,
+      "AUS": 53,
+      "CLE": 56,
+      "PIT": 30,
+      "TTN": 1,
+      "RSW": 29
+    },
+    "square": {
+      "x": 383.2182,
+      "y": 132.60824329731895,
+      "s": 15.551640010843046
+    }
+  },
+  "STL": {
+    "iata": "STL",
+    "airportString": "St. Louis International Airport at Lambert Field",
+    "lat": 38.74769,
+    "lng": -90.35999,
+    "outboundFlightCounts": {
+      "all": 4078,
+      "DFW": 243,
+      "MIA": 61,
+      "ATL": 318,
+      "LAS": 102,
+      "PHX": 175,
+      "ORD": 182,
+      "SFO": 65,
+      "CLT": 92,
+      "MDW": 193,
+      "MCO": 136,
+      "SLC": 10,
+      "LGA": 222,
+      "BWI": 90,
+      "DAL": 199,
+      "DTW": 79,
+      "BNA": 57,
+      "LAX": 115,
+      "BOS": 54,
+      "TPA": 61,
+      "EWR": 165,
+      "SAT": 57,
+      "HOU": 108,
+      "OKC": 34,
+      "TUL": 30,
+      "MSP": 176,
+      "DEN": 165,
+      "FLL": 66,
+      "RSW": 78,
+      "IAH": 49,
+      "IAD": 8,
+      "MCI": 110,
+      "OMA": 86,
+      "TTN": 2,
+      "SEA": 30,
+      "DCA": 86,
+      "CMH": 49,
+      "GRR": 26,
+      "PHL": 52,
+      "RDU": 34,
+      "MKE": 51,
+      "MSY": 60,
+      "CVG": 19,
+      "CLE": 40
+    },
+    "square": {
+      "x": 346.4001,
+      "y": 106.36564625850343,
+      "s": 15.527243155326646
+    }
+  },
+  "IAD": {
+    "iata": "IAD",
+    "airportString": "Washington Dulles International Airport",
+    "lat": 38.94453,
+    "lng": -77.45581,
+    "outboundFlightCounts": {
+      "all": 3701,
+      "IAH": 142,
+      "MSP": 34,
+      "DFW": 90,
+      "JFK": 87,
+      "CVG": 5,
+      "MIA": 71,
+      "ORD": 143,
+      "LAX": 300,
+      "SFO": 275,
+      "DEN": 285,
+      "TPA": 100,
+      "SAN": 84,
+      "SEA": 39,
+      "SJU": 17,
+      "LAS": 117,
+      "ATL": 298,
+      "MCO": 163,
+      "CLE": 71,
+      "GSO": 45,
+      "PIT": 113,
+      "STT": 20,
+      "HNL": 7,
+      "BOS": 124,
+      "BDL": 79,
+      "MDW": 61,
+      "SAV": 61,
+      "ORF": 46,
+      "PVD": 60,
+      "STL": 8,
+      "IND": 19,
+      "TYS": 16,
+      "EWR": 114,
+      "JAX": 11,
+      "CAE": 84,
+      "UST": 2,
+      "RSW": 25,
+      "RIC": 24,
+      "SDF": 4,
+      "BNA": 20,
+      "SMF": 4,
+      "MCI": 3,
+      "GRR": 3,
+      "BUF": 26,
+      "CMH": 26,
+      "TUL": 4,
+      "OKC": 4,
+      "DTW": 36,
+      "LGA": 103,
+      "FLL": 22,
+      "PDX": 4,
+      "PHX": 30,
+      "ROC": 49,
+      "MEM": 2,
+      "GSP": 5,
+      "CLT": 3,
+      "PBI": 16,
+      "CHS": 3,
+      "JAC": 0,
+      "HDN": 1,
+      "DAY": 0,
+      "RDU": 5,
+      "ROA": 3,
+      "BTV": 5,
+      "SYR": 14,
+      "HSV": 1
+    },
+    "square": {
+      "x": 475.4419,
+      "y": 104.39645858343339,
+      "s": 15.016264570344266
+    }
+  },
+  "PDX": {
+    "iata": "PDX",
+    "airportString": "Portland International Airport",
+    "lat": 45.58872,
+    "lng": -122.5975,
+    "outboundFlightCounts": {
+      "all": 3636,
+      "MSP": 83,
+      "PHX": 251,
+      "DEN": 246,
+      "EWR": 30,
+      "IAH": 55,
+      "DFW": 122,
+      "SJC": 228,
+      "ORD": 115,
+      "SAN": 159,
+      "MDW": 30,
+      "ONT": 64,
+      "LAX": 159,
+      "BUR": 83,
+      "SNA": 82,
+      "SFO": 381,
+      "SEA": 175,
+      "HNL": 61,
+      "LGB": 61,
+      "JFK": 52,
+      "LAS": 220,
+      "KOA": 30,
+      "SLC": 202,
+      "BOS": 22,
+      "IAD": 4,
+      "MCI": 30,
+      "CLT": 16,
+      "TUS": 30,
+      "ANC": 71,
+      "DCA": 30,
+      "SMF": 136,
+      "OAK": 142,
+      "OGG": 57,
+      "SBA": 30,
+      "ABQ": 4,
+      "ATL": 83,
+      "PSP": 35,
+      "DTW": 3,
+      "LIH": 16
+    },
+    "square": {
+      "x": 24.025000000000034,
+      "y": 37.92797118847539,
+      "s": 14.928164814312822
+    }
+  },
+  "OAK": {
+    "iata": "OAK",
+    "airportString": "Oakland International Airport",
+    "lat": 37.72129,
+    "lng": -122.22072,
+    "outboundFlightCounts": {
+      "all": 3631,
+      "PHX": 229,
+      "LGB": 92,
+      "LAS": 320,
+      "SEA": 272,
+      "SLC": 204,
+      "LIH": 12,
+      "HOU": 54,
+      "OGG": 61,
+      "ORD": 30,
+      "LAX": 573,
+      "PDX": 146,
+      "HNL": 43,
+      "BUR": 342,
+      "MDW": 61,
+      "DEN": 108,
+      "ONT": 198,
+      "SAN": 312,
+      "SNA": 223,
+      "BOI": 61,
+      "MCI": 4,
+      "AUS": 30,
+      "ABQ": 58,
+      "DFW": 30,
+      "GEG": 53,
+      "JFK": 18,
+      "KOA": 17,
+      "ATL": 1,
+      "DAL": 25,
+      "BWI": 25
+    },
+    "square": {
+      "x": 27.792800000000003,
+      "y": 116.63375350140053,
+      "s": 14.92138791000271
+    }
+  },
+  "AUS": {
+    "iata": "AUS",
+    "airportString": "Austin-Bergstrom International Airport",
+    "lat": 30.19453,
+    "lng": -97.66987,
+    "outboundFlightCounts": {
+      "all": 3376,
+      "LAX": 236,
+      "DFW": 416,
+      "JFK": 138,
+      "SFO": 188,
+      "IAH": 154,
+      "ATL": 252,
+      "BWI": 60,
+      "LGB": 36,
+      "DEN": 219,
+      "PHL": 19,
+      "LAS": 88,
+      "DAL": 282,
+      "PHX": 138,
+      "HOU": 119,
+      "SAN": 54,
+      "ORD": 165,
+      "EWR": 58,
+      "MDW": 61,
+      "FLL": 61,
+      "MCO": 88,
+      "HRL": 30,
+      "DCA": 30,
+      "MSY": 30,
+      "CLT": 25,
+      "SLC": 32,
+      "ELP": 61,
+      "TPA": 30,
+      "BNA": 56,
+      "LBB": 26,
+      "OAK": 30,
+      "SEA": 30,
+      "BOS": 30,
+      "SJC": 53,
+      "DTW": 46,
+      "MSP": 0
+    },
+    "square": {
+      "x": 273.30129999999997,
+      "y": 191.93147258903562,
+      "s": 14.575765790187042
+    }
+  },
+  "MSY": {
+    "iata": "MSY",
+    "airportString": "Louis Armstrong New Orleans International Airport",
+    "lat": 29.99339,
+    "lng": -90.25803,
+    "outboundFlightCounts": {
+      "all": 3342,
+      "MIA": 29,
+      "JFK": 106,
+      "EWR": 73,
+      "LGA": 55,
+      "DFW": 251,
+      "ATL": 399,
+      "IAH": 253,
+      "CLT": 139,
+      "LAS": 57,
+      "DCA": 65,
+      "DEN": 133,
+      "HOU": 285,
+      "MCO": 96,
+      "TPA": 88,
+      "MSP": 28,
+      "MDW": 65,
+      "DAL": 229,
+      "DTW": 88,
+      "PHL": 30,
+      "FLL": 92,
+      "MCI": 30,
+      "LAX": 163,
+      "BNA": 113,
+      "STL": 57,
+      "PHX": 30,
+      "SAN": 30,
+      "AUS": 30,
+      "BOS": 30,
+      "SFO": 30,
+      "ORD": 107,
+      "SEA": 30,
+      "BWI": 64,
+      "SLC": 29,
+      "CMH": 0,
+      "MKE": 3
+    },
+    "square": {
+      "x": 347.4196999999999,
+      "y": 193.9436774709884,
+      "s": 14.529682840878287
+    }
+  },
+  "SJC": {
+    "iata": "SJC",
+    "airportString": "Norman Y. Mineta San José International Airport",
+    "lat": 37.36186,
+    "lng": -121.92901,
+    "outboundFlightCounts": {
+      "all": 3334,
+      "SLC": 160,
+      "PHX": 275,
+      "DFW": 141,
+      "MSP": 27,
+      "LAS": 262,
+      "SEA": 343,
+      "PDX": 226,
+      "LAX": 581,
+      "ORD": 34,
+      "OGG": 61,
+      "ONT": 114,
+      "DEN": 155,
+      "AUS": 57,
+      "SNA": 246,
+      "KOA": 12,
+      "HNL": 48,
+      "SAN": 256,
+      "IAH": 26,
+      "BUR": 196,
+      "MDW": 30,
+      "BOS": 3,
+      "ATL": 22,
+      "JFK": 18,
+      "LIH": 17
+    },
+    "square": {
+      "x": 30.709899999999948,
+      "y": 120.2294917967187,
+      "s": 14.51883979398211
+    }
+  },
+  "MCI": {
+    "iata": "MCI",
+    "airportString": "Kansas City International Airport",
+    "lat": 39.29761,
+    "lng": -94.71391,
+    "outboundFlightCounts": {
+      "all": 3236,
+      "ATL": 309,
+      "PHX": 170,
+      "IAH": 145,
+      "ORD": 205,
+      "DFW": 229,
+      "DEN": 194,
+      "MCO": 61,
+      "BWI": 53,
+      "MSY": 30,
+      "LAS": 147,
+      "SFO": 36,
+      "IAD": 4,
+      "DAL": 195,
+      "CLT": 130,
+      "MSP": 98,
+      "STL": 111,
+      "MKE": 54,
+      "FLL": 30,
+      "EWR": 86,
+      "DCA": 30,
+      "PDX": 30,
+      "DTW": 115,
+      "LAX": 62,
+      "MDW": 223,
+      "SAN": 30,
+      "BOS": 45,
+      "BNA": 84,
+      "TPA": 30,
+      "ABQ": 26,
+      "SEA": 30,
+      "OAK": 4,
+      "HOU": 53,
+      "IND": 53,
+      "SLC": 41,
+      "LGA": 58
+    },
+    "square": {
+      "x": 302.8609,
+      "y": 100.86424569827935,
+      "s": 14.38601246950393
+    }
+  },
+  "SMF": {
+    "iata": "SMF",
+    "airportString": "Sacramento International Airport",
+    "lat": 38.69542,
+    "lng": -121.59077,
+    "outboundFlightCounts": {
+      "all": 3218,
+      "DEN": 192,
+      "PHX": 285,
+      "DFW": 112,
+      "LAX": 551,
+      "SFO": 214,
+      "IAH": 52,
+      "SLC": 116,
+      "SEA": 220,
+      "IAD": 4,
+      "LAS": 233,
+      "LGB": 57,
+      "MSP": 27,
+      "HNL": 30,
+      "SAN": 244,
+      "MDW": 30,
+      "OGG": 30,
+      "BUR": 189,
+      "ONT": 188,
+      "PDX": 135,
+      "ORD": 34,
+      "SNA": 191,
+      "JFK": 18,
+      "ATL": 43
+    },
+    "square": {
+      "x": 34.09229999999994,
+      "y": 106.88855542216889,
+      "s": 14.361615613987532
+    }
+  },
+  "SNA": {
+    "iata": "SNA",
+    "airportString": "John Wayne Airport (Orange County Airport)",
+    "lat": 33.67566,
+    "lng": -117.86822,
+    "outboundFlightCounts": {
+      "all": 3185,
+      "IAH": 130,
+      "PHX": 351,
+      "DFW": 290,
+      "ATL": 87,
+      "MSP": 82,
+      "DEN": 308,
+      "SFO": 361,
+      "SEA": 187,
+      "EWR": 60,
+      "ORD": 143,
+      "PDX": 82,
+      "SJC": 246,
+      "SLC": 136,
+      "OAK": 223,
+      "LAS": 227,
+      "SMF": 194,
+      "DAL": 30,
+      "HOU": 30
+    },
+    "square": {
+      "x": 71.31780000000006,
+      "y": 157.10624249699882,
+      "s": 14.316888045540797
+    }
+  },
+  "RSW": {
+    "iata": "RSW",
+    "airportString": "Southwest Florida International Airport",
+    "lat": 26.53617,
+    "lng": -81.75517,
+    "outboundFlightCounts": {
+      "all": 3107,
+      "IAH": 53,
+      "JFK": 159,
+      "DTW": 232,
+      "BOS": 190,
+      "DEN": 61,
+      "EWR": 131,
+      "ATL": 332,
+      "LGA": 50,
+      "DFW": 127,
+      "MSP": 143,
+      "ORD": 183,
+      "CLT": 175,
+      "DCA": 123,
+      "MKE": 71,
+      "ACY": 61,
+      "MDW": 100,
+      "CLE": 78,
+      "CVG": 35,
+      "IND": 88,
+      "BDL": 61,
+      "HPN": 30,
+      "BWI": 145,
+      "CAK": 34,
+      "PHL": 100,
+      "CMH": 56,
+      "TTN": 20,
+      "STL": 78,
+      "PIT": 56,
+      "LBE": 12,
+      "IAD": 25,
+      "GRR": 25,
+      "BNA": 29,
+      "FNT": 3,
+      "BUF": 3,
+      "PVD": 3
+    },
+    "square": {
+      "x": 432.44829999999996,
+      "y": 228.52971188475394,
+      "s": 14.211168338303063
+    }
+  },
+  "CLE": {
+    "iata": "CLE",
+    "airportString": "Cleveland Hopkins International Airport",
+    "lat": 41.41089,
+    "lng": -81.8494,
+    "outboundFlightCounts": {
+      "all": 2996,
+      "IAH": 138,
+      "FLL": 65,
+      "IAD": 85,
+      "EWR": 136,
+      "ORD": 427,
+      "MCO": 112,
+      "DFW": 147,
+      "CLT": 114,
+      "PHX": 79,
+      "ATL": 221,
+      "RSW": 78,
+      "SFO": 35,
+      "LGA": 277,
+      "MSP": 44,
+      "TPA": 72,
+      "DEN": 136,
+      "LAX": 35,
+      "DTW": 56,
+      "LAS": 61,
+      "RDU": 23,
+      "DCA": 119,
+      "MDW": 144,
+      "JFK": 30,
+      "BOS": 71,
+      "BWI": 91,
+      "MKE": 63,
+      "BNA": 56,
+      "SJU": 5,
+      "BDL": 6,
+      "STL": 40
+    },
+    "square": {
+      "x": 431.506,
+      "y": 79.72298919567827,
+      "s": 14.060721062618596
+    }
+  },
+  "RDU": {
+    "iata": "RDU",
+    "airportString": "Raleigh-Durham International Airport",
+    "lat": 35.87764,
+    "lng": -78.78747,
+    "outboundFlightCounts": {
+      "all": 2738,
+      "JFK": 185,
+      "ATL": 424,
+      "MIA": 97,
+      "DFW": 132,
+      "SFO": 31,
+      "BOS": 120,
+      "CLT": 244,
+      "LAS": 30,
+      "ORD": 113,
+      "IAH": 99,
+      "MSP": 27,
+      "LGA": 249,
+      "DEN": 30,
+      "TTN": 16,
+      "BWI": 155,
+      "DTW": 50,
+      "TPA": 83,
+      "FLL": 61,
+      "PHL": 94,
+      "MCO": 91,
+      "MDW": 87,
+      "BNA": 90,
+      "EWR": 30,
+      "CLE": 23,
+      "PHX": 4,
+      "LAX": 50,
+      "HOU": 32,
+      "STL": 34,
+      "IAD": 5,
+      "BDL": 21,
+      "PHF": 0
+    },
+    "square": {
+      "x": 462.12530000000004,
+      "y": 135.077631052421,
+      "s": 13.711032800216861
+    }
+  },
+  "SAT": {
+    "iata": "SAT",
+    "airportString": "San Antonio International Airport",
+    "lat": 29.53369,
+    "lng": -98.46978,
+    "outboundFlightCounts": {
+      "all": 2592,
+      "DFW": 449,
+      "SFO": 41,
+      "LAX": 146,
+      "IAH": 234,
+      "STL": 57,
+      "ORD": 82,
+      "ATL": 261,
+      "BWI": 54,
+      "BNA": 54,
+      "ELP": 57,
+      "DTW": 43,
+      "JFK": 1,
+      "DEN": 148,
+      "LAS": 118,
+      "PHX": 85,
+      "CLT": 30,
+      "PHL": 19,
+      "DAL": 283,
+      "HOU": 122,
+      "SAN": 57,
+      "EWR": 4,
+      "MCO": 30,
+      "SLC": 33,
+      "TPA": 26,
+      "MDW": 53,
+      "SEA": 30,
+      "MSP": 48
+    },
+    "square": {
+      "x": 265.30219999999997,
+      "y": 198.54251700680274,
+      "s": 13.513147194361615
+    }
+  },
+  "MKE": {
+    "iata": "MKE",
+    "airportString": "General Mitchell International Airport",
+    "lat": 42.94722,
+    "lng": -87.89658,
+    "outboundFlightCounts": {
+      "all": 2567,
+      "IAH": 88,
+      "DTW": 157,
+      "DEN": 171,
+      "DFW": 104,
+      "ORD": 419,
+      "LAS": 88,
+      "MSP": 170,
+      "ATL": 281,
+      "PHX": 115,
+      "MCO": 128,
+      "RSW": 68,
+      "LAX": 26,
+      "EWR": 83,
+      "SFO": 26,
+      "BWI": 59,
+      "FLL": 56,
+      "BOS": 53,
+      "SEA": 26,
+      "DCA": 89,
+      "TPA": 57,
+      "LGA": 84,
+      "CLE": 63,
+      "MCI": 53,
+      "STL": 50,
+      "CVG": 22,
+      "TTN": 1,
+      "MSY": 3
+    },
+    "square": {
+      "x": 371.0342,
+      "y": 64.35354141656663,
+      "s": 13.47926267281106
+    }
+  },
+  "PBI": {
+    "iata": "PBI",
+    "airportString": "Palm Beach International Airport",
+    "lat": 26.68316,
+    "lng": -80.09559,
+    "outboundFlightCounts": {
+      "all": 2425,
+      "IAH": 33,
+      "JFK": 225,
+      "BOS": 198,
+      "LGA": 303,
+      "ORD": 61,
+      "ATL": 355,
+      "EWR": 284,
+      "DFW": 92,
+      "BWI": 96,
+      "PHL": 154,
+      "HPN": 114,
+      "CLT": 170,
+      "LAX": 17,
+      "DCA": 99,
+      "ISP": 61,
+      "DTW": 37,
+      "BDL": 30,
+      "TTN": 12,
+      "ACY": 30,
+      "DEN": 17,
+      "IAD": 16
+    },
+    "square": {
+      "x": 449.04409999999996,
+      "y": 227.0592236894758,
+      "s": 13.286798590403905
+    }
+  },
+  "IND": {
+    "iata": "IND",
+    "airportString": "Indianapolis International Airport",
+    "lat": 39.71733,
+    "lng": -86.29438,
+    "outboundFlightCounts": {
+      "all": 2104,
+      "PHX": 114,
+      "DEN": 129,
+      "CLT": 83,
+      "DFW": 138,
+      "ATL": 323,
+      "BWI": 83,
+      "SFO": 27,
+      "LAS": 57,
+      "DCA": 61,
+      "MCO": 123,
+      "MSP": 61,
+      "RSW": 88,
+      "HOU": 34,
+      "IAD": 13,
+      "DTW": 74,
+      "ORD": 234,
+      "TPA": 69,
+      "FLL": 34,
+      "MCI": 57,
+      "IAH": 58,
+      "JFK": 30,
+      "EWR": 143,
+      "LAX": 46,
+      "TTN": 1
+    },
+    "square": {
+      "x": 387.0562,
+      "y": 96.66536614645862,
+      "s": 12.851721333694769
+    }
+  },
+  "PIT": {
+    "iata": "PIT",
+    "airportString": "Pittsburgh International Airport",
+    "lat": 40.49147,
+    "lng": -80.23287,
+    "outboundFlightCounts": {
+      "all": 2081,
+      "IAH": 76,
+      "FLL": 65,
+      "DTW": 30,
+      "DFW": 110,
+      "ATL": 278,
+      "MSP": 14,
+      "CLT": 226,
+      "MCO": 135,
+      "PHX": 88,
+      "RSW": 54,
+      "LAS": 35,
+      "LAX": 17,
+      "DEN": 92,
+      "BNA": 30,
+      "BOS": 95,
+      "MDW": 142,
+      "ORD": 98,
+      "PHL": 90,
+      "BWI": 84,
+      "IAD": 111,
+      "TPA": 60,
+      "HOU": 26,
+      "SFO": 3,
+      "EWR": 40,
+      "LGA": 56,
+      "DCA": 0
+    },
+    "square": {
+      "x": 447.6712999999999,
+      "y": 88.92086834733897,
+      "s": 12.820547573868257
+    }
+  },
+  "CMH": {
+    "iata": "CMH",
+    "airportString": "Port Columbus International Airport",
+    "lat": 39.99799,
+    "lng": -82.89188,
+    "outboundFlightCounts": {
+      "all": 2066,
+      "MIA": 61,
+      "ATL": 261,
+      "LGA": 159,
+      "FLL": 30,
+      "TPA": 65,
+      "DFW": 123,
+      "RSW": 56,
+      "LAS": 35,
+      "PHX": 89,
+      "ORD": 298,
+      "JFK": 61,
+      "STL": 49,
+      "DEN": 62,
+      "MDW": 138,
+      "IAH": 68,
+      "BWI": 117,
+      "MCO": 114,
+      "EWR": 98,
+      "MSP": 16,
+      "BNA": 53,
+      "LAX": 50,
+      "IAD": 24,
+      "DTW": 1,
+      "CLT": 14
+    },
+    "square": {
+      "x": 421.08119999999997,
+      "y": 93.8576430572229,
+      "s": 12.800216860937923
+    }
+  },
+  "CVG": {
+    "iata": "CVG",
+    "airportString": "Cincinnati/Northern Kentucky International Airport",
+    "lat": 39.04614,
+    "lng": -84.66217,
+    "outboundFlightCounts": {
+      "all": 1713,
+      "MIA": 61,
+      "DFW": 206,
+      "ATL": 176,
+      "TPA": 25,
+      "FLL": 47,
+      "RSW": 35,
+      "SLC": 33,
+      "ORD": 327,
+      "SEA": 3,
+      "IAH": 111,
+      "LAX": 33,
+      "IAD": 3,
+      "DTW": 12,
+      "TTN": 2,
+      "JFK": 30,
+      "MCO": 79,
+      "DEN": 51,
+      "EWR": 122,
+      "BNA": 44,
+      "MKE": 25,
+      "PHX": 13,
+      "SAN": 2,
+      "MSP": 43,
+      "SFO": 21,
+      "BOS": 25,
+      "LAS": 33,
+      "GRR": 41,
+      "STL": 19,
+      "LGA": 21,
+      "MSN": 19,
+      "CLT": 14,
+      "MEM": 5
+    },
+    "square": {
+      "x": 403.37829999999997,
+      "y": 103.37995198079231,
+      "s": 12.321767416644077
+    }
+  },
+  "BUR": {
+    "iata": "BUR",
+    "airportString": "Bob Hope Airport (Hollywood Burbank Airport)",
+    "lat": 34.20062,
+    "lng": -118.3585,
+    "outboundFlightCounts": {
+      "all": 1703,
+      "SEA": 92,
+      "SFO": 141,
+      "LAS": 269,
+      "DEN": 114,
+      "OAK": 346,
+      "PDX": 83,
+      "SJC": 197,
+      "SLC": 62,
+      "SMF": 193,
+      "PHX": 165,
+      "JFK": 30
+    },
+    "square": {
+      "x": 66.41499999999994,
+      "y": 151.8545418167267,
+      "s": 12.308213608023856
+    }
+  },
+  "BDL": {
+    "iata": "BDL",
+    "airportString": "Bradley International Airport",
+    "lat": 41.93887,
+    "lng": -72.68323,
+    "outboundFlightCounts": {
+      "all": 1680,
+      "IAD": 75,
+      "ATL": 245,
+      "DCA": 61,
+      "ORD": 113,
+      "MIA": 30,
+      "FLL": 101,
+      "DFW": 62,
+      "DEN": 30,
+      "RSW": 61,
+      "CLT": 132,
+      "MCO": 156,
+      "DTW": 101,
+      "PBI": 30,
+      "BWI": 178,
+      "TPA": 96,
+      "MDW": 65,
+      "SJU": 41,
+      "MSP": 54,
+      "EWR": 3,
+      "CLE": 6,
+      "RDU": 19
+    },
+    "square": {
+      "x": 523.1677000000001,
+      "y": 74.44107643057224,
+      "s": 12.277039848197344
+    }
+  },
+  "ONT": {
+    "iata": "ONT",
+    "airportString": "Ontario International Airport",
+    "lat": 34.056,
+    "lng": -117.60119,
+    "outboundFlightCounts": {
+      "all": 1589,
+      "SFO": 185,
+      "DEN": 112,
+      "DFW": 111,
+      "PDX": 64,
+      "SEA": 64,
+      "PHX": 257,
+      "MDW": 30,
+      "OAK": 195,
+      "SLC": 86,
+      "SJC": 116,
+      "LAS": 131,
+      "IAH": 34,
+      "SMF": 188,
+      "ATL": 2
+    },
+    "square": {
+      "x": 73.98809999999997,
+      "y": 153.30132052821133,
+      "s": 12.153700189753321
+    }
+  },
+  "ABQ": {
+    "iata": "ABQ",
+    "airportString": "Albuquerque International Sunport",
+    "lat": 35.04022,
+    "lng": -106.60919,
+    "outboundFlightCounts": {
+      "all": 1574,
+      "HOU": 85,
+      "DAL": 147,
+      "ORD": 27,
+      "DFW": 123,
+      "PHX": 226,
+      "ATL": 52,
+      "SFO": 30,
+      "SAN": 51,
+      "IAH": 107,
+      "MDW": 57,
+      "LAX": 150,
+      "MSP": 6,
+      "LAS": 116,
+      "PDX": 4,
+      "SLC": 82,
+      "OAK": 58,
+      "MCI": 26,
+      "SEA": 61,
+      "DEN": 95,
+      "BWI": 30,
+      "JFK": 20
+    },
+    "square": {
+      "x": 183.90810000000005,
+      "y": 143.45518207282916,
+      "s": 12.133369476822988
+    }
+  },
+  "OMA": {
+    "iata": "OMA",
+    "airportString": "Eppley Airfield",
+    "lat": 41.30252,
+    "lng": -95.89417,
+    "outboundFlightCounts": {
+      "all": 1543,
+      "IAH": 96,
+      "ORD": 200,
+      "DFW": 147,
+      "DEN": 216,
+      "ATL": 146,
+      "DTW": 46,
+      "PHX": 117,
+      "MSP": 104,
+      "EWR": 52,
+      "STL": 87,
+      "MDW": 142,
+      "LAS": 60,
+      "SLC": 57,
+      "SEA": 30,
+      "MCO": 8,
+      "LGA": 19
+    },
+    "square": {
+      "x": 291.0583,
+      "y": 80.80712284913966,
+      "s": 12.0913526701003
+    }
+  },
+  "JAX": {
+    "iata": "JAX",
+    "airportString": "Jacksonville International Airport",
+    "lat": 30.49406,
+    "lng": -81.68786,
+    "outboundFlightCounts": {
+      "all": 1498,
+      "EWR": 73,
+      "JFK": 66,
+      "DFW": 117,
+      "CLT": 204,
+      "ATL": 410,
+      "FLL": 61,
+      "MSP": 3,
+      "DCA": 61,
+      "DEN": 30,
+      "BNA": 65,
+      "IAD": 10,
+      "PHL": 25,
+      "BOS": 80,
+      "ORD": 34,
+      "BWI": 88,
+      "IAH": 62,
+      "MDW": 30,
+      "HOU": 30,
+      "DTW": 22,
+      "LGA": 7
+    },
+    "square": {
+      "x": 433.1214,
+      "y": 188.93497398959582,
+      "s": 12.030360531309299
+    }
+  },
+  "TUS": {
+    "iata": "TUS",
+    "airportString": "Tucson International Airport",
+    "lat": 32.11608,
+    "lng": -110.94103,
+    "outboundFlightCounts": {
+      "all": 1453,
+      "SFO": 89,
+      "IAH": 119,
+      "DFW": 212,
+      "DEN": 199,
+      "LAX": 247,
+      "MDW": 30,
+      "ORD": 53,
+      "SLC": 87,
+      "MSP": 18,
+      "SAN": 80,
+      "LAS": 120,
+      "PHX": 67,
+      "PDX": 30,
+      "ATL": 52,
+      "SEA": 35
+    },
+    "square": {
+      "x": 140.58970000000002,
+      "y": 172.70828331332538,
+      "s": 11.969368392518298
+    }
+  },
+  "OKC": {
+    "iata": "OKC",
+    "airportString": "Will Rogers World Airport",
+    "lat": 35.39309,
+    "lng": -97.60073,
+    "outboundFlightCounts": {
+      "all": 1383,
+      "DFW": 234,
+      "ATL": 174,
+      "LAX": 29,
+      "SLC": 36,
+      "ORD": 119,
+      "SFO": 30,
+      "DTW": 26,
+      "IAH": 95,
+      "PHX": 57,
+      "HOU": 111,
+      "LAS": 61,
+      "STL": 34,
+      "MDW": 33,
+      "IAD": 4,
+      "MSP": 35,
+      "DEN": 169,
+      "DAL": 87,
+      "BWI": 30,
+      "EWR": 0
+    },
+    "square": {
+      "x": 273.9927,
+      "y": 139.92507002801122,
+      "s": 11.874491732176741
+    }
+  },
+  "BUF": {
+    "iata": "BUF",
+    "airportString": "Buffalo Niagara International Airport",
+    "lat": 42.94052,
+    "lng": -78.73217,
+    "outboundFlightCounts": {
+      "all": 1294,
+      "JFK": 176,
+      "EWR": 30,
+      "CLT": 110,
+      "ORD": 105,
+      "FLL": 69,
+      "PHX": 30,
+      "BOS": 87,
+      "MCO": 130,
+      "ATL": 128,
+      "BWI": 150,
+      "DTW": 57,
+      "TPA": 61,
+      "MDW": 62,
+      "LAS": 30,
+      "IAD": 24,
+      "LGA": 23,
+      "RSW": 3,
+      "MSP": 1
+    },
+    "square": {
+      "x": 462.67830000000004,
+      "y": 64.42056822729094,
+      "s": 11.753862835456763
+    }
+  },
+  "TUL": {
+    "iata": "TUL",
+    "airportString": "Tulsa International Airport",
+    "lat": 36.19837,
+    "lng": -95.88824,
+    "outboundFlightCounts": {
+      "all": 1287,
+      "DFW": 243,
+      "ATL": 138,
+      "DAL": 84,
+      "IAH": 206,
+      "ORD": 175,
+      "MDW": 30,
+      "SLC": 26,
+      "PHX": 57,
+      "DEN": 128,
+      "DTW": 26,
+      "MSP": 4,
+      "IAD": 4,
+      "LAS": 30,
+      "HOU": 83,
+      "STL": 30,
+      "EWR": 2,
+      "MIA": 4
+    },
+    "square": {
+      "x": 291.11760000000004,
+      "y": 131.86904761904768,
+      "s": 11.744375169422607
+    }
+  },
+  "RIC": {
+    "iata": "RIC",
+    "airportString": "Richmond International Airport",
+    "lat": 37.50517,
+    "lng": -77.31967,
+    "outboundFlightCounts": {
+      "all": 1274,
+      "IAH": 56,
+      "ATL": 309,
+      "ORD": 170,
+      "MIA": 4,
+      "IAD": 25,
+      "DFW": 62,
+      "CLT": 109,
+      "EWR": 84,
+      "MCO": 66,
+      "MSP": 26,
+      "BOS": 191,
+      "LGA": 75,
+      "DTW": 52,
+      "FLL": 30,
+      "CAE": 0
+    },
+    "square": {
+      "x": 476.8033,
+      "y": 118.79581832733095,
+      "s": 11.726755218216319
+    }
+  },
+  "MEM": {
+    "iata": "MEM",
+    "airportString": "Memphis International Airport",
+    "lat": 35.04242,
+    "lng": -89.97667,
+    "outboundFlightCounts": {
+      "all": 1241,
+      "ATL": 273,
+      "EWR": 80,
+      "IAH": 133,
+      "DFW": 81,
+      "LAX": 28,
+      "MCO": 34,
+      "CLT": 87,
+      "ORD": 215,
+      "MDW": 54,
+      "MIA": 30,
+      "DEN": 58,
+      "TPA": 30,
+      "BWI": 30,
+      "HOU": 53,
+      "IAD": 2,
+      "MSP": 25,
+      "CVG": 5,
+      "DTW": 5
+    },
+    "square": {
+      "x": 350.2333,
+      "y": 143.43317326930773,
+      "s": 11.682027649769585
+    }
+  },
+  "BHM": {
+    "iata": "BHM",
+    "airportString": "Birmingham-Shuttlesworth International Airport",
+    "lat": 33.56294,
+    "lng": -86.75355,
+    "outboundFlightCounts": {
+      "all": 1146,
+      "MIA": 61,
+      "ATL": 249,
+      "DFW": 88,
+      "IAH": 135,
+      "BWI": 57,
+      "TPA": 57,
+      "LAS": 30,
+      "MDW": 55,
+      "DTW": 55,
+      "DAL": 80,
+      "ORD": 75,
+      "DEN": 30,
+      "MCO": 60,
+      "HOU": 52,
+      "LGA": 47
+    },
+    "square": {
+      "x": 382.46449999999993,
+      "y": 158.23389355742302,
+      "s": 11.553266467877474
+    }
+  },
+  "RNO": {
+    "iata": "RNO",
+    "airportString": "Reno/Tahoe International Airport",
+    "lat": 39.49858,
+    "lng": -119.76806,
+    "outboundFlightCounts": {
+      "all": 1092,
+      "DEN": 95,
+      "SLC": 87,
+      "PHX": 137,
+      "SFO": 160,
+      "DFW": 68,
+      "SAN": 61,
+      "ORD": 22,
+      "LAS": 286,
+      "LAX": 155,
+      "IAH": 4,
+      "MSP": 2,
+      "MDW": 3
+    },
+    "square": {
+      "x": 52.31939999999995,
+      "y": 98.85374149659869,
+      "s": 11.480075901328274
+    }
+  },
+  "ELP": {
+    "iata": "ELP",
+    "airportString": "El Paso International Airport",
+    "lat": 31.80667,
+    "lng": -106.37781,
+    "outboundFlightCounts": {
+      "all": 1087,
+      "ORD": 27,
+      "DFW": 114,
+      "DEN": 87,
+      "AUS": 62,
+      "DAL": 115,
+      "IAH": 166,
+      "LAS": 61,
+      "LAX": 100,
+      "PHX": 150,
+      "ATL": 56,
+      "HOU": 84,
+      "SAT": 53
+    },
+    "square": {
+      "x": 186.22190000000003,
+      "y": 175.80362144857943,
+      "s": 11.473298997018162
+    }
+  },
+  "PSP": {
+    "iata": "PSP",
+    "airportString": "Palm Springs International Airport",
+    "lat": 33.82922,
+    "lng": -116.50625,
+    "outboundFlightCounts": {
+      "all": 1078,
+      "SFO": 274,
+      "DEN": 114,
+      "SLC": 64,
+      "IAH": 35,
+      "PHX": 150,
+      "DFW": 87,
+      "LAX": 153,
+      "SEA": 88,
+      "PDX": 35,
+      "ORD": 33,
+      "MSP": 29,
+      "JFK": 4
+    },
+    "square": {
+      "x": 84.93750000000006,
+      "y": 155.5700280112045,
+      "s": 11.461100569259962
+    }
+  },
+  "GRR": {
+    "iata": "GRR",
+    "airportString": "Gerald R. Ford International Airport",
+    "lat": 42.88082,
+    "lng": -85.52277,
+    "outboundFlightCounts": {
+      "all": 1049,
+      "DFW": 114,
+      "DEN": 66,
+      "ORD": 246,
+      "STL": 26,
+      "MSP": 88,
+      "DTW": 124,
+      "ATL": 111,
+      "MCO": 34,
+      "IAH": 30,
+      "BWI": 57,
+      "EWR": 48,
+      "CVG": 41,
+      "TPA": 25,
+      "RSW": 25
+    },
+    "square": {
+      "x": 394.7723000000001,
+      "y": 65.01780712284916,
+      "s": 11.421794524261317
+    }
+  },
+  "PVD": {
+    "iata": "PVD",
+    "airportString": "Theodore Francis Green State Airport",
+    "lat": 41.724,
+    "lng": -71.42822,
+    "outboundFlightCounts": {
+      "all": 1024,
+      "CLT": 101,
+      "BWI": 189,
+      "MCO": 184,
+      "FLL": 87,
+      "ORD": 56,
+      "TPA": 58,
+      "ATL": 84,
+      "MDW": 65,
+      "IAD": 61,
+      "EWR": 55,
+      "DTW": 69,
+      "RSW": 3
+    },
+    "square": {
+      "x": 535.7178,
+      "y": 76.59063625450186,
+      "s": 11.387910002710761
+    }
+  },
+  "BOI": {
+    "iata": "BOI",
+    "airportString": "Boise Airport (Boise Air Terminal)",
+    "lat": 43.56444,
+    "lng": -116.22278,
+    "outboundFlightCounts": {
+      "all": 945,
+      "SFO": 150,
+      "LAX": 74,
+      "PHX": 96,
+      "ORD": 35,
+      "DEN": 184,
+      "IAH": 30,
+      "OAK": 61,
+      "GEG": 53,
+      "MSP": 43,
+      "SLC": 116,
+      "LAS": 61,
+      "SAN": 30
+    },
+    "square": {
+      "x": 87.7722,
+      "y": 58.17887154861949,
+      "s": 11.280834914611006
+    }
+  },
+  "SDF": {
+    "iata": "SDF",
+    "airportString": "Louisville International Airport (Standiford Field)",
+    "lat": 38.17439,
+    "lng": -85.736,
+    "outboundFlightCounts": {
+      "all": 944,
+      "ATL": 231,
+      "PHX": 30,
+      "DEN": 49,
+      "DTW": 2,
+      "TPA": 34,
+      "IAH": 54,
+      "MDW": 83,
+      "EWR": 53,
+      "ORD": 133,
+      "IAD": 11,
+      "MCO": 34,
+      "BWI": 80,
+      "DFW": 26,
+      "LAS": 30,
+      "LGA": 79
+    },
+    "square": {
+      "x": 392.63999999999993,
+      "y": 112.10094037615045,
+      "s": 11.279479533748983
+    }
+  },
+  "CHS": {
+    "iata": "CHS",
+    "airportString": "Charleston International Airport/Charleston AFB",
+    "lat": 32.89865,
+    "lng": -80.04051,
+    "outboundFlightCounts": {
+      "all": 928,
+      "EWR": 70,
+      "DFW": 62,
+      "IAH": 48,
+      "MIA": 64,
+      "ATL": 238,
+      "MDW": 30,
+      "JFK": 61,
+      "HOU": 30,
+      "BWI": 84,
+      "ORD": 30,
+      "BOS": 30,
+      "DCA": 56,
+      "BNA": 30,
+      "LGA": 30,
+      "CLT": 46,
+      "IAD": 3
+    },
+    "square": {
+      "x": 449.5949,
+      "y": 164.87945178071226,
+      "s": 11.257793439956629
+    }
+  },
+  "LIT": {
+    "iata": "LIT",
+    "airportString": "Bill and Hillary Clinton National Airport (Adams Field)",
+    "lat": 34.7294,
+    "lng": -92.22425,
+    "outboundFlightCounts": {
+      "all": 915,
+      "DFW": 128,
+      "DAL": 92,
+      "ATL": 161,
+      "ORD": 167,
+      "IAH": 139,
+      "PHX": 30,
+      "DEN": 50,
+      "MDW": 29,
+      "LAS": 30,
+      "BWI": 26,
+      "LGA": 26,
+      "DTW": 25
+    },
+    "square": {
+      "x": 327.7575,
+      "y": 146.56462585034015,
+      "s": 11.240173488750338
+    }
+  },
+  "ORF": {
+    "iata": "ORF",
+    "airportString": "Norfolk International Airport",
+    "lat": 36.89461,
+    "lng": -76.20122,
+    "outboundFlightCounts": {
+      "all": 855,
+      "MIA": 60,
+      "ATL": 190,
+      "DFW": 56,
+      "CLT": 79,
+      "ORD": 76,
+      "MDW": 31,
+      "MCO": 30,
+      "JFK": 30,
+      "BWI": 88,
+      "IAH": 26,
+      "IAD": 40,
+      "DTW": 36,
+      "LGA": 49,
+      "EWR": 50
+    },
+    "square": {
+      "x": 487.9878,
+      "y": 124.90386154461785,
+      "s": 11.158850637029005
+    }
+  },
+  "DSM": {
+    "iata": "DSM",
+    "airportString": "Des Moines International Airport",
+    "lat": 41.53493,
+    "lng": -93.66068,
+    "outboundFlightCounts": {
+      "all": 840,
+      "DFW": 146,
+      "ORD": 302,
+      "MDW": 58,
+      "DEN": 120,
+      "MSP": 32,
+      "LAS": 30,
+      "IAH": 55,
+      "EWR": 3,
+      "SLC": 2,
+      "ATL": 77,
+      "PHX": 0,
+      "DTW": 3
+    },
+    "square": {
+      "x": 313.39320000000004,
+      "y": 78.48209283713486,
+      "s": 11.138519924098672
+    }
+  },
+  "GEG": {
+    "iata": "GEG",
+    "airportString": "Spokane International Airport",
+    "lat": 47.61986,
+    "lng": -117.53384,
+    "outboundFlightCounts": {
+      "all": 831,
+      "SEA": 280,
+      "DEN": 122,
+      "PHX": 66,
+      "MSP": 58,
+      "SLC": 101,
+      "LAS": 61,
+      "BOI": 52,
+      "OAK": 53,
+      "LAX": 29
+    },
+    "square": {
+      "x": 74.66160000000002,
+      "y": 17.608443377350937,
+      "s": 11.126321496340472
+    }
+  },
+  "MSN": {
+    "iata": "MSN",
+    "airportString": "Dane County Regional Airport",
+    "lat": 43.13986,
+    "lng": -89.33751,
+    "outboundFlightCounts": {
+      "all": 822,
+      "DEN": 56,
+      "DFW": 119,
+      "ORD": 344,
+      "DTW": 108,
+      "MSP": 56,
+      "ATL": 60,
+      "EWR": 29,
+      "SLC": 17,
+      "MCO": 4,
+      "CVG": 19
+    },
+    "square": {
+      "x": 356.6249000000001,
+      "y": 62.42637054821932,
+      "s": 11.114123068582272
+    }
+  },
+  "MAF": {
+    "iata": "MAF",
+    "airportString": "Midland International Airport",
+    "lat": 31.94253,
+    "lng": -102.20191,
+    "outboundFlightCounts": {
+      "all": 818,
+      "IAH": 231,
+      "DFW": 212,
+      "DEN": 87,
+      "HOU": 109,
+      "DAL": 139,
+      "LAS": 34
+    },
+    "square": {
+      "x": 227.98090000000005,
+      "y": 174.44447779111644,
+      "s": 11.108701545134183
+    }
+  },
+  "DAY": {
+    "iata": "DAY",
+    "airportString": "James M. Cox Dayton International Airport",
+    "lat": 39.90238,
+    "lng": -84.21938,
+    "outboundFlightCounts": {
+      "all": 783,
+      "DFW": 88,
+      "ORD": 259,
+      "LGA": 55,
+      "DEN": 39,
+      "EWR": 57,
+      "ATL": 118,
+      "MCO": 30,
+      "BWI": 82,
+      "IAD": 1,
+      "MSP": 17,
+      "DTW": 26
+    },
+    "square": {
+      "x": 407.8062,
+      "y": 94.81412565026011,
+      "s": 11.061263214963404
+    }
+  },
+  "LGB": {
+    "iata": "LGB",
+    "airportString": "Long Beach Airport (Daugherty Field)",
+    "lat": 33.81772,
+    "lng": -118.15161,
+    "outboundFlightCounts": {
+      "all": 770,
+      "OAK": 92,
+      "SMF": 57,
+      "SEA": 70,
+      "SFO": 92,
+      "SLC": 197,
+      "LAS": 89,
+      "JFK": 49,
+      "PDX": 61,
+      "AUS": 35,
+      "BOS": 18
+    },
+    "square": {
+      "x": 68.48389999999995,
+      "y": 155.68507402961185,
+      "s": 11.043643263757115
+    }
+  },
+  "XNA": {
+    "iata": "XNA",
+    "airportString": "Northwest Arkansas Regional Airport",
+    "lat": 36.28187,
+    "lng": -94.30681,
+    "outboundFlightCounts": {
+      "all": 765,
+      "DFW": 212,
+      "ORD": 211,
+      "DEN": 23,
+      "ATL": 141,
+      "IAH": 86,
+      "EWR": 23,
+      "LGA": 44,
+      "MSP": 17
+    },
+    "square": {
+      "x": 306.9319,
+      "y": 131.0337134853942,
+      "s": 11.036866359447004
+    }
+  },
+  "HPN": {
+    "iata": "HPN",
+    "airportString": "Westchester County Airport",
+    "lat": 41.06696,
+    "lng": -73.70757,
+    "outboundFlightCounts": {
+      "all": 726,
+      "PBI": 113,
+      "ORD": 174,
+      "RSW": 30,
+      "FLL": 61,
+      "MCO": 93,
+      "TPA": 30,
+      "ATL": 154,
+      "DTW": 63
+    },
+    "square": {
+      "x": 512.9242999999999,
+      "y": 83.16366546618647,
+      "s": 10.984006505828138
+    }
+  },
+  "FAT": {
+    "iata": "FAT",
+    "airportString": "Fresno Yosemite International Airport",
+    "lat": 36.77619,
+    "lng": -119.71814,
+    "outboundFlightCounts": {
+      "all": 696,
+      "LAX": 240,
+      "SEA": 63,
+      "SFO": 151,
+      "DEN": 65,
+      "PHX": 61,
+      "SLC": 60,
+      "DFW": 49
+    },
+    "square": {
+      "x": 52.81859999999995,
+      "y": 126.08853541416568,
+      "s": 10.943345079967472
+    }
+  },
+  "GSO": {
+    "iata": "GSO",
+    "airportString": "Piedmont Triad International Airport",
+    "lat": 36.09775,
+    "lng": -79.9373,
+    "outboundFlightCounts": {
+      "all": 680,
+      "EWR": 83,
+      "MIA": 30,
+      "ATL": 222,
+      "DFW": 88,
+      "LGA": 152,
+      "IAD": 43,
+      "ORD": 6,
+      "DEN": 1,
+      "ROA": 0,
+      "DTW": 45
+    },
+    "square": {
+      "x": 450.62700000000007,
+      "y": 132.8756502601041,
+      "s": 10.921658986175116
+    }
+  },
+  "CID": {
+    "iata": "CID",
+    "airportString": "The Eastern Iowa Airport",
+    "lat": 41.88459,
+    "lng": -91.71087,
+    "outboundFlightCounts": {
+      "all": 665,
+      "ATL": 83,
+      "DFW": 128,
+      "ORD": 283,
+      "MSP": 43,
+      "DEN": 43,
+      "DTW": 79
+    },
+    "square": {
+      "x": 332.8913,
+      "y": 74.98409363745498,
+      "s": 10.901328273244783
+    }
+  },
+  "ICT": {
+    "iata": "ICT",
+    "airportString": "Wichita Dwight D. Eisenhower National Airport (Wichita Mid-Continent Airport)",
+    "lat": 37.64996,
+    "lng": -97.43305,
+    "outboundFlightCounts": {
+      "all": 663,
+      "DFW": 61,
+      "ORD": 196,
+      "ATL": 80,
+      "LAS": 30,
+      "DEN": 43,
+      "MDW": 53,
+      "DAL": 53,
+      "LAX": 29,
+      "IAH": 80,
+      "MSP": 28
+    },
+    "square": {
+      "x": 275.6695,
+      "y": 117.34733893557424,
+      "s": 10.898617511520737
+    }
+  },
+  "BTR": {
+    "iata": "BTR",
+    "airportString": "Baton Rouge Metropolitan Airport",
+    "lat": 30.53316,
+    "lng": -91.14963,
+    "outboundFlightCounts": {
+      "all": 655,
+      "ATL": 226,
+      "DFW": 239,
+      "IAH": 186,
+      "DCA": 0
+    },
+    "square": {
+      "x": 338.5037,
+      "y": 188.54381752701082,
+      "s": 10.88777446462456
+    }
+  },
+  "PNS": {
+    "iata": "PNS",
+    "airportString": "Pensacola International Airport (Pensacola Gulf Coast Regional Airport)",
+    "lat": 30.47331,
+    "lng": -87.18744,
+    "outboundFlightCounts": {
+      "all": 635,
+      "ATL": 196,
+      "MIA": 92,
+      "IAH": 116,
+      "DFW": 155,
+      "BNA": 35,
+      "ORD": 4,
+      "HOU": 30
+    },
+    "square": {
+      "x": 378.1256,
+      "y": 189.14255702280914,
+      "s": 10.860666847384115
+    }
+  },
+  "JAN": {
+    "iata": "JAN",
+    "airportString": "Jackson-Evers International Airport",
+    "lat": 32.31117,
+    "lng": -90.07589,
+    "outboundFlightCounts": {
+      "all": 634,
+      "ATL": 206,
+      "ORD": 53,
+      "DFW": 212,
+      "IAH": 159
+    },
+    "square": {
+      "x": 349.24109999999996,
+      "y": 170.75660264105647,
+      "s": 10.859311466522092
+    }
+  },
+  "ASE": {
+    "iata": "ASE",
+    "airportString": "Aspen-Pitkin County Airport",
+    "lat": 39.22316,
+    "lng": -106.86885,
+    "outboundFlightCounts": {
+      "all": 626,
+      "DEN": 167,
+      "ORD": 107,
+      "LAX": 135,
+      "IAH": 71,
+      "SFO": 42,
+      "ATL": 30,
+      "DFW": 61,
+      "MSP": 5
+    },
+    "square": {
+      "x": 181.31150000000005,
+      "y": 101.60904361744699,
+      "s": 10.848468419625915
+    }
+  },
+  "SAV": {
+    "iata": "SAV",
+    "airportString": "Savannah/Hilton Head International Airport",
+    "lat": 32.12758,
+    "lng": -81.20214,
+    "outboundFlightCounts": {
+      "all": 612,
+      "EWR": 40,
+      "DFW": 92,
+      "ATL": 224,
+      "LGA": 11,
+      "IAH": 36,
+      "JFK": 61,
+      "ORD": 46,
+      "BOS": 30,
+      "IAD": 60,
+      "DTW": 2
+    },
+    "square": {
+      "x": 437.9786,
+      "y": 172.59323729491797,
+      "s": 10.829493087557603
+    }
+  },
+  "ROC": {
+    "iata": "ROC",
+    "airportString": "Greater Rochester International Airport",
+    "lat": 43.11887,
+    "lng": -77.67238,
+    "outboundFlightCounts": {
+      "all": 610,
+      "JFK": 92,
+      "ATL": 87,
+      "LGA": 24,
+      "MDW": 54,
+      "ORD": 93,
+      "CLT": 30,
+      "TPA": 30,
+      "MCO": 30,
+      "MSP": 1,
+      "BWI": 60,
+      "EWR": 33,
+      "DTW": 15,
+      "IAD": 48
+    },
+    "square": {
+      "x": 473.27619999999996,
+      "y": 62.636354541816736,
+      "s": 10.826782325833559
+    }
+  },
+  "COS": {
+    "iata": "COS",
+    "airportString": "City of Colorado Springs Municipal Airport",
+    "lat": 38.80581,
+    "lng": -104.70025,
+    "outboundFlightCounts": {
+      "all": 608,
+      "IAH": 84,
+      "DEN": 216,
+      "ATL": 26,
+      "DFW": 58,
+      "LAX": 60,
+      "ORD": 65,
+      "SEA": 30,
+      "SFO": 4,
+      "SLC": 56
+    },
+    "square": {
+      "x": 202.99750000000003,
+      "y": 105.7842136854742,
+      "s": 10.824071564109515
+    }
+  },
+  "FSD": {
+    "iata": "FSD",
+    "airportString": "Sioux Falls Regional Airport",
+    "lat": 43.58135,
+    "lng": -96.7417,
+    "outboundFlightCounts": {
+      "all": 608,
+      "ORD": 190,
+      "DEN": 150,
+      "DFW": 92,
+      "MSP": 142,
+      "ATL": 29
+    },
+    "square": {
+      "x": 282.583,
+      "y": 58.00970388155264,
+      "s": 10.824071564109515
+    }
+  },
+  "TYS": {
+    "iata": "TYS",
+    "airportString": "McGhee Tyson Airport",
+    "lat": 35.81249,
+    "lng": -83.99286,
+    "outboundFlightCounts": {
+      "all": 603,
+      "DFW": 149,
+      "IAD": 16,
+      "ORD": 172,
+      "DEN": 33,
+      "IAH": 62,
+      "EWR": 26,
+      "LGA": 24,
+      "ATL": 113
+    },
+    "square": {
+      "x": 410.0714000000001,
+      "y": 135.72939175670274,
+      "s": 10.817294659799403
+    }
+  },
+  "SGF": {
+    "iata": "SGF",
+    "airportString": "Springfield-Branson National Airport",
+    "lat": 37.24433,
+    "lng": -93.38686,
+    "outboundFlightCounts": {
+      "all": 590,
+      "DFW": 234,
+      "ORD": 192,
+      "ATL": 119,
+      "DEN": 41
+    },
+    "square": {
+      "x": 316.13140000000004,
+      "y": 121.40526210484197,
+      "s": 10.799674708593114
+    }
+  },
+  "SBA": {
+    "iata": "SBA",
+    "airportString": "Santa Barbara Municipal Airport (Santa Barbara Airport)",
+    "lat": 34.42621,
+    "lng": -119.84037,
+    "outboundFlightCounts": {
+      "all": 578,
+      "DEN": 60,
+      "PHX": 92,
+      "SFO": 211,
+      "LAX": 149,
+      "SEA": 30,
+      "PDX": 30
+    },
+    "square": {
+      "x": 51.59630000000007,
+      "y": 149.59773909563827,
+      "s": 10.783410138248847
+    }
+  },
+  "ALB": {
+    "iata": "ALB",
+    "airportString": "Albany International Airport",
+    "lat": 42.74812,
+    "lng": -73.80298,
+    "outboundFlightCounts": {
+      "all": 569,
+      "MCO": 87,
+      "ORD": 62,
+      "FLL": 34,
+      "CLT": 61,
+      "BWI": 124,
+      "TPA": 34,
+      "ATL": 85,
+      "LAS": 4,
+      "MDW": 60,
+      "IAD": 2,
+      "DTW": 5
+    },
+    "square": {
+      "x": 511.9701999999999,
+      "y": 66.34533813525411,
+      "s": 10.771211710490649
+    }
+  },
+  "CAK": {
+    "iata": "CAK",
+    "airportString": "Akron-Canton Regional Airport",
+    "lat": 40.91631,
+    "lng": -81.44247,
+    "outboundFlightCounts": {
+      "all": 559,
+      "MCO": 58,
+      "ATL": 180,
+      "BOS": 26,
+      "ORD": 79,
+      "DCA": 30,
+      "DEN": 30,
+      "RSW": 34,
+      "TPA": 30,
+      "LGA": 49,
+      "DTW": 33
+    },
+    "square": {
+      "x": 435.5753,
+      "y": 84.67076830732293,
+      "s": 10.757657901870425
+    }
+  },
+  "SHV": {
+    "iata": "SHV",
+    "airportString": "Shreveport Regional Airport",
+    "lat": 32.44663,
+    "lng": -93.8256,
+    "outboundFlightCounts": {
+      "all": 550,
+      "DFW": 212,
+      "ATL": 171,
+      "IAH": 137,
+      "DEN": 26
+    },
+    "square": {
+      "x": 311.744,
+      "y": 169.40146058423372,
+      "s": 10.745459474112225
+    }
+  },
+  "GSP": {
+    "iata": "GSP",
+    "airportString": "Greenville-Spartanburg International Airport",
+    "lat": 34.89567,
+    "lng": -82.21886,
+    "outboundFlightCounts": {
+      "all": 548,
+      "ATL": 226,
+      "DFW": 57,
+      "HOU": 26,
+      "EWR": 58,
+      "DTW": 13,
+      "IAH": 33,
+      "BWI": 30,
+      "MDW": 60,
+      "IAD": 5,
+      "LGA": 2,
+      "ORD": 27
+    },
+    "square": {
+      "x": 427.81139999999994,
+      "y": 144.90126050420164,
+      "s": 10.742748712388181
+    }
+  },
+  "CRP": {
+    "iata": "CRP",
+    "airportString": "Corpus Christi International Airport",
+    "lat": 27.77036,
+    "lng": -97.50122,
+    "outboundFlightCounts": {
+      "all": 546,
+      "IAH": 193,
+      "DFW": 239,
+      "HOU": 110,
+      "HRL": 0
+    },
+    "square": {
+      "x": 274.98779999999994,
+      "y": 216.1828731492597,
+      "s": 10.740037950664137
+    }
+  },
+  "CAE": {
+    "iata": "CAE",
+    "airportString": "Columbia Metropolitan Airport",
+    "lat": 33.93884,
+    "lng": -81.11954,
+    "outboundFlightCounts": {
+      "all": 531,
+      "DFW": 83,
+      "IAD": 85,
+      "IAH": 31,
+      "ATL": 223,
+      "ORD": 56,
+      "LGA": 47
+    },
+    "square": {
+      "x": 438.8046,
+      "y": 154.4733893557423,
+      "s": 10.719707237733804
+    }
+  },
+  "AMA": {
+    "iata": "AMA",
+    "airportString": "Rick Husband Amarillo International Airport",
+    "lat": 35.21937,
+    "lng": -101.70593,
+    "outboundFlightCounts": {
+      "all": 525,
+      "DFW": 240,
+      "DEN": 55,
+      "DAL": 115,
+      "IAH": 80,
+      "LAS": 30
+    },
+    "square": {
+      "x": 232.94070000000005,
+      "y": 141.66296518607447,
+      "s": 10.71157495256167
+    }
+  },
+  "LEX": {
+    "iata": "LEX",
+    "airportString": "Blue Grass Airport",
+    "lat": 38.03697,
+    "lng": -84.60539,
+    "outboundFlightCounts": {
+      "all": 505,
+      "ORD": 141,
+      "DFW": 93,
+      "ATL": 200,
+      "IAH": 26,
+      "LGA": 2,
+      "DTW": 37
+    },
+    "square": {
+      "x": 403.9461,
+      "y": 113.4756902761105,
+      "s": 10.684467335321225
+    }
+  },
+  "LFT": {
+    "iata": "LFT",
+    "airportString": "Lafayette Regional Airport",
+    "lat": 30.20528,
+    "lng": -91.98766,
+    "outboundFlightCounts": {
+      "all": 488,
+      "DFW": 150,
+      "IAH": 215,
+      "ATL": 89,
+      "DEN": 30
+    },
+    "square": {
+      "x": 330.1234,
+      "y": 191.82392957182876,
+      "s": 10.661425860666847
+    }
+  },
+  "FAR": {
+    "iata": "FAR",
+    "airportString": "Hector International Airport",
+    "lat": 46.91935,
+    "lng": -96.81499,
+    "outboundFlightCounts": {
+      "all": 481,
+      "ORD": 171,
+      "DEN": 109,
+      "DFW": 35,
+      "SLC": 23,
+      "MSP": 134,
+      "ATL": 2,
+      "JMS": 0
+    },
+    "square": {
+      "x": 281.85010000000005,
+      "y": 24.616346538615456,
+      "s": 10.651938194632692
+    }
+  },
+  "LBB": {
+    "iata": "LBB",
+    "airportString": "Lubbock Preston Smith International Airport",
+    "lat": 33.66364,
+    "lng": -101.82278,
+    "outboundFlightCounts": {
+      "all": 472,
+      "IAH": 87,
+      "DEN": 62,
+      "AUS": 26,
+      "DFW": 118,
+      "LAS": 30,
+      "DAL": 143
+    },
+    "square": {
+      "x": 231.77220000000005,
+      "y": 157.2264905962385,
+      "s": 10.639739766874492
+    }
+  },
+  "MHT": {
+    "iata": "MHT",
+    "airportString": "Manchester-Boston Regional Airport",
+    "lat": 42.93452,
+    "lng": -71.43706,
+    "outboundFlightCounts": {
+      "all": 469,
+      "ORD": 9,
+      "MCO": 65,
+      "TPA": 34,
+      "MDW": 63,
+      "BWI": 158,
+      "ATL": 29,
+      "DTW": 11,
+      "LGA": 44,
+      "EWR": 46,
+      "PHX": 0
+    },
+    "square": {
+      "x": 535.6293999999999,
+      "y": 64.48059223689478,
+      "s": 10.635673624288426
+    }
+  },
+  "SYR": {
+    "iata": "SYR",
+    "airportString": "Syracuse Hancock International Airport",
+    "lat": 43.11119,
+    "lng": -76.10631,
+    "outboundFlightCounts": {
+      "all": 463,
+      "JFK": 92,
+      "ORD": 143,
+      "CLT": 49,
+      "IAD": 16,
+      "ATL": 86,
+      "MCO": 30,
+      "EWR": 31,
+      "LGA": 7,
+      "DTW": 0
+    },
+    "square": {
+      "x": 488.93690000000004,
+      "y": 62.713185274109655,
+      "s": 10.627541339116291
+    }
+  },
+  "MOB": {
+    "iata": "MOB",
+    "airportString": "Mobile Regional Airport",
+    "lat": 30.69142,
+    "lng": -88.24283,
+    "outboundFlightCounts": {
+      "all": 441,
+      "DFW": 88,
+      "ATL": 190,
+      "IAH": 133,
+      "ORD": 26
+    },
+    "square": {
+      "x": 367.5717,
+      "y": 186.96058423369345,
+      "s": 10.597722960151803
+    }
+  },
+  "MLI": {
+    "iata": "MLI",
+    "airportString": "Quad City International Airport",
+    "lat": 41.44853,
+    "lng": -90.50754,
+    "outboundFlightCounts": {
+      "all": 425,
+      "DFW": 88,
+      "DEN": 36,
+      "ORD": 168,
+      "ATL": 87,
+      "DTW": 29,
+      "MSP": 11
+    },
+    "square": {
+      "x": 344.9246,
+      "y": 79.34643857543021,
+      "s": 10.576036866359447
+    }
+  },
+  "SBP": {
+    "iata": "SBP",
+    "airportString": "San Luis Obispo County Regional Airport (McChesney Field)",
+    "lat": 35.23706,
+    "lng": -120.64239,
+    "outboundFlightCounts": {
+      "all": 419,
+      "LAX": 184,
+      "PHX": 78,
+      "SFO": 154
+    },
+    "square": {
+      "x": 43.57609999999994,
+      "y": 141.48599439775913,
+      "s": 10.567904581187314
+    }
+  },
+  "HSV": {
+    "iata": "HSV",
+    "airportString": "Huntsville International Airport",
+    "lat": 34.64045,
+    "lng": -86.77311,
+    "outboundFlightCounts": {
+      "all": 418,
+      "ATL": 194,
+      "ORD": 35,
+      "DFW": 65,
+      "IAH": 77,
+      "DEN": 25,
+      "DTW": 14,
+      "IAD": 1
+    },
+    "square": {
+      "x": 382.2689,
+      "y": 147.45448179271708,
+      "s": 10.56654920032529
+    }
+  },
+  "FNT": {
+    "iata": "FNT",
+    "airportString": "Bishop International Airport",
+    "lat": 42.9655,
+    "lng": -83.74346,
+    "outboundFlightCounts": {
+      "all": 387,
+      "ORD": 150,
+      "ATL": 86,
+      "MCO": 30,
+      "TPA": 30,
+      "LAS": 30,
+      "BWI": 34,
+      "MSP": 16,
+      "RSW": 3
+    },
+    "square": {
+      "x": 412.5654,
+      "y": 64.17066826730695,
+      "s": 10.524532393602602
+    }
+  },
+  "VPS": {
+    "iata": "VPS",
+    "airportString": "Destin-Fort Walton Beach Airport/Eglin AFB",
+    "lat": 30.48325,
+    "lng": -86.5254,
+    "outboundFlightCounts": {
+      "all": 385,
+      "ATL": 171,
+      "IAH": 66,
+      "DFW": 145
+    },
+    "square": {
+      "x": 384.746,
+      "y": 189.04311724689876,
+      "s": 10.521821631878558
+    }
+  },
+  "SBN": {
+    "iata": "SBN",
+    "airportString": "South Bend International Airport (South Bend Regional)",
+    "lat": 41.70895,
+    "lng": -86.31847,
+    "outboundFlightCounts": {
+      "all": 384,
+      "ORD": 112,
+      "ATL": 112,
+      "MSP": 30,
+      "DTW": 96,
+      "EWR": 29
+    },
+    "square": {
+      "x": 386.8152999999999,
+      "y": 76.74119647859145,
+      "s": 10.520466251016536
+    }
+  },
+  "GRK": {
+    "iata": "GRK",
+    "airportString": "Killeen-Fort Hood Regional Airport",
+    "lat": 31.0649,
+    "lng": -97.8278,
+    "outboundFlightCounts": {
+      "all": 381,
+      "DFW": 274,
+      "ATL": 51,
+      "IAH": 53
+    },
+    "square": {
+      "x": 271.72200000000004,
+      "y": 183.22428971588636,
+      "s": 10.516400108430469
+    }
+  },
+  "ISP": {
+    "iata": "ISP",
+    "airportString": "Long Island MacArthur Airport",
+    "lat": 40.79524,
+    "lng": -73.10021,
+    "outboundFlightCounts": {
+      "all": 377,
+      "FLL": 65,
+      "PBI": 61,
+      "MCO": 89,
+      "BWI": 127,
+      "TPA": 30
+    },
+    "square": {
+      "x": 518.9979,
+      "y": 85.88195278111246,
+      "s": 10.51097858498238
+    }
+  },
+  "MFE": {
+    "iata": "MFE",
+    "airportString": "McAllen-Miller International Airport (McAllen Miller International)",
+    "lat": 26.17583,
+    "lng": -98.23861,
+    "outboundFlightCounts": {
+      "all": 373,
+      "DFW": 150,
+      "IAH": 221
+    },
+    "square": {
+      "x": 267.61390000000006,
+      "y": 232.1345538215286,
+      "s": 10.505557061534292
+    }
+  },
+  "GRB": {
+    "iata": "GRB",
+    "airportString": "Green Bay-Austin Straubel International Airport",
+    "lat": 44.48507,
+    "lng": -88.12959,
+    "outboundFlightCounts": {
+      "all": 365,
+      "ORD": 240,
+      "DTW": 14,
+      "MSP": 77,
+      "ATL": 30
+    },
+    "square": {
+      "x": 368.70410000000004,
+      "y": 48.96888755502202,
+      "s": 10.494714014638113
+    }
+  },
+  "PIA": {
+    "iata": "PIA",
+    "airportString": "General Wayne A. Downing Peoria International Airport",
+    "lat": 40.66424,
+    "lng": -89.69331,
+    "outboundFlightCounts": {
+      "all": 364,
+      "DTW": 29,
+      "ATL": 60,
+      "DFW": 84,
+      "ORD": 182,
+      "DEN": 4
+    },
+    "square": {
+      "x": 353.06690000000003,
+      "y": 87.19247699079634,
+      "s": 10.493358633776092
+    }
+  },
+  "JAC": {
+    "iata": "JAC",
+    "airportString": "Jackson Hole Airport",
+    "lat": 43.60732,
+    "lng": -110.73774,
+    "outboundFlightCounts": {
+      "all": 353,
+      "DEN": 90,
+      "DFW": 35,
+      "MSP": 7,
+      "LAX": 38,
+      "EWR": 8,
+      "SFO": 27,
+      "ATL": 7,
+      "ORD": 28,
+      "SLC": 87,
+      "IAH": 8,
+      "SEA": 4,
+      "IAD": 0,
+      "JFK": 1
+    },
+    "square": {
+      "x": 142.62259999999998,
+      "y": 57.749899959984,
+      "s": 10.478449444293847
+    }
+  },
+  "ACY": {
+    "iata": "ACY",
+    "airportString": "Atlantic City International Airport",
+    "lat": 39.45758,
+    "lng": -74.57717,
+    "outboundFlightCounts": {
+      "all": 341,
+      "RSW": 61,
+      "MYR": 30,
+      "FLL": 92,
+      "MCO": 92,
+      "PBI": 30,
+      "TPA": 30
+    },
+    "square": {
+      "x": 504.22830000000005,
+      "y": 99.2639055622249,
+      "s": 10.46218487394958
+    }
+  },
+  "GPT": {
+    "iata": "GPT",
+    "airportString": "Gulfport-Biloxi International Airport",
+    "lat": 30.40728,
+    "lng": -89.07009,
+    "outboundFlightCounts": {
+      "all": 337,
+      "IAH": 123,
+      "DFW": 88,
+      "ATL": 123
+    },
+    "square": {
+      "x": 359.29910000000007,
+      "y": 189.8031212484994,
+      "s": 10.456763350501491
+    }
+  },
+  "TLH": {
+    "iata": "TLH",
+    "airportString": "Tallahassee International Airport",
+    "lat": 30.39653,
+    "lng": -84.35033,
+    "outboundFlightCounts": {
+      "all": 331,
+      "DFW": 60,
+      "MIA": 97,
+      "ATL": 171
+    },
+    "square": {
+      "x": 406.49670000000003,
+      "y": 189.9106642657063,
+      "s": 10.448631065329357
+    }
+  },
+  "EUG": {
+    "iata": "EUG",
+    "airportString": "Eugene Airport (Mahlon Sweet Field)",
+    "lat": 44.12326,
+    "lng": -123.21869,
+    "outboundFlightCounts": {
+      "all": 330,
+      "DEN": 57,
+      "SFO": 160,
+      "SLC": 56,
+      "LAX": 53
+    },
+    "square": {
+      "x": 17.81310000000005,
+      "y": 52.58843537414967,
+      "s": 10.447275684467336
+    }
+  },
+  "MRY": {
+    "iata": "MRY",
+    "airportString": "Monterey Regional Airport (Monterey Peninsula Airport)",
+    "lat": 36.58698,
+    "lng": -121.84295,
+    "outboundFlightCounts": {
+      "all": 322,
+      "SFO": 118,
+      "PHX": 48,
+      "LAX": 153
+    },
+    "square": {
+      "x": 31.57049999999998,
+      "y": 127.98139255702284,
+      "s": 10.436432637571157
+    }
+  },
+  "CHA": {
+    "iata": "CHA",
+    "airportString": "Chattanooga Metropolitan Airport (Lovell Field)",
+    "lat": 35.03527,
+    "lng": -85.20379,
+    "outboundFlightCounts": {
+      "all": 312,
+      "ATL": 180,
+      "DFW": 57,
+      "ORD": 26,
+      "DTW": 45
+    },
+    "square": {
+      "x": 397.9621,
+      "y": 143.50470188075235,
+      "s": 10.422878828950935
+    }
+  },
+  "SRQ": {
+    "iata": "SRQ",
+    "airportString": "Sarasota-Bradenton International Airport",
+    "lat": 27.39533,
+    "lng": -82.55411,
+    "outboundFlightCounts": {
+      "all": 312,
+      "ATL": 175,
+      "JFK": 30,
+      "DTW": 7,
+      "ORD": 30,
+      "BOS": 30,
+      "LGA": 34
+    },
+    "square": {
+      "x": 424.4589,
+      "y": 219.93467386954782,
+      "s": 10.422878828950935
+    }
+  },
+  "EVV": {
+    "iata": "EVV",
+    "airportString": "Evansville Regional Airport",
+    "lat": 38.03799,
+    "lng": -87.53063,
+    "outboundFlightCounts": {
+      "all": 308,
+      "DTW": 75,
+      "ORD": 115,
+      "ATL": 84,
+      "DFW": 30
+    },
+    "square": {
+      "x": 374.6937,
+      "y": 113.4654861944778,
+      "s": 10.417457305502847
+    }
+  },
+  "BIS": {
+    "iata": "BIS",
+    "airportString": "Bismarck Municipal Airport",
+    "lat": 46.77411,
+    "lng": -100.74672,
+    "outboundFlightCounts": {
+      "all": 307,
+      "DEN": 108,
+      "DFW": 29,
+      "MSP": 136,
+      "ORD": 30
+    },
+    "square": {
+      "x": 242.53280000000004,
+      "y": 26.069327731092457,
+      "s": 10.416101924640824
+    }
+  },
+  "FWA": {
+    "iata": "FWA",
+    "airportString": "Fort Wayne International Airport",
+    "lat": 40.97847,
+    "lng": -85.19515,
+    "outboundFlightCounts": {
+      "all": 303,
+      "DFW": 57,
+      "ORD": 207,
+      "ATL": 25,
+      "DTW": 10
+    },
+    "square": {
+      "x": 398.04850000000005,
+      "y": 84.04891956782713,
+      "s": 10.410680401192735
+    }
+  },
+  "EGE": {
+    "iata": "EGE",
+    "airportString": "Eagle County Regional Airport",
+    "lat": 39.64257,
+    "lng": -106.9177,
+    "outboundFlightCounts": {
+      "all": 299,
+      "JFK": 30,
+      "DFW": 79,
+      "ATL": 30,
+      "MIA": 30,
+      "DEN": 4,
+      "EWR": 30,
+      "ORD": 26,
+      "IAH": 30,
+      "LAX": 30,
+      "MSP": 0
+    },
+    "square": {
+      "x": 180.82300000000004,
+      "y": 97.41326530612247,
+      "s": 10.405258877744647
+    }
+  },
+  "MDT": {
+    "iata": "MDT",
+    "airportString": "Harrisburg International Airport",
+    "lat": 40.1935,
+    "lng": -76.7634,
+    "outboundFlightCounts": {
+      "all": 292,
+      "ATL": 86,
+      "MCO": 21,
+      "DTW": 78,
+      "ORD": 75,
+      "DEN": 1,
+      "CLT": 25
+    },
+    "square": {
+      "x": 482.366,
+      "y": 91.90176070428173,
+      "s": 10.39577121171049
+    }
+  },
+  "HRL": {
+    "iata": "HRL",
+    "airportString": "Valley International Airport",
+    "lat": 26.22851,
+    "lng": -97.65439,
+    "outboundFlightCounts": {
+      "all": 286,
+      "HOU": 142,
+      "IAH": 111,
+      "AUS": 30
+    },
+    "square": {
+      "x": 273.45609999999994,
+      "y": 231.6075430172069,
+      "s": 10.387638926538358
+    }
+  },
+  "AEX": {
+    "iata": "AEX",
+    "airportString": "Alexandria International Airport",
+    "lat": 31.32737,
+    "lng": -92.54856,
+    "outboundFlightCounts": {
+      "all": 282,
+      "DFW": 92,
+      "ATL": 108,
+      "IAH": 79
+    },
+    "square": {
+      "x": 324.5144000000001,
+      "y": 180.59853941576634,
+      "s": 10.382217403090268
+    }
+  },
+  "MGM": {
+    "iata": "MGM",
+    "airportString": "Montgomery Regional Airport",
+    "lat": 32.30064,
+    "lng": -86.39398,
+    "outboundFlightCounts": {
+      "all": 282,
+      "ATL": 193,
+      "DFW": 87
+    },
+    "square": {
+      "x": 386.0602,
+      "y": 170.86194477791116,
+      "s": 10.382217403090268
+    }
+  },
+  "GJT": {
+    "iata": "GJT",
+    "airportString": "Grand Junction Regional Airport (Walker Field)",
+    "lat": 39.12241,
+    "lng": -108.52673,
+    "outboundFlightCounts": {
+      "all": 279,
+      "DFW": 61,
+      "PHX": 89,
+      "DEN": 64,
+      "IAH": 4,
+      "SLC": 56
+    },
+    "square": {
+      "x": 164.7327,
+      "y": 102.61694677871148,
+      "s": 10.378151260504202
+    }
+  },
+  "MYR": {
+    "iata": "MYR",
+    "airportString": "Myrtle Beach International Airport",
+    "lat": 33.67975,
+    "lng": -78.92833,
+    "outboundFlightCounts": {
+      "all": 266,
+      "FLL": 30,
+      "LGA": 60,
+      "ATL": 111,
+      "ACY": 30,
+      "BOS": 30
+    },
+    "square": {
+      "x": 460.71669999999995,
+      "y": 157.0653261304522,
+      "s": 10.360531309297913
+    }
+  },
+  "ISN": {
+    "iata": "ISN",
+    "airportString": "Sloulin Field International Airport",
+    "lat": 48.17794,
+    "lng": -103.64235,
+    "outboundFlightCounts": {
+      "all": 258,
+      "DEN": 118,
+      "MSP": 107,
+      "IAH": 30
+    },
+    "square": {
+      "x": 213.57650000000004,
+      "y": 12.025410164065656,
+      "s": 10.349688262401735
+    }
+  },
+  "BZN": {
+    "iata": "BZN",
+    "airportString": "Bozeman Yellowstone International Airport (Gallatin Field Airport)",
+    "lat": 45.7769,
+    "lng": -111.15301,
+    "outboundFlightCounts": {
+      "all": 252,
+      "DEN": 79,
+      "ATL": 14,
+      "LAX": 9,
+      "SFO": 4,
+      "ORD": 3,
+      "SLC": 88,
+      "IAH": 8,
+      "MSP": 30,
+      "EWR": 6,
+      "SEA": 1
+    },
+    "square": {
+      "x": 138.46990000000005,
+      "y": 36.04541816726695,
+      "s": 10.341555977229602
+    }
+  },
+  "MLU": {
+    "iata": "MLU",
+    "airportString": "Monroe Regional Airport",
+    "lat": 32.51087,
+    "lng": -92.03769,
+    "outboundFlightCounts": {
+      "all": 251,
+      "IAH": 53,
+      "DFW": 84,
+      "ATL": 111
+    },
+    "square": {
+      "x": 329.6231,
+      "y": 168.7588035214086,
+      "s": 10.340200596367579
+    }
+  },
+  "BMI": {
+    "iata": "BMI",
+    "airportString": "Central Illinois Regional Airport at Bloomington-Normal",
+    "lat": 40.47799,
+    "lng": -88.91595,
+    "outboundFlightCounts": {
+      "all": 249,
+      "DFW": 61,
+      "ORD": 82,
+      "ATL": 68,
+      "DEN": 2,
+      "MCO": 8,
+      "MSP": 22
+    },
+    "square": {
+      "x": 360.8405,
+      "y": 89.0557222889156,
+      "s": 10.337489834643534
+    }
+  },
+  "EYW": {
+    "iata": "EYW",
+    "airportString": "Key West International Airport",
+    "lat": 24.55611,
+    "lng": -81.75956,
+    "outboundFlightCounts": {
+      "all": 245,
+      "ATL": 137,
+      "MIA": 105,
+      "LGA": 0
+    },
+    "square": {
+      "x": 432.40440000000007,
+      "y": 248.33823529411762,
+      "s": 10.332068311195446
+    }
+  },
+  "BTV": {
+    "iata": "BTV",
+    "airportString": "Burlington International Airport",
+    "lat": 44.473,
+    "lng": -73.15031,
+    "outboundFlightCounts": {
+      "all": 241,
+      "JFK": 91,
+      "ORD": 22,
+      "LGA": 5,
+      "DTW": 75,
+      "ATL": 30,
+      "EWR": 5,
+      "IAD": 6
+    },
+    "square": {
+      "x": 518.4969,
+      "y": 49.08963585434177,
+      "s": 10.326646787747357
+    }
+  },
+  "ABI": {
+    "iata": "ABI",
+    "airportString": "Abilene Regional Airport",
+    "lat": 32.41132,
+    "lng": -99.6819,
+    "outboundFlightCounts": {
+      "all": 239,
+      "DFW": 238
+    },
+    "square": {
+      "x": 253.181,
+      "y": 169.7547018807523,
+      "s": 10.323936026023313
+    }
+  },
+  "TTN": {
+    "iata": "TTN",
+    "airportString": "Trenton Mercer Airport",
+    "lat": 40.27669,
+    "lng": -74.81347,
+    "outboundFlightCounts": {
+      "all": 239,
+      "ATL": 25,
+      "RDU": 16,
+      "CVG": 2,
+      "FLL": 26,
+      "RSW": 20,
+      "MSP": 2,
+      "PBI": 12,
+      "IND": 1,
+      "DTW": 2,
+      "STL": 2,
+      "MCO": 51,
+      "MDW": 13,
+      "BNA": 1,
+      "UST": 12,
+      "TPA": 19,
+      "MKE": 1,
+      "CLT": 17
+    },
+    "square": {
+      "x": 501.86530000000005,
+      "y": 91.06952781112444,
+      "s": 10.323936026023313
+    }
+  },
+  "ECP": {
+    "iata": "ECP",
+    "airportString": "Northwest Florida Beaches International Airport",
+    "lat": null,
+    "lng": null,
+    "outboundFlightCounts": {
+      "all": 233,
+      "BNA": 31,
+      "ATL": 164,
+      "BWI": 4,
+      "HOU": 30
+    },
+    "square": {
+      "x": null,
+      "y": null,
+      "s": 10.315803740851178
+    }
+  },
+  "BFL": {
+    "iata": "BFL",
+    "airportString": "Meadows Field",
+    "lat": 35.4336,
+    "lng": -119.05677,
+    "outboundFlightCounts": {
+      "all": 231,
+      "DEN": 53,
+      "SFO": 61,
+      "PHX": 58,
+      "IAH": 55
+    },
+    "square": {
+      "x": 59.4323,
+      "y": 139.51980792316928,
+      "s": 10.313092979127134
+    }
+  },
+  "ATW": {
+    "iata": "ATW",
+    "airportString": "Appleton International Airport",
+    "lat": 44.25741,
+    "lng": -88.51948,
+    "outboundFlightCounts": {
+      "all": 226,
+      "ATL": 33,
+      "ORD": 118,
+      "MSP": 35,
+      "DTW": 36
+    },
+    "square": {
+      "x": 364.8052,
+      "y": 51.24639855942379,
+      "s": 10.306316074817024
+    }
+  },
+  "PWM": {
+    "iata": "PWM",
+    "airportString": "Portland International Jetport",
+    "lat": 43.64617,
+    "lng": -70.30875,
+    "outboundFlightCounts": {
+      "all": 226,
+      "JFK": 87,
+      "CLT": 30,
+      "BWI": 65,
+      "ATL": 26,
+      "ORD": 4,
+      "EWR": 4,
+      "DTW": 3
+    },
+    "square": {
+      "x": 546.9124999999999,
+      "y": 57.36124449779916,
+      "s": 10.306316074817024
+    }
+  },
+  "GNV": {
+    "iata": "GNV",
+    "airportString": "Gainesville Regional Airport",
+    "lat": 29.69006,
+    "lng": -82.27178,
+    "outboundFlightCounts": {
+      "all": 225,
+      "MIA": 52,
+      "ATL": 171
+    },
+    "square": {
+      "x": 427.28219999999993,
+      "y": 196.97819127651061,
+      "s": 10.304960693955001
+    }
+  },
+  "MFR": {
+    "iata": "MFR",
+    "airportString": "Rogue Valley International Airport",
+    "lat": 42.37423,
+    "lng": -122.8735,
+    "outboundFlightCounts": {
+      "all": 223,
+      "DEN": 34,
+      "SFO": 130,
+      "SLC": 56
+    },
+    "square": {
+      "x": 21.26499999999993,
+      "y": 70.08573429371754,
+      "s": 10.302249932230957
+    }
+  },
+  "BIL": {
+    "iata": "BIL",
+    "airportString": "Billings Logan International Airport",
+    "lat": 45.80766,
+    "lng": -108.54286,
+    "outboundFlightCounts": {
+      "all": 220,
+      "SLC": 96,
+      "DEN": 89,
+      "MSP": 32
+    },
+    "square": {
+      "x": 164.57139999999995,
+      "y": 35.73769507803125,
+      "s": 10.29818378964489
+    }
+  },
+  "AZO": {
+    "iata": "AZO",
+    "airportString": "Kalamazoo/Battle Creek International Airport",
+    "lat": 42.23488,
+    "lng": -85.55206,
+    "outboundFlightCounts": {
+      "all": 211,
+      "ORD": 117,
+      "ATL": 4,
+      "DTW": 72,
+      "MSP": 14
+    },
+    "square": {
+      "x": 394.4794,
+      "y": 71.47979191676676,
+      "s": 10.28598536188669
+    }
+  },
+  "RAP": {
+    "iata": "RAP",
+    "airportString": "Rapid City Regional Airport",
+    "lat": 44.04532,
+    "lng": -103.05737,
+    "outboundFlightCounts": {
+      "all": 210,
+      "DEN": 37,
+      "DFW": 61,
+      "SLC": 27,
+      "ORD": 4,
+      "ATL": 2,
+      "MSP": 73
+    },
+    "square": {
+      "x": 219.42629999999994,
+      "y": 53.36814725890362,
+      "s": 10.284629981024668
+    }
+  },
+  "CMI": {
+    "iata": "CMI",
+    "airportString": "University of Illinois - Willard Airport",
+    "lat": 40.03925,
+    "lng": -88.27806,
+    "outboundFlightCounts": {
+      "all": 208,
+      "DFW": 30,
+      "ORD": 176
+    },
+    "square": {
+      "x": 367.21940000000006,
+      "y": 93.44487795118046,
+      "s": 10.281919219300624
+    }
+  },
+  "LRD": {
+    "iata": "LRD",
+    "airportString": "Laredo International Airport",
+    "lat": 27.54374,
+    "lng": -99.46154,
+    "outboundFlightCounts": {
+      "all": 208,
+      "DFW": 123,
+      "IAH": 83
+    },
+    "square": {
+      "x": 255.3846,
+      "y": 218.4499799919968,
+      "s": 10.281919219300624
+    }
+  },
+  "AVL": {
+    "iata": "AVL",
+    "airportString": "Asheville Regional Airport",
+    "lat": 35.43619,
+    "lng": -82.54181,
+    "outboundFlightCounts": {
+      "all": 207,
+      "ATL": 167,
+      "ORD": 33,
+      "EWR": 4
+    },
+    "square": {
+      "x": 424.5819,
+      "y": 139.4938975590236,
+      "s": 10.280563838438601
+    }
+  },
+  "BRO": {
+    "iata": "BRO",
+    "airportString": "Brownsville/South Padre Island International Airport",
+    "lat": 25.90683,
+    "lng": -97.42586,
+    "outboundFlightCounts": {
+      "all": 204,
+      "IAH": 114,
+      "DFW": 88
+    },
+    "square": {
+      "x": 275.7414,
+      "y": 234.82563025210084,
+      "s": 10.276497695852534
+    }
+  },
+  "CLD": {
+    "iata": "CLD",
+    "airportString": "McClellan-Palomar Airport",
+    "lat": 33.12723,
+    "lng": -117.27873,
+    "outboundFlightCounts": {
+      "all": 204,
+      "LAX": 203
+    },
+    "square": {
+      "x": 77.21270000000004,
+      "y": 162.592737094838,
+      "s": 10.276497695852534
+    }
+  },
+  "CLL": {
+    "iata": "CLL",
+    "airportString": "Easterwood Airport",
+    "lat": 30.58859,
+    "lng": -96.36382,
+    "outboundFlightCounts": {
+      "all": 202,
+      "DFW": 149,
+      "IAH": 51
+    },
+    "square": {
+      "x": 286.36179999999996,
+      "y": 187.9892957182873,
+      "s": 10.27378693412849
+    }
+  },
+  "CHO": {
+    "iata": "CHO",
+    "airportString": "Charlottesville-Albemarle Airport",
+    "lat": 38.13864,
+    "lng": -78.45286,
+    "outboundFlightCounts": {
+      "all": 201,
+      "ORD": 61,
+      "ATL": 84,
+      "LGA": 53
+    },
+    "square": {
+      "x": 465.47139999999996,
+      "y": 112.45858343337333,
+      "s": 10.272431553266468
+    }
+  },
+  "LNK": {
+    "iata": "LNK",
+    "airportString": "Lincoln Airport (Lincoln Municipal)",
+    "lat": 40.85097,
+    "lng": -96.75925,
+    "outboundFlightCounts": {
+      "all": 201,
+      "DEN": 61,
+      "ORD": 91,
+      "ATL": 28,
+      "MSP": 17
+    },
+    "square": {
+      "x": 282.4075,
+      "y": 85.32442977190883,
+      "s": 10.272431553266468
+    }
+  },
+  "AGS": {
+    "iata": "AGS",
+    "airportString": "Augusta Regional Airport (Bush Field)",
+    "lat": 33.36996,
+    "lng": -81.9645,
+    "outboundFlightCounts": {
+      "all": 200,
+      "ATL": 199
+    },
+    "square": {
+      "x": 430.35499999999996,
+      "y": 160.16446578631454,
+      "s": 10.271076172404445
+    }
+  },
+  "FSM": {
+    "iata": "FSM",
+    "airportString": "Fort Smith Regional Airport",
+    "lat": 35.33659,
+    "lng": -94.36744,
+    "outboundFlightCounts": {
+      "all": 199,
+      "DFW": 119,
+      "ATL": 78
+    },
+    "square": {
+      "x": 306.32559999999995,
+      "y": 140.4902961184474,
+      "s": 10.269720791542424
+    }
+  },
+  "TVC": {
+    "iata": "TVC",
+    "airportString": "Cherry Capital Airport",
+    "lat": 44.74144,
+    "lng": -85.58224,
+    "outboundFlightCounts": {
+      "all": 197,
+      "ORD": 158,
+      "DTW": 37
+    },
+    "square": {
+      "x": 394.1776,
+      "y": 46.40416166466592,
+      "s": 10.26701002981838
+    }
+  },
+  "TYR": {
+    "iata": "TYR",
+    "airportString": "Tyler Pounds Regional Airport",
+    "lat": 32.35414,
+    "lng": -95.40239,
+    "outboundFlightCounts": {
+      "all": 193,
+      "DFW": 150,
+      "IAH": 41
+    },
+    "square": {
+      "x": 295.97610000000003,
+      "y": 170.32673069227693,
+      "s": 10.26158850637029
+    }
+  },
+  "LAN": {
+    "iata": "LAN",
+    "airportString": "Capital Region International Airport ( Lansing Capital City)",
+    "lat": 42.7787,
+    "lng": -84.58736,
+    "outboundFlightCounts": {
+      "all": 191,
+      "ORD": 65,
+      "DTW": 71,
+      "ATL": 3,
+      "MSP": 48
+    },
+    "square": {
+      "x": 404.1264,
+      "y": 66.03941576630653,
+      "s": 10.258877744646245
+    }
+  },
+  "IDA": {
+    "iata": "IDA",
+    "airportString": "Idaho Falls Regional Airport",
+    "lat": 43.51456,
+    "lng": -112.07017,
+    "outboundFlightCounts": {
+      "all": 190,
+      "DEN": 68,
+      "SLC": 120
+    },
+    "square": {
+      "x": 129.29829999999995,
+      "y": 58.677871148459374,
+      "s": 10.257522363784224
+    }
+  },
+  "DRO": {
+    "iata": "DRO",
+    "airportString": "Durango-La Plata County Airport",
+    "lat": 37.15152,
+    "lng": -107.75377,
+    "outboundFlightCounts": {
+      "all": 188,
+      "PHX": 69,
+      "DFW": 65,
+      "DEN": 51
+    },
+    "square": {
+      "x": 172.4623,
+      "y": 122.33373349339739,
+      "s": 10.25481160206018
+    }
+  },
+  "RST": {
+    "iata": "RST",
+    "airportString": "Rochester International Airport",
+    "lat": 43.90883,
+    "lng": -92.49799,
+    "outboundFlightCounts": {
+      "all": 187,
+      "ORD": 116,
+      "ATL": 29,
+      "MSP": 39
+    },
+    "square": {
+      "x": 325.0201,
+      "y": 54.73359343737495,
+      "s": 10.253456221198157
+    }
+  },
+  "PSC": {
+    "iata": "PSC",
+    "airportString": "Tri-Cities Airport",
+    "lat": 46.26468,
+    "lng": -119.11903,
+    "outboundFlightCounts": {
+      "all": 180,
+      "DEN": 62,
+      "SFO": 30,
+      "SLC": 85
+    },
+    "square": {
+      "x": 58.80970000000005,
+      "y": 31.16566626650664,
+      "s": 10.243968555164
+    }
+  },
+  "CRW": {
+    "iata": "CRW",
+    "airportString": "Yeager Airport",
+    "lat": 38.37315,
+    "lng": -81.59319,
+    "outboundFlightCounts": {
+      "all": 176,
+      "ORD": 34,
+      "ATL": 86,
+      "DFW": 26,
+      "IAH": 26
+    },
+    "square": {
+      "x": 434.0680999999999,
+      "y": 110.1125450180072,
+      "s": 10.238547031715912
+    }
+  },
+  "MOT": {
+    "iata": "MOT",
+    "airportString": "Minot International Airport",
+    "lat": 48.25938,
+    "lng": -101.28033,
+    "outboundFlightCounts": {
+      "all": 168,
+      "DEN": 117,
+      "MSP": 49
+    },
+    "square": {
+      "x": 237.19669999999994,
+      "y": 11.210684273709507,
+      "s": 10.227703984819735
+    }
+  },
+  "CPR": {
+    "iata": "CPR",
+    "airportString": "Natrona County International Airport",
+    "lat": 42.90836,
+    "lng": -106.46447,
+    "outboundFlightCounts": {
+      "all": 166,
+      "DEN": 110,
+      "SLC": 54
+    },
+    "square": {
+      "x": 185.35529999999994,
+      "y": 64.74229691876751,
+      "s": 10.224993223095689
+    }
+  },
+  "MTJ": {
+    "iata": "MTJ",
+    "airportString": "Montrose Regional Airport",
+    "lat": 38.50887,
+    "lng": -107.89383,
+    "outboundFlightCounts": {
+      "all": 166,
+      "DEN": 61,
+      "ATL": 7,
+      "ORD": 30,
+      "IAH": 29,
+      "PHX": 8,
+      "EWR": 2,
+      "DFW": 4,
+      "LAX": 8,
+      "SFO": 8
+    },
+    "square": {
+      "x": 171.06170000000006,
+      "y": 108.7548019207683,
+      "s": 10.224993223095689
+    }
+  },
+  "TRI": {
+    "iata": "TRI",
+    "airportString": "Tri-Cities Regional Airport",
+    "lat": 36.47521,
+    "lng": -82.40742,
+    "outboundFlightCounts": {
+      "all": 166,
+      "ATL": 165
+    },
+    "square": {
+      "x": 425.9258,
+      "y": 129.09953981592642,
+      "s": 10.224993223095689
+    }
+  },
+  "RDM": {
+    "iata": "RDM",
+    "airportString": "Redmond Municipal Airport (Roberts Field)",
+    "lat": 44.25407,
+    "lng": -121.14996,
+    "outboundFlightCounts": {
+      "all": 165,
+      "DEN": 30,
+      "SFO": 60,
+      "LAX": 23,
+      "SLC": 48
+    },
+    "square": {
+      "x": 38.50040000000007,
+      "y": 51.279811924769945,
+      "s": 10.223637842233668
+    }
+  },
+  "YUM": {
+    "iata": "YUM",
+    "airportString": "Yuma International Airport",
+    "lat": 32.65658,
+    "lng": -114.60597,
+    "outboundFlightCounts": {
+      "all": 165,
+      "PHX": 164
+    },
+    "square": {
+      "x": 103.94030000000001,
+      "y": 167.3011204481793,
+      "s": 10.223637842233668
+    }
+  },
+  "ABE": {
+    "iata": "ABE",
+    "airportString": "Lehigh Valley International Airport",
+    "lat": 40.65236,
+    "lng": -75.4404,
+    "outboundFlightCounts": {
+      "all": 164,
+      "DTW": 72,
+      "ATL": 70,
+      "ORD": 19
+    },
+    "square": {
+      "x": 495.596,
+      "y": 87.31132452981193,
+      "s": 10.222282461371645
+    }
+  },
+  "MBS": {
+    "iata": "MBS",
+    "airportString": "MBS International Airport",
+    "lat": 43.53291,
+    "lng": -84.07965,
+    "outboundFlightCounts": {
+      "all": 163,
+      "ORD": 118,
+      "ATL": 2,
+      "DTW": 38,
+      "MSP": 1
+    },
+    "square": {
+      "x": 409.2035,
+      "y": 58.49429771908765,
+      "s": 10.220927080509624
+    }
+  },
+  "ELM": {
+    "iata": "ELM",
+    "airportString": "Elmira/Corning Regional Airport",
+    "lat": 42.15991,
+    "lng": -76.89144,
+    "outboundFlightCounts": {
+      "all": 162,
+      "ORD": 56,
+      "ATL": 2,
+      "DTW": 101
+    },
+    "square": {
+      "x": 481.0856,
+      "y": 72.22979191676669,
+      "s": 10.2195716996476
+    }
+  },
+  "FAY": {
+    "iata": "FAY",
+    "airportString": "Fayetteville Regional Airport",
+    "lat": 34.99147,
+    "lng": -78.88,
+    "outboundFlightCounts": {
+      "all": 156,
+      "ATL": 155
+    },
+    "square": {
+      "x": 461.20000000000005,
+      "y": 143.94287715086034,
+      "s": 10.211439414475468
+    }
+  },
+  "DLH": {
+    "iata": "DLH",
+    "airportString": "Duluth International Airport",
+    "lat": 46.84209,
+    "lng": -92.19365,
+    "outboundFlightCounts": {
+      "all": 151,
+      "ORD": 92,
+      "MSP": 57
+    },
+    "square": {
+      "x": 328.0634999999999,
+      "y": 25.38925570228095,
+      "s": 10.204662510165356
+    }
+  },
+  "MHK": {
+    "iata": "MHK",
+    "airportString": "Manhattan Regional Airport",
+    "lat": 39.14097,
+    "lng": -96.67083,
+    "outboundFlightCounts": {
+      "all": 151,
+      "DFW": 92,
+      "ORD": 57
+    },
+    "square": {
+      "x": 283.29170000000005,
+      "y": 102.43127250900359,
+      "s": 10.204662510165356
+    }
+  },
+  "SJT": {
+    "iata": "SJT",
+    "airportString": "San Angelo Regional Airport (Mathis Field)",
+    "lat": 31.35775,
+    "lng": -100.49631,
+    "outboundFlightCounts": {
+      "all": 151,
+      "DFW": 150
+    },
+    "square": {
+      "x": 245.03690000000006,
+      "y": 180.29461784713888,
+      "s": 10.204662510165356
+    }
+  },
+  "ACV": {
+    "iata": "ACV",
+    "airportString": "Arcata Airport",
+    "lat": 40.97812,
+    "lng": -124.10862,
+    "outboundFlightCounts": {
+      "all": 150,
+      "SFO": 149
+    },
+    "square": {
+      "x": 8.91379999999998,
+      "y": 84.0524209683874,
+      "s": 10.203307129303335
+    }
+  },
+  "HDN": {
+    "iata": "HDN",
+    "airportString": "Yampa Valley Airport (Yampa Valley Regional)",
+    "lat": 40.48118,
+    "lng": -107.21766,
+    "outboundFlightCounts": {
+      "all": 150,
+      "DEN": 1,
+      "DFW": 39,
+      "ATL": 26,
+      "IAH": 31,
+      "LAX": 17,
+      "EWR": 4,
+      "ORD": 5,
+      "IAD": 1,
+      "SFO": 4,
+      "SEA": 12
+    },
+    "square": {
+      "x": 177.82340000000005,
+      "y": 89.02380952380952,
+      "s": 10.203307129303335
+    }
+  },
+  "ILM": {
+    "iata": "ILM",
+    "airportString": "Wilmington International Airport",
+    "lat": 34.27061,
+    "lng": -77.90256,
+    "outboundFlightCounts": {
+      "all": 149,
+      "ATL": 147,
+      "CLT": 0
+    },
+    "square": {
+      "x": 470.97440000000006,
+      "y": 151.1543617446979,
+      "s": 10.201951748441312
+    }
+  },
+  "ACT": {
+    "iata": "ACT",
+    "airportString": "Waco Regional Airport",
+    "lat": 31.61129,
+    "lng": -97.23052,
+    "outboundFlightCounts": {
+      "all": 147,
+      "DFW": 146
+    },
+    "square": {
+      "x": 277.69480000000004,
+      "y": 177.75820328131255,
+      "s": 10.199240986717268
+    }
+  },
+  "LCH": {
+    "iata": "LCH",
+    "airportString": "Lake Charles Regional Airport",
+    "lat": 30.1261,
+    "lng": -93.2234,
+    "outboundFlightCounts": {
+      "all": 147,
+      "DFW": 61,
+      "IAH": 84
+    },
+    "square": {
+      "x": 317.766,
+      "y": 192.6160464185674,
+      "s": 10.199240986717268
+    }
+  },
+  "GTF": {
+    "iata": "GTF",
+    "airportString": "Great Falls International Airport",
+    "lat": 47.482,
+    "lng": -111.37069,
+    "outboundFlightCounts": {
+      "all": 146,
+      "DEN": 67,
+      "SLC": 77
+    },
+    "square": {
+      "x": 136.29310000000004,
+      "y": 18.987595038015236,
+      "s": 10.197885605855245
+    }
+  },
+  "SGU": {
+    "iata": "SGU",
+    "airportString": "St. George Regional Airport",
+    "lat": 37.09058,
+    "lng": -113.59306,
+    "outboundFlightCounts": {
+      "all": 146,
+      "DEN": 30,
+      "SLC": 114
+    },
+    "square": {
+      "x": 114.06940000000006,
+      "y": 122.94337735094037,
+      "s": 10.197885605855245
+    }
+  },
+  "FLG": {
+    "iata": "FLG",
+    "airportString": "Flagstaff Pulliam Airport",
+    "lat": 35.13845,
+    "lng": -111.67122,
+    "outboundFlightCounts": {
+      "all": 142,
+      "PHX": 141
+    },
+    "square": {
+      "x": 133.28779999999995,
+      "y": 142.47248899559827,
+      "s": 10.192464082407156
+    }
+  },
+  "PHF": {
+    "iata": "PHF",
+    "airportString": "Newport News/Williamsburg International Airport",
+    "lat": 37.1319,
+    "lng": -76.49299,
+    "outboundFlightCounts": {
+      "all": 140,
+      "ATL": 136,
+      "DEN": 2
+    },
+    "square": {
+      "x": 485.0700999999999,
+      "y": 122.53001200480192,
+      "s": 10.189753320683112
+    }
+  },
+  "ROA": {
+    "iata": "ROA",
+    "airportString": "Roanoke Regional Airport (Woodrum Field)",
+    "lat": 37.32547,
+    "lng": -79.97543,
+    "outboundFlightCounts": {
+      "all": 140,
+      "ORD": 20,
+      "ATL": 114,
+      "IAD": 3
+    },
+    "square": {
+      "x": 450.2457,
+      "y": 120.59353741496598,
+      "s": 10.189753320683112
+    }
+  },
+  "MSO": {
+    "iata": "MSO",
+    "airportString": "Missoula International Airport",
+    "lat": 46.91631,
+    "lng": -114.09056,
+    "outboundFlightCounts": {
+      "all": 137,
+      "DEN": 34,
+      "SLC": 68,
+      "MSP": 29,
+      "ATL": 1,
+      "BTM": 0
+    },
+    "square": {
+      "x": 109.09440000000004,
+      "y": 24.64675870348139,
+      "s": 10.185687178097044
+    }
+  },
+  "FCA": {
+    "iata": "FCA",
+    "airportString": "Glacier Park International Airport",
+    "lat": 48.3114,
+    "lng": -114.25507,
+    "outboundFlightCounts": {
+      "all": 129,
+      "DEN": 40,
+      "SLC": 73,
+      "ORD": 4,
+      "MSP": 8
+    },
+    "square": {
+      "x": 107.44929999999997,
+      "y": 10.690276110444213,
+      "s": 10.174844131200867
+    }
+  },
+  "LAW": {
+    "iata": "LAW",
+    "airportString": "Lawton-Fort Sill Regional Airport",
+    "lat": 34.56771,
+    "lng": -98.41664,
+    "outboundFlightCounts": {
+      "all": 129,
+      "DFW": 128
+    },
+    "square": {
+      "x": 265.8336,
+      "y": 148.1821728691477,
+      "s": 10.174844131200867
+    }
+  },
+  "SPI": {
+    "iata": "SPI",
+    "airportString": "Abraham Lincoln Capital Airport",
+    "lat": 39.84395,
+    "lng": -89.67762,
+    "outboundFlightCounts": {
+      "all": 129,
+      "ORD": 92,
+      "DFW": 35
+    },
+    "square": {
+      "x": 353.2238,
+      "y": 95.39865946378553,
+      "s": 10.174844131200867
+    }
+  },
+  "ERI": {
+    "iata": "ERI",
+    "airportString": "Erie International Airport",
+    "lat": 42.08202,
+    "lng": -80.17622,
+    "outboundFlightCounts": {
+      "all": 127,
+      "ORD": 57,
+      "DTW": 68
+    },
+    "square": {
+      "x": 448.2378,
+      "y": 73.0090036014406,
+      "s": 10.172133369476823
+    }
+  },
+  "COU": {
+    "iata": "COU",
+    "airportString": "Columbia Regional Airport",
+    "lat": 38.81809,
+    "lng": -92.21963,
+    "outboundFlightCounts": {
+      "all": 124,
+      "DFW": 61,
+      "ORD": 61
+    },
+    "square": {
+      "x": 327.80370000000005,
+      "y": 105.66136454581837,
+      "s": 10.168067226890756
+    }
+  },
+  "GCC": {
+    "iata": "GCC",
+    "airportString": "Gillette-Campbell County Airport",
+    "lat": 44.3489,
+    "lng": -105.53936,
+    "outboundFlightCounts": {
+      "all": 121,
+      "RKS": 27,
+      "DEN": 61,
+      "SLC": 30
+    },
+    "square": {
+      "x": 194.60639999999995,
+      "y": 50.33113245298121,
+      "s": 10.16400108430469
+    }
+  },
+  "CWA": {
+    "iata": "CWA",
+    "airportString": "Central Wisconsin Airport",
+    "lat": 44.77762,
+    "lng": -89.66678,
+    "outboundFlightCounts": {
+      "all": 120,
+      "ORD": 118,
+      "MSP": 0
+    },
+    "square": {
+      "x": 353.33219999999994,
+      "y": 46.04221688675474,
+      "s": 10.162645703442667
+    }
+  },
+  "DAB": {
+    "iata": "DAB",
+    "airportString": "Daytona Beach International Airport",
+    "lat": 29.17992,
+    "lng": -81.05806,
+    "outboundFlightCounts": {
+      "all": 120,
+      "ATL": 119
+    },
+    "square": {
+      "x": 439.4194,
+      "y": 202.08163265306126,
+      "s": 10.162645703442667
+    }
+  },
+  "RKS": {
+    "iata": "RKS",
+    "airportString": "Rock Springs-Sweetwater County Airport",
+    "lat": 41.59422,
+    "lng": -109.06519,
+    "outboundFlightCounts": {
+      "all": 120,
+      "DEN": 61,
+      "SLC": 30,
+      "GCC": 26
+    },
+    "square": {
+      "x": 159.34809999999996,
+      "y": 77.88895558223291,
+      "s": 10.162645703442667
+    }
+  },
+  "SAF": {
+    "iata": "SAF",
+    "airportString": "Santa Fe Municipal Airport",
+    "lat": 35.61678,
+    "lng": -106.08814,
+    "outboundFlightCounts": {
+      "all": 119,
+      "DFW": 62,
+      "DEN": 36,
+      "LAX": 18
+    },
+    "square": {
+      "x": 189.11860000000004,
+      "y": 137.68727490996403,
+      "s": 10.161290322580646
+    }
+  },
+  "MLB": {
+    "iata": "MLB",
+    "airportString": "Melbourne International Airport",
+    "lat": 28.10275,
+    "lng": -80.64581,
+    "outboundFlightCounts": {
+      "all": 118,
+      "ATL": 117
+    },
+    "square": {
+      "x": 443.54190000000006,
+      "y": 212.8576430572229,
+      "s": 10.159934941718623
+    }
+  },
+  "AVP": {
+    "iata": "AVP",
+    "airportString": "Wilkes-Barre/Scranton International Airport",
+    "lat": 41.33815,
+    "lng": -75.72427,
+    "outboundFlightCounts": {
+      "all": 117,
+      "ORD": 34,
+      "DTW": 49,
+      "ATL": 30,
+      "EWR": 0
+    },
+    "square": {
+      "x": 492.75729999999993,
+      "y": 80.45068027210887,
+      "s": 10.1585795608566
+    }
+  },
+  "DHN": {
+    "iata": "DHN",
+    "airportString": "Dothan Regional Airport",
+    "lat": 31.32134,
+    "lng": -85.44963,
+    "outboundFlightCounts": {
+      "all": 116,
+      "ATL": 115
+    },
+    "square": {
+      "x": 395.5037,
+      "y": 180.6588635454182,
+      "s": 10.157224179994579
+    }
+  },
+  "LSE": {
+    "iata": "LSE",
+    "airportString": "La Crosse Regional Airport",
+    "lat": 43.87938,
+    "lng": -91.25654,
+    "outboundFlightCounts": {
+      "all": 115,
+      "ORD": 102,
+      "MSP": 11
+    },
+    "square": {
+      "x": 337.4346,
+      "y": 55.02821128451385,
+      "s": 10.155868799132556
+    }
+  },
+  "OAJ": {
+    "iata": "OAJ",
+    "airportString": "Albert J. Ellis Airport",
+    "lat": 34.82916,
+    "lng": -77.61214,
+    "outboundFlightCounts": {
+      "all": 112,
+      "ATL": 111
+    },
+    "square": {
+      "x": 473.8786,
+      "y": 145.56662665066025,
+      "s": 10.15180265654649
+    }
+  },
+  "HLN": {
+    "iata": "HLN",
+    "airportString": "Helena Regional Airport",
+    "lat": 46.60682,
+    "lng": -111.98275,
+    "outboundFlightCounts": {
+      "all": 110,
+      "DEN": 30,
+      "SLC": 78
+    },
+    "square": {
+      "x": 130.17250000000004,
+      "y": 27.742897158863578,
+      "s": 10.149091894822446
+    }
+  },
+  "DIK": {
+    "iata": "DIK",
+    "airportString": "Dickinson Theodore Roosevelt Regional Airport",
+    "lat": 46.79739,
+    "lng": -102.80195,
+    "outboundFlightCounts": {
+      "all": 109,
+      "DEN": 53,
+      "MSP": 54
+    },
+    "square": {
+      "x": 221.98049999999995,
+      "y": 25.836434573829557,
+      "s": 10.147736513960423
+    }
+  },
+  "SPS": {
+    "iata": "SPS",
+    "airportString": "Wichita Falls Municipal Airport/Sheppard AFB",
+    "lat": 33.9888,
+    "lng": -98.49189,
+    "outboundFlightCounts": {
+      "all": 106,
+      "DFW": 105
+    },
+    "square": {
+      "x": 265.0811,
+      "y": 153.97358943577436,
+      "s": 10.143670371374355
+    }
+  },
+  "SUN": {
+    "iata": "SUN",
+    "airportString": "Friedman Memorial Airport",
+    "lat": 43.50484,
+    "lng": -114.29659,
+    "outboundFlightCounts": {
+      "all": 98,
+      "SLC": 64,
+      "DEN": 8,
+      "SFO": 23
+    },
+    "square": {
+      "x": 107.03410000000005,
+      "y": 58.775110044017616,
+      "s": 10.132827324478178
+    }
+  },
+  "BLI": {
+    "iata": "BLI",
+    "airportString": "Bellingham International Airport",
+    "lat": 48.79275,
+    "lng": -122.53753,
+    "outboundFlightCounts": {
+      "all": 94,
+      "SEA": 30,
+      "LAS": 30,
+      "HNL": 14,
+      "OGG": 16
+    },
+    "square": {
+      "x": 24.62469999999996,
+      "y": 5.874849939976035,
+      "s": 10.12740580103009
+    }
+  },
+  "BPT": {
+    "iata": "BPT",
+    "airportString": "Jack Brooks Regional Airport (Southeast Texas Regional)",
+    "lat": 29.95083,
+    "lng": -94.02069,
+    "outboundFlightCounts": {
+      "all": 93,
+      "DFW": 92
+    },
+    "square": {
+      "x": 309.79310000000004,
+      "y": 194.36944777911165,
+      "s": 10.126050420168067
+    }
+  },
+  "LBE": {
+    "iata": "LBE",
+    "airportString": "Arnold Palmer Regional Airport",
+    "lat": 40.27594,
+    "lng": -79.4048,
+    "outboundFlightCounts": {
+      "all": 93,
+      "RSW": 12,
+      "FLL": 30,
+      "MCO": 30,
+      "TPA": 17
+    },
+    "square": {
+      "x": 455.952,
+      "y": 91.07703081232496,
+      "s": 10.126050420168067
+    }
+  },
+  "RDD": {
+    "iata": "RDD",
+    "airportString": "Redding Municipal Airport",
+    "lat": 40.50898,
+    "lng": -122.2934,
+    "outboundFlightCounts": {
+      "all": 92,
+      "SFO": 91
+    },
+    "square": {
+      "x": 27.065999999999946,
+      "y": 88.74569827931174,
+      "s": 10.124695039306046
+    }
+  },
+  "ROW": {
+    "iata": "ROW",
+    "airportString": "Roswell International Air Center",
+    "lat": 33.30156,
+    "lng": -104.53056,
+    "outboundFlightCounts": {
+      "all": 89,
+      "DFW": 88
+    },
+    "square": {
+      "x": 204.69440000000006,
+      "y": 160.8487394957983,
+      "s": 10.120628896719978
+    }
+  },
+  "TOL": {
+    "iata": "TOL",
+    "airportString": "Toledo Express Airport",
+    "lat": 41.58681,
+    "lng": -83.80783,
+    "outboundFlightCounts": {
+      "all": 89,
+      "ORD": 88
+    },
+    "square": {
+      "x": 411.92170000000004,
+      "y": 77.96308523409367,
+      "s": 10.120628896719978
+    }
+  },
+  "TXK": {
+    "iata": "TXK",
+    "airportString": "Texarkana Regional Airport (Webb Field)",
+    "lat": 33.45371,
+    "lng": -93.99102,
+    "outboundFlightCounts": {
+      "all": 89,
+      "DFW": 88
+    },
+    "square": {
+      "x": 310.08979999999997,
+      "y": 159.32663065226092,
+      "s": 10.120628896719978
+    }
+  },
+  "RHI": {
+    "iata": "RHI",
+    "airportString": "Rhinelander-Oneida County Airport",
+    "lat": 45.63119,
+    "lng": -89.46745,
+    "outboundFlightCounts": {
+      "all": 88,
+      "MSP": 61,
+      "IMT": 25
+    },
+    "square": {
+      "x": 355.32550000000003,
+      "y": 37.50310124049625,
+      "s": 10.119273515857955
+    }
+  },
+  "VLD": {
+    "iata": "VLD",
+    "airportString": "Valdosta Regional Airport",
+    "lat": 30.7825,
+    "lng": -83.27672,
+    "outboundFlightCounts": {
+      "all": 87,
+      "ATL": 86
+    },
+    "square": {
+      "x": 417.2328,
+      "y": 186.04941976790718,
+      "s": 10.117918134995934
+    }
+  },
+  "DBQ": {
+    "iata": "DBQ",
+    "airportString": "Dubuque Regional Airport",
+    "lat": 42.40296,
+    "lng": -90.70917,
+    "outboundFlightCounts": {
+      "all": 86,
+      "ORD": 85
+    },
+    "square": {
+      "x": 342.90829999999994,
+      "y": 69.79831932773111,
+      "s": 10.116562754133911
+    }
+  },
+  "BQK": {
+    "iata": "BQK",
+    "airportString": "Brunswick Golden Isles Airport",
+    "lat": 31.25903,
+    "lng": -81.46631,
+    "outboundFlightCounts": {
+      "all": 85,
+      "ATL": 84
+    },
+    "square": {
+      "x": 435.33690000000007,
+      "y": 181.28221288515408,
+      "s": 10.11520737327189
+    }
+  },
+  "MEI": {
+    "iata": "MEI",
+    "airportString": "Meridian Regional Airport",
+    "lat": 32.33313,
+    "lng": -88.75121,
+    "outboundFlightCounts": {
+      "all": 84,
+      "DFW": 30,
+      "PIB": 52
+    },
+    "square": {
+      "x": 362.48789999999997,
+      "y": 170.5369147659064,
+      "s": 10.113851992409867
+    }
+  },
+  "GTR": {
+    "iata": "GTR",
+    "airportString": "Golden Triangle Regional Airport",
+    "lat": 33.45033,
+    "lng": -88.59137,
+    "outboundFlightCounts": {
+      "all": 83,
+      "ATL": 82
+    },
+    "square": {
+      "x": 364.08630000000005,
+      "y": 159.36044417767107,
+      "s": 10.112496611547845
+    }
+  },
+  "ABY": {
+    "iata": "ABY",
+    "airportString": "Southwest Georgia Regional Airport",
+    "lat": 31.53552,
+    "lng": -84.19447,
+    "outboundFlightCounts": {
+      "all": 81,
+      "ATL": 80
+    },
+    "square": {
+      "x": 408.05530000000005,
+      "y": 178.51620648259302,
+      "s": 10.109785849823801
+    }
+  },
+  "CSG": {
+    "iata": "CSG",
+    "airportString": "Columbus Metropolitan Airport",
+    "lat": 32.51633,
+    "lng": -84.93886,
+    "outboundFlightCounts": {
+      "all": 80,
+      "ATL": 79
+    },
+    "square": {
+      "x": 400.61139999999995,
+      "y": 168.70418167266905,
+      "s": 10.108430468961778
+    }
+  },
+  "GUC": {
+    "iata": "GUC",
+    "airportString": "Gunnison-Crested Butte Regional Airport",
+    "lat": 38.53396,
+    "lng": -106.93318,
+    "outboundFlightCounts": {
+      "all": 78,
+      "DEN": 35,
+      "DFW": 35,
+      "IAH": 4,
+      "ORD": 0
+    },
+    "square": {
+      "x": 180.66820000000007,
+      "y": 108.50380152060826,
+      "s": 10.105719707237734
+    }
+  },
+  "HIB": {
+    "iata": "HIB",
+    "airportString": "Range Regional Airport (Chisholm-Hibbing Airport)",
+    "lat": 47.3866,
+    "lng": -92.83899,
+    "outboundFlightCounts": {
+      "all": 77,
+      "MSP": 49,
+      "INL": 26
+    },
+    "square": {
+      "x": 321.6101000000001,
+      "y": 19.941976790716296,
+      "s": 10.10436432637571
+    }
+  },
+  "JMS": {
+    "iata": "JMS",
+    "airportString": "Jamestown Regional Airport",
+    "lat": 46.92972,
+    "lng": -98.6782,
+    "outboundFlightCounts": {
+      "all": 75,
+      "DEN": 26,
+      "DVL": 47
+    },
+    "square": {
+      "x": 263.21799999999996,
+      "y": 24.5126050420168,
+      "s": 10.101653564651667
+    }
+  },
+  "SCE": {
+    "iata": "SCE",
+    "airportString": "University Park Airport",
+    "lat": 40.85121,
+    "lng": -77.8463,
+    "outboundFlightCounts": {
+      "all": 65,
+      "DTW": 1,
+      "ORD": 59,
+      "ATL": 2
+    },
+    "square": {
+      "x": 471.537,
+      "y": 85.3220288115246,
+      "s": 10.088099756031445
+    }
+  },
+  "ABR": {
+    "iata": "ABR",
+    "airportString": "Aberdeen Regional Airport",
+    "lat": 45.44906,
+    "lng": -98.42183,
+    "outboundFlightCounts": {
+      "all": 62,
+      "MSP": 61
+    },
+    "square": {
+      "x": 265.7817,
+      "y": 39.3251300520208,
+      "s": 10.084033613445378
+    }
+  },
+  "BJI": {
+    "iata": "BJI",
+    "airportString": "Bemidji Regional Airport",
+    "lat": 47.50942,
+    "lng": -94.93372,
+    "outboundFlightCounts": {
+      "all": 62,
+      "MSP": 61
+    },
+    "square": {
+      "x": 300.66280000000006,
+      "y": 18.713285314125688,
+      "s": 10.084033613445378
+    }
+  },
+  "BTM": {
+    "iata": "BTM",
+    "airportString": "Bert Mooney Airport",
+    "lat": 45.9548,
+    "lng": -112.49746,
+    "outboundFlightCounts": {
+      "all": 62,
+      "SLC": 61
+    },
+    "square": {
+      "x": 125.02539999999998,
+      "y": 34.265706282513044,
+      "s": 10.084033613445378
+    }
+  },
+  "COD": {
+    "iata": "COD",
+    "airportString": "Yellowstone Regional Airport",
+    "lat": 44.52019,
+    "lng": -109.0238,
+    "outboundFlightCounts": {
+      "all": 62,
+      "DEN": 30,
+      "SLC": 30
+    },
+    "square": {
+      "x": 159.76200000000006,
+      "y": 48.61754701880755,
+      "s": 10.084033613445378
+    }
+  },
+  "EAU": {
+    "iata": "EAU",
+    "airportString": "Chippewa Valley Regional Airport",
+    "lat": 44.86526,
+    "lng": -91.48507,
+    "outboundFlightCounts": {
+      "all": 62,
+      "ORD": 61
+    },
+    "square": {
+      "x": 335.1493000000001,
+      "y": 45.165466186474625,
+      "s": 10.084033613445378
+    }
+  },
+  "GCK": {
+    "iata": "GCK",
+    "airportString": "Garden City Regional Airport",
+    "lat": 37.92752,
+    "lng": -100.72441,
+    "outboundFlightCounts": {
+      "all": 62,
+      "DFW": 61
+    },
+    "square": {
+      "x": 242.75589999999994,
+      "y": 114.57062825130053,
+      "s": 10.084033613445378
+    }
+  },
+  "JLN": {
+    "iata": "JLN",
+    "airportString": "Joplin Regional Airport",
+    "lat": 37.15181,
+    "lng": -94.49827,
+    "outboundFlightCounts": {
+      "all": 62,
+      "DFW": 61
+    },
+    "square": {
+      "x": 305.0173,
+      "y": 122.33083233293321,
+      "s": 10.084033613445378
+    }
+  },
+  "LAR": {
+    "iata": "LAR",
+    "airportString": "Laramie Regional Airport",
+    "lat": 41.31205,
+    "lng": -105.67499,
+    "outboundFlightCounts": {
+      "all": 62,
+      "DEN": 61
+    },
+    "square": {
+      "x": 193.25010000000006,
+      "y": 80.71178471388558,
+      "s": 10.084033613445378
+    }
+  },
+  "MKG": {
+    "iata": "MKG",
+    "airportString": "Muskegon County Airport",
+    "lat": 43.16949,
+    "lng": -86.23822,
+    "outboundFlightCounts": {
+      "all": 62,
+      "ORD": 61
+    },
+    "square": {
+      "x": 387.61780000000005,
+      "y": 62.129951980792306,
+      "s": 10.084033613445378
+    }
+  },
+  "ORH": {
+    "iata": "ORH",
+    "airportString": "Worcester Regional Airport",
+    "lat": 42.26734,
+    "lng": -71.87571,
+    "outboundFlightCounts": {
+      "all": 62,
+      "MCO": 30,
+      "FLL": 30
+    },
+    "square": {
+      "x": 531.2429,
+      "y": 71.15506202480996,
+      "s": 10.084033613445378
+    }
+  },
+  "SWF": {
+    "iata": "SWF",
+    "airportString": "Stewart International Airport",
+    "lat": 41.50409,
+    "lng": -74.10484,
+    "outboundFlightCounts": {
+      "all": 62,
+      "FLL": 30,
+      "MCO": 30
+    },
+    "square": {
+      "x": 508.95160000000004,
+      "y": 78.79061624649863,
+      "s": 10.084033613445378
+    }
+  },
+  "TWF": {
+    "iata": "TWF",
+    "airportString": "Magic Valley Regional Airport (Joslin Field)",
+    "lat": 42.4818,
+    "lng": -114.48774,
+    "outboundFlightCounts": {
+      "all": 62,
+      "SLC": 61
+    },
+    "square": {
+      "x": 105.12259999999998,
+      "y": 69.00960384153663,
+      "s": 10.084033613445378
+    }
+  },
+  "EKO": {
+    "iata": "EKO",
+    "airportString": "Elko Regional Airport",
+    "lat": 40.82493,
+    "lng": -115.7917,
+    "outboundFlightCounts": {
+      "all": 61,
+      "SLC": 60
+    },
+    "square": {
+      "x": 92.08299999999994,
+      "y": 85.58493397358943,
+      "s": 10.082678232583357
+    }
+  },
+  "GRI": {
+    "iata": "GRI",
+    "airportString": "Central Nebraska Regional Airport",
+    "lat": 40.96747,
+    "lng": -98.30861,
+    "outboundFlightCounts": {
+      "all": 61,
+      "DFW": 60
+    },
+    "square": {
+      "x": 266.91389999999996,
+      "y": 84.15896358543421,
+      "s": 10.082678232583357
+    }
+  },
+  "PAH": {
+    "iata": "PAH",
+    "airportString": "Barkley Regional Airport",
+    "lat": 37.06083,
+    "lng": -88.77375,
+    "outboundFlightCounts": {
+      "all": 61,
+      "ORD": 60
+    },
+    "square": {
+      "x": 362.26249999999993,
+      "y": 123.24099639855942,
+      "s": 10.082678232583357
+    }
+  },
+  "PIH": {
+    "iata": "PIH",
+    "airportString": "Pocatello Regional Airport",
+    "lat": 42.91131,
+    "lng": -112.59586,
+    "outboundFlightCounts": {
+      "all": 61,
+      "SLC": 60
+    },
+    "square": {
+      "x": 124.04139999999998,
+      "y": 64.71278511404563,
+      "s": 10.082678232583357
+    }
+  },
+  "CEC": {
+    "iata": "CEC",
+    "airportString": "Del Norte County Airport (Jack McNamara Field)",
+    "lat": 41.78016,
+    "lng": -124.23653,
+    "outboundFlightCounts": {
+      "all": 60,
+      "SFO": 59
+    },
+    "square": {
+      "x": 7.634699999999981,
+      "y": 76.02881152460985,
+      "s": 10.081322851721334
+    }
+  },
+  "CMX": {
+    "iata": "CMX",
+    "airportString": "Houghton County Memorial Airport",
+    "lat": 47.16842,
+    "lng": -88.48906,
+    "outboundFlightCounts": {
+      "all": 60,
+      "ORD": 59
+    },
+    "square": {
+      "x": 365.10940000000005,
+      "y": 22.124649859944025,
+      "s": 10.081322851721334
+    }
+  },
+  "SMX": {
+    "iata": "SMX",
+    "airportString": "Santa Maria Public Airport (Capt G. Allan Hancock Field)",
+    "lat": 34.89925,
+    "lng": -120.45758,
+    "outboundFlightCounts": {
+      "all": 60,
+      "LAX": 59
+    },
+    "square": {
+      "x": 45.42420000000007,
+      "y": 144.8654461784714,
+      "s": 10.081322851721334
+    }
+  },
+  "ALO": {
+    "iata": "ALO",
+    "airportString": "Waterloo Regional Airport",
+    "lat": 42.55708,
+    "lng": -92.40034,
+    "outboundFlightCounts": {
+      "all": 58,
+      "ORD": 57
+    },
+    "square": {
+      "x": 325.99659999999994,
+      "y": 68.25650260104045,
+      "s": 10.07861208999729
+    }
+  },
+  "IMT": {
+    "iata": "IMT",
+    "airportString": "Ford Airport",
+    "lat": 45.81835,
+    "lng": -88.11454,
+    "outboundFlightCounts": {
+      "all": 58,
+      "RHI": 26,
+      "MSP": 30
+    },
+    "square": {
+      "x": 368.85459999999995,
+      "y": 35.63075230092036,
+      "s": 10.07861208999729
+    }
+  },
+  "STC": {
+    "iata": "STC",
+    "airportString": "St. Cloud Regional Airport",
+    "lat": 45.54532,
+    "lng": -94.05834,
+    "outboundFlightCounts": {
+      "all": 58,
+      "ORD": 57
+    },
+    "square": {
+      "x": 309.4166,
+      "y": 38.36214485794323,
+      "s": 10.07861208999729
+    }
+  },
+  "SUX": {
+    "iata": "SUX",
+    "airportString": "Sioux Gateway Airport",
+    "lat": 42.4026,
+    "lng": -96.38437,
+    "outboundFlightCounts": {
+      "all": 58,
+      "ORD": 57
+    },
+    "square": {
+      "x": 286.1563,
+      "y": 69.80192076830735,
+      "s": 10.07861208999729
+    }
+  },
+  "CIU": {
+    "iata": "CIU",
+    "airportString": "Chippewa County International Airport",
+    "lat": 46.25075,
+    "lng": -84.47239,
+    "outboundFlightCounts": {
+      "all": 57,
+      "DTW": 56
+    },
+    "square": {
+      "x": 405.2761,
+      "y": 31.30502200880358,
+      "s": 10.077256709135266
+    }
+  },
+  "EWN": {
+    "iata": "EWN",
+    "airportString": "Coastal Carolina Regional Airport (Craven County Regional)",
+    "lat": 35.07297,
+    "lng": -77.04294,
+    "outboundFlightCounts": {
+      "all": 57,
+      "ATL": 56
+    },
+    "square": {
+      "x": 479.57059999999996,
+      "y": 143.1275510204082,
+      "s": 10.077256709135266
+    }
+  },
+  "BRD": {
+    "iata": "BRD",
+    "airportString": "Brainerd Lakes Regional Airport",
+    "lat": 46.39786,
+    "lng": -94.13723,
+    "outboundFlightCounts": {
+      "all": 54,
+      "MSP": 51,
+      "INL": 1
+    },
+    "square": {
+      "x": 308.62769999999995,
+      "y": 29.833333333333343,
+      "s": 10.0731905665492
+    }
+  },
+  "CNY": {
+    "iata": "CNY",
+    "airportString": "Canyonlands Field",
+    "lat": 38.75496,
+    "lng": -109.75484,
+    "outboundFlightCounts": {
+      "all": 54,
+      "SLC": 53
+    },
+    "square": {
+      "x": 152.45159999999998,
+      "y": 106.2929171668668,
+      "s": 10.0731905665492
+    }
+  },
+  "GGG": {
+    "iata": "GGG",
+    "airportString": "East Texas Regional Airport",
+    "lat": 32.38486,
+    "lng": -94.71171,
+    "outboundFlightCounts": {
+      "all": 54,
+      "DFW": 53
+    },
+    "square": {
+      "x": 302.8829,
+      "y": 170.01940776310522,
+      "s": 10.0731905665492
+    }
+  },
+  "APN": {
+    "iata": "APN",
+    "airportString": "Alpena County Regional Airport",
+    "lat": 45.07807,
+    "lng": -83.56029,
+    "outboundFlightCounts": {
+      "all": 53,
+      "DTW": 52
+    },
+    "square": {
+      "x": 414.3971,
+      "y": 43.03651460584239,
+      "s": 10.071835185687178
+    }
+  },
+  "CDC": {
+    "iata": "CDC",
+    "airportString": "Cedar City Regional Airport",
+    "lat": 37.70097,
+    "lng": -113.09858,
+    "outboundFlightCounts": {
+      "all": 53,
+      "SLC": 52
+    },
+    "square": {
+      "x": 119.01420000000002,
+      "y": 116.8370348139256,
+      "s": 10.071835185687178
+    }
+  },
+  "ESC": {
+    "iata": "ESC",
+    "airportString": "Delta County Airport",
+    "lat": 45.72267,
+    "lng": -87.09373,
+    "outboundFlightCounts": {
+      "all": 53,
+      "DTW": 52
+    },
+    "square": {
+      "x": 379.06270000000006,
+      "y": 36.58793517406964,
+      "s": 10.071835185687178
+    }
+  },
+  "HYS": {
+    "iata": "HYS",
+    "airportString": "Hays Regional Airport",
+    "lat": 38.84494,
+    "lng": -99.27403,
+    "outboundFlightCounts": {
+      "all": 53,
+      "DEN": 52
+    },
+    "square": {
+      "x": 257.25970000000007,
+      "y": 105.39275710284114,
+      "s": 10.071835185687178
+    }
+  },
+  "INL": {
+    "iata": "INL",
+    "airportString": "Falls International Airport",
+    "lat": 48.56619,
+    "lng": -93.40307,
+    "outboundFlightCounts": {
+      "all": 53,
+      "BRD": 1,
+      "MSP": 23,
+      "HIB": 26
+    },
+    "square": {
+      "x": 315.9693,
+      "y": 8.141356542617084,
+      "s": 10.071835185687178
+    }
+  },
+  "LWS": {
+    "iata": "LWS",
+    "airportString": "Lewiston-Nez Perce County Airport",
+    "lat": 46.3745,
+    "lng": -117.01539,
+    "outboundFlightCounts": {
+      "all": 53,
+      "SLC": 52
+    },
+    "square": {
+      "x": 79.84610000000004,
+      "y": 30.06702681072434,
+      "s": 10.071835185687178
+    }
+  },
+  "PIB": {
+    "iata": "PIB",
+    "airportString": "Hattiesburg-Laurel Regional Airport",
+    "lat": 31.46715,
+    "lng": -89.33706,
+    "outboundFlightCounts": {
+      "all": 53,
+      "MEI": 30,
+      "DFW": 21
+    },
+    "square": {
+      "x": 356.6294000000001,
+      "y": 179.20018007202881,
+      "s": 10.071835185687178
+    }
+  },
+  "PLN": {
+    "iata": "PLN",
+    "airportString": "Pellston Regional Airport of Emmet County",
+    "lat": 45.57093,
+    "lng": -84.79672,
+    "outboundFlightCounts": {
+      "all": 53,
+      "DTW": 52
+    },
+    "square": {
+      "x": 402.03280000000007,
+      "y": 38.105942376950836,
+      "s": 10.071835185687178
+    }
+  },
+  "PUB": {
+    "iata": "PUB",
+    "airportString": "Pueblo Memorial Airport",
+    "lat": 38.28909,
+    "lng": -104.49657,
+    "outboundFlightCounts": {
+      "all": 53,
+      "DEN": 52
+    },
+    "square": {
+      "x": 205.03429999999994,
+      "y": 110.95348139255702,
+      "s": 10.071835185687178
+    }
+  },
+  "VEL": {
+    "iata": "VEL",
+    "airportString": "Valdez Airport",
+    "lat": 40.4409,
+    "lng": -109.50992,
+    "outboundFlightCounts": {
+      "all": 53,
+      "SLC": 52
+    },
+    "square": {
+      "x": 154.90080000000006,
+      "y": 89.42677070828334,
+      "s": 10.071835185687178
+    }
+  },
+  "GFK": {
+    "iata": "GFK",
+    "airportString": "Grand Forks International Airport",
+    "lat": 47.94926,
+    "lng": -97.17611,
+    "outboundFlightCounts": {
+      "all": 50,
+      "MSP": 49
+    },
+    "square": {
+      "x": 278.23890000000006,
+      "y": 14.313125250100041,
+      "s": 10.067769043101112
+    }
+  },
+  "DVL": {
+    "iata": "DVL",
+    "airportString": "Devils Lake Regional Airport",
+    "lat": 48.11425,
+    "lng": -98.90878,
+    "outboundFlightCounts": {
+      "all": 49,
+      "JMS": 26,
+      "DEN": 21
+    },
+    "square": {
+      "x": 260.9122000000001,
+      "y": 12.662565026010444,
+      "s": 10.06641366223909
+    }
+  },
+  "HOB": {
+    "iata": "HOB",
+    "airportString": "Lea County Regional Airport",
+    "lat": 32.68753,
+    "lng": -103.21703,
+    "outboundFlightCounts": {
+      "all": 49,
+      "IAH": 48
+    },
+    "square": {
+      "x": 217.82970000000006,
+      "y": 166.99149659863943,
+      "s": 10.06641366223909
+    }
+  },
+  "MMH": {
+    "iata": "MMH",
+    "airportString": "Mammoth Yosemite Airport",
+    "lat": 37.62405,
+    "lng": -118.83777,
+    "outboundFlightCounts": {
+      "all": 36,
+      "SFO": 34,
+      "DEN": 0
+    },
+    "square": {
+      "x": 61.62229999999994,
+      "y": 117.60654261704687,
+      "s": 10.0487937110328
+    }
+  },
+  "GUM": {
+    "iata": "GUM",
+    "airportString": "Guam International Airport",
+    "lat": 13.48345,
+    "lng": -144.79598,
+    "outboundFlightCounts": {
+      "all": 31,
+      "HNL": 30
+    },
+    "square": {
+      "x": -197.95979999999986,
+      "y": 359.109143657463,
+      "s": 10.042016806722689
+    }
+  },
+  "IAG": {
+    "iata": "IAG",
+    "airportString": "Niagara Falls International Airport",
+    "lat": 43.10726,
+    "lng": -78.94538,
+    "outboundFlightCounts": {
+      "all": 31,
+      "FLL": 30
+    },
+    "square": {
+      "x": 460.5462,
+      "y": 62.75250100040021,
+      "s": 10.042016806722689
+    }
+  },
+  "PBG": {
+    "iata": "PBG",
+    "airportString": "Plattsburgh International Airport",
+    "lat": null,
+    "lng": null,
+    "outboundFlightCounts": {
+      "all": 31,
+      "FLL": 30
+    },
+    "square": {
+      "x": null,
+      "y": null,
+      "s": 10.042016806722689
+    }
+  },
+  "ILG": {
+    "iata": "ILG",
+    "airportString": "Wilmington Airport",
+    "lat": 39.67872,
+    "lng": -75.60653,
+    "outboundFlightCounts": {
+      "all": 26,
+      "MCO": 16,
+      "TPA": 8
+    },
+    "square": {
+      "x": 493.93469999999996,
+      "y": 97.05162064825934,
+      "s": 10.035239902412577
+    }
+  },
+  "MQT": {
+    "iata": "MQT",
+    "airportString": "Sawyer International Airport",
+    "lat": 46.35364,
+    "lng": -87.39536,
+    "outboundFlightCounts": {
+      "all": 26,
+      "ORD": 25
+    },
+    "square": {
+      "x": 376.0464,
+      "y": 30.275710284113682,
+      "s": 10.035239902412577
+    }
+  },
+  "OTH": {
+    "iata": "OTH",
+    "airportString": "Southwest Oregon Regional Airport (North Bend Municipal)",
+    "lat": 43.41714,
+    "lng": -124.24603,
+    "outboundFlightCounts": {
+      "all": 17,
+      "SFO": 16
+    },
+    "square": {
+      "x": 7.539699999999954,
+      "y": 59.65246098439374,
+      "s": 10.023041474654377
+    }
+  },
+  "UST": {
+    "iata": "UST",
+    "airportString": "Northeast Florida Regional Airport (St. Augustine Airport)",
+    "lat": null,
+    "lng": null,
+    "outboundFlightCounts": {
+      "all": 16,
+      "IAD": 2,
+      "TTN": 12
+    },
+    "square": {
+      "x": null,
+      "y": null,
+      "s": 10.021686093792356
+    }
+  },
+  "PPG": {
+    "iata": "PPG",
+    "airportString": "Pago Pago International Airport (Tafuna Airport)",
+    "lat": 14.33102,
+    "lng": -170.71053,
+    "outboundFlightCounts": {
+      "all": 10,
+      "HNL": 9
+    },
+    "square": {
+      "x": -457.10530000000006,
+      "y": 350.6300520208083,
+      "s": 10.013553808620223
+    }
+  },
+  "ACK": {
+    "iata": "ACK",
+    "airportString": "Nantucket Memorial Airport",
+    "lat": 41.25305,
+    "lng": -70.06018,
+    "outboundFlightCounts": {
+      "all": 0
+    },
+    "square": {
+      "x": 549.3982,
+      "y": 81.30202080832333,
+      "s": 10
+    }
+  },
+  "BGM": {
+    "iata": "BGM",
+    "airportString": "Greater Binghamton Airport",
+    "lat": 42.20848,
+    "lng": -75.97961,
+    "outboundFlightCounts": {
+      "all": 0
+    },
+    "square": {
+      "x": 490.2039000000001,
+      "y": 71.74389755902362,
+      "s": 10
+    }
+  },
+  "BGR": {
+    "iata": "BGR",
+    "airportString": "Bangor International Airport",
+    "lat": 44.80744,
+    "lng": -68.82814,
+    "outboundFlightCounts": {
+      "all": 0
+    },
+    "square": {
+      "x": 561.7185999999999,
+      "y": 45.74389755902363,
+      "s": 10
+    }
+  },
+  "HYA": {
+    "iata": "HYA",
+    "airportString": "Barnstable Municipal Airport",
+    "lat": 41.66934,
+    "lng": -70.28036,
+    "outboundFlightCounts": {
+      "all": 0
+    },
+    "square": {
+      "x": 547.1963999999999,
+      "y": 77.13745498199283,
+      "s": 10
+    }
+  },
+  "ITH": {
+    "iata": "ITH",
+    "airportString": "Ithaca Tompkins Regional Airport",
+    "lat": 42.49103,
+    "lng": -76.45844,
+    "outboundFlightCounts": {
+      "all": 0
+    },
+    "square": {
+      "x": 485.41560000000004,
+      "y": 68.91726690676269,
+      "s": 10
+    }
+  },
+  "MVY": {
+    "iata": "MVY",
+    "airportString": "Martha's Vineyard Airport",
+    "lat": 41.39303,
+    "lng": -70.61433,
+    "outboundFlightCounts": {
+      "all": 0
+    },
+    "square": {
+      "x": 543.8567,
+      "y": 79.90166066426569,
+      "s": 10
+    }
+  },
+  "WYS": {
+    "iata": "WYS",
+    "airportString": "Westerly State Airport",
+    "lat": 44.6884,
+    "lng": -111.11764,
+    "outboundFlightCounts": {
+      "all": 0
+    },
+    "square": {
+      "x": 138.82360000000006,
+      "y": 46.93477390956383,
+      "s": 10
+    }
+  }
+}
