@@ -19,9 +19,103 @@ const aspectRatio = {
 }
 
 function preload() {
-  // airports = loadTable("airports.csv","csv","header")
+  // this is a pre-processed file based off the airports.csv file.
   airports = loadJSON("airports.json")
   flights = loadTable("https://raw.githubusercontent.com/mrjloswald/ccfest24/main/flights/flights.csv", "csv", "header")
+}
+
+function setup() {
+  filterFlights()
+  createCanvas(1200,520)
+  airports = Object
+    .fromEntries(
+      Object
+      .entries(airports)
+      .map( ([k,v]) => {
+        v.x = mapLng(v.lng)
+        v.y = mapLat(v.lat)
+        return [k,v]
+      })
+    )  
+
+  currentFlightIndex = int(random(flights.getRowCount()))
+}
+
+function draw() {
+  background(0,8);
+  if( showAirports ) {
+    noStroke()
+    fill("#fabebe")
+    for( const airport of Object.values(airports) ) {
+      circle(
+        airport.x,
+        airport.y,
+        3
+      )
+    }    
+  }
+
+  const offset = int(random(flights.getRowCount()-1001))
+  for( let i = 0; i < 1000; i++ ) {  
+    const flight = flights.getRow(i + offset)
+
+    let strokeColor = "#ffffff08"
+
+    // Uncomment this if you want to have line colorization 
+    //   based on timeliness.
+    // const arrivalDelay = flight.getNum("ARRIVAL_DELAY")    
+    // if( arrivalDelay > 0 ) {
+    //   strokeColor = '#e6194b08'
+    // } else if( arrivalDelay < 0 ) {
+    //   strokeColor = '#46f0f008' 
+    // }
+    drawFlight( flight, strokeColor )  
+  }  
+}
+
+function drawFlight(flight,c) {
+  const org = airports[flight.getString("ORIGIN_AIRPORT")]
+  const des = airports[flight.getString("DESTINATION_AIRPORT")]
+  if( org && des ) { // making sure both are present
+    const v = p5.Vector.sub(createVector( org.x, org.y), createVector(des.x, des.y))
+    const d = dist( org.x, org.y, des.x, des.y )
+    const dh = d/2
+    const mp = {x:(org.x+des.x)/2, y:(org.y+des.y)/2 }
+    push()  
+    translate(mp.x, mp.y)
+    rotate(v.heading())
+    stroke(c)
+    noFill()
+    const t = flight.getNum("ELAPSED_TIME")
+    curve(-dh-t, t, -dh, 0, dh, 0, dh+t, t )
+    pop()    
+  }
+}
+
+function preProcessFlightData() {
+  airports = airports.getRows()
+    .map( row => [
+      row.getString("IATA_CODE"),
+      float(row.get("LATITUDE")), 
+      float(row.get("LONGITUDE"))
+    ])
+    .reduce( (all, cur) => {
+      all[cur[0]] = {
+        lat: cur[1],
+        lng: cur[2],
+        x:mapLng(cur[2]),
+        y:mapLat(cur[1])
+      }
+      return all
+    }, {})
+  
+  airports = Object
+  .fromEntries( 
+    Object
+    .entries(airports)
+    .filter(([k,v]) => v.x > 0 && v.y > 0 && v.x < width && v.y < height )
+  )
+  saveJSON(airports, 'airports.json')
 }
 
 function filterFlights() {
@@ -36,114 +130,8 @@ function filterFlights() {
   // saveTable(flights, "filteredFlights.csv")
 }
 
-function calculateWindow() {
-  const r = aspectRatio.width/aspectRatio.height
-  // console.log( r )
-  // if( windowWidth > windowHeight ) {
-    return [windowWidth, windowWidth/r]  
-  // } else {
-  //   return [windowWidth, windowWidth/r]
-  // }
-}
 
-function setup() {
-  filterFlights()
-  // buildBoundaryMapping()
-  createCanvas(1200,520)
-  // createCanvas(...calculateWindow());
-  
-  // airports = airports.getRows()
-  //   .map( row => [
-  //     row.getString("IATA_CODE"),
-  //     float(row.get("LATITUDE")), 
-  //     float(row.get("LONGITUDE"))
-  //   ])
-  //   .reduce( (all, cur) => {
-  //     all[cur[0]] = {
-  //       lat: cur[1],
-  //       lng: cur[2],
-  //       x:mapLng(cur[2]),
-  //       y:mapLat(cur[1])
-  //     }
-  //     return all
-  //   }, {})
-  
-//   airports = Object
-//   .fromEntries( 
-//     Object
-//     .entries(airports)
-//     .filter(([k,v]) => v.x > 0 && v.y > 0 && v.x < width && v.y < height )
-//   )
-    airports = Object
-      .fromEntries(
-        Object
-        .entries(airports)
-        .map( ([k,v]) => {
-          v.x = mapLng(v.lng)
-          v.y = mapLat(v.lat)
-          return [k,v]
-        })
-      )  
-//   saveJSON(airports, 'airports.json')
-  currentFlightIndex = int(random(flights.getRowCount()))
-  // noLoop()
-}
-
-function draw() {
-  background(0,8);
-  if( showAirports ) {
-    noStroke()
-    fill("#fabebe")
-
-    for( const airport of Object.values(airports) ) {
-      circle(
-        airport.x,
-        airport.y,
-        3
-      )
-    }    
-  }
-
-  const offset = int(random(flights.getRowCount()-1001))
-  // for( const flight of flights.getRows() ) {
-  for( let i = 0; i < 1000; i++ ) {  
-    const flight = flights.getRow(i + offset)
-  
-    // const flight = flights.getRow(currentFlightIndex)
-    // const arrivalDelay = flight.getNum("ARRIVAL_DELAY")
-    let strokeColor = "#ffffff08"
-    // if( arrivalDelay > 0 ) {
-    //   strokeColor = '#e6194b08'
-    // } else if( arrivalDelay < 0 ) {
-    //   strokeColor = '#46f0f008' 
-    // }
-    drawFlight( flight, strokeColor )  
-  }  
-}
-
-function drawFlight(flight,c) {
-  const org = airports[flight.getString("ORIGIN_AIRPORT")]
-  const des = airports[flight.getString("DESTINATION_AIRPORT")]
-  if( org && des ) {
-    const v = p5.Vector.sub(createVector( org.x, org.y), createVector(des.x, des.y))
-    const d = dist( org.x, org.y, des.x, des.y )
-    const dh = d/2
-    const mp = {x:(org.x+des.x)/2, y:(org.y+des.y)/2 }
-    // console.log( d, dh, mp )
-    push()  
-    translate(mp.x, mp.y)
-    // fill(c)
-    // circle(0,0,3)
-    rotate(v.heading())
-    stroke(c)
-    noFill()
-    const t = flight.getNum("ELAPSED_TIME")
-    curve(-dh-t, t, -dh, 0, dh, 0, dh+t, t )
-    pop()    
-  }
-
-}
-
+// was originally used to dynamically build the boundaries
 function buildBoundaryMapping() {
   const lngs = data.getColumn("LONGITUDE").map( float )
   const lats = data.getColumn("LATITUDE").map( float )
@@ -168,5 +156,4 @@ function keyPressed() {
   if( keyCode === UP_ARROW ) { currentFlightIndex++ }
   if( keyCode === DOWN_ARROW ) { currentFlightIndex-- }
   currentFlightIndex %= flights.getRowCount()
-  // redraw()
 }
