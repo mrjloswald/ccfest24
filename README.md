@@ -2,6 +2,12 @@
 
 [Presentation](https://tiny.cc/cllfwz) (links to Google Sheets)
 
+## Recent updates
+
+I polished up some of the code this morning (1/29). Let me know if you have any questions! 
+
+## Code
+
 [editor.p5js collection](https://editor.p5js.org/mrjloswald/collections/pE9DfnXUo)
 
 The numbered subfolders represent different code examples. A few are interative on the same dataset.
@@ -10,6 +16,6 @@ The numbered subfolders represent different code examples. A few are interative 
 * 08 and 09 use the (massive) [2015 Flight Delays](https://www.kaggle.com/datasets/usdot/flight-delays/) dataset on kaggle
 * 10 data sources for redlining are discussed in the project. 
 
-## The Appendices 
+### The Appendices 
 
 * A quick example of the Gestalt Phi Phenomenon
