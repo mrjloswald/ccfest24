@@ -32,62 +32,68 @@ function draw() {
   }
 }
 
-// let boundaryMapping = {
-//   west: -125,
-//   east: -67,
-//   south: 24.39,
-//   north: 49.38
-// }
+let boundaryMapping = {
+  west: -125,
+  east: -67,
+  south: 24.39,
+  north: 49.38
+}
 
 // function preload() {
 //   airports = loadTable("https://raw.githubusercontent.com/mrjloswald/ccfest24/main/flights/airports.csv","csv","header")
 //   flights = loadTable("https://raw.githubusercontent.com/mrjloswald/ccfest24/main/flights/flights.monthly.1.csv", "csv", "header")
 // }
 
-// function processData() {
-//   allAirports = airports.getRows()
-//     .filter( row => row.getString("STATE") !== "HI" && row.getString("STATE") !== "AK" && row.getString("STATE") !== "PR" && row.getString("STATE") !== "VI" )
-//     .map( row => {
-//       outboundFlightCounts = flights
-//       .findRows(row.getString("IATA_CODE"), "ORIGIN_AIRPORT")
-//       .reduce((counts, row) => {
-//         const destination = row.getString("DESTINATION_AIRPORT")
-//         if( destination in counts ) {
-//           counts[destination] += 1
-//         } else {
-//           counts[destination] = 0
-//         }
-//         counts.all++
-//         return counts
-//       },{all:0})
+function processData() {
+  // Excluding for drawing purposes. 
+  // If you want to include these places, 
+  //   you have to expand your canvas size and boundary mapping
+  const excludedStateCodes = ["HI","AK","PR","VI"]
+  
+  allAirports = airports.getRows()
+    .filter( row => excludedStateCodes.includes( row.getString("STATE") ) )
+    .map( row => {
+      outboundFlightCounts = flights
+      .findRows(row.getString("IATA_CODE"), "ORIGIN_AIRPORT")
+      .reduce((counts, row) => {
+        // counting flights, and flights to each destination
+        const destination = row.getString("DESTINATION_AIRPORT")
+        if( destination in counts ) {
+          counts[destination] += 1
+        } else {
+          counts[destination] = 0
+        }
+        counts.all++
+        return counts
+      },{all:0})
 
-//       return {
-//         iata: row.getString("IATA_CODE"),
-//         airportString: row.getString("AIRPORT"),
-//         lat: float(row.get("LATITUDE")),
-//         lng: float(row.get("LONGITUDE")),
-//         outboundFlightCounts,
-//       }})
-//     .sort( (a,b) => b.outboundFlightCounts.all - a.outboundFlightCounts.all )
-//     .reduce( (obj, current, i, arr) => {
-//       current.square = {
-//         x: mapLng(current.lng),
-//         y: mapLat(current.lat),
-//         s: map( current.outboundFlightCounts.all,0,arr[0].outboundFlightCounts.all,10,50 )
-//       }
-//       obj[current.iata] = current
-//       return obj
-//     }, {})
-//   airports = Object.fromEntries(Object.entries(allAirports).slice( 0,20 ))
-// }
+      return {
+        iata: row.getString("IATA_CODE"),
+        airportString: row.getString("AIRPORT"),
+        lat: float(row.get("LATITUDE")),
+        lng: float(row.get("LONGITUDE")),
+        outboundFlightCounts,
+      }})
+    .sort( (a,b) => b.outboundFlightCounts.all - a.outboundFlightCounts.all )
+    .reduce( (obj, current, i, arr) => {
+      current.square = {
+        x: mapLng(current.lng),
+        y: mapLat(current.lat),
+        s: map( current.outboundFlightCounts.all,0,arr[0].outboundFlightCounts.all,10,50 )
+      }
+      obj[current.iata] = current
+      return obj
+    }, {})
+  airports = Object.fromEntries(Object.entries(allAirports).slice( 0,20 ))
+}
 
-// function mapLat(lat) {
-//   return map(lat,boundaryMapping.north,boundaryMapping.south,0,height)
-// }
+function mapLat(lat) {
+  return map(lat,boundaryMapping.north,boundaryMapping.south,0,height)
+}
 
-// function mapLng(lng) {
-//   return map(lng,boundaryMapping.west,boundaryMapping.east,0,width)
-// }
+function mapLng(lng) {
+  return map(lng,boundaryMapping.west,boundaryMapping.east,0,width)
+}
 
 // function keyPressed() {
 //   if( key === "s" ) {
