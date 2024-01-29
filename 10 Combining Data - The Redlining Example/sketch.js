@@ -65,11 +65,18 @@ function keyPressed() {
   redraw()
 }
 
+
+// returns a color that is mapped from high hpi values (green) to low (red)
+// in the original example, this was a straight mapping from green to red,
+// in the current version, we actually map directly to one of the colors
 function hpiColor(state) {
-  const c = map( data[state].hpi.avg, hpiDescriptives.min, hpiDescriptives.max, 0, 1)
-  return lerpColor(colors.D, colors.A, c)                   
+  const i = round(map( data[state].hpi.avg, hpiDescriptives.min, hpiDescriptives.max, 3, 0))
+  return [colors.A,colors.B,colors.C,colors.D,colors.D][i]
+  // return lerpColor(colors.D, colors.A, c)                   
 }
 
+// returns the holc color for the most commonly occuring rating in that state. 
+// white means that there are no ratings
 function holcColor(state) {    
   let largest 
 
