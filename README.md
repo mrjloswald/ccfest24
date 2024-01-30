@@ -4,7 +4,7 @@
 
 ## Recent updates
 
-I polished up some of the code this morning (1/29). Let me know if you have any questions! 
+Much of the code has received a makeover and I even added a GeoJSON Redlining example. (1/30)
 
 ## Code
 
