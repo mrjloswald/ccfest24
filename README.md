@@ -24,6 +24,9 @@ The numbered subfolders represent different code examples. A few are interative 
 ## Bibliography
 
 [_Better Data Visualizations_](https://cup.columbia.edu/book/better-data-visualizations/9780231193115), Jonathan Schwabish
+
 [_Dear Data_](https://www.dear-data.com/thebook), Georgia Lupi and Stefanie Posavec
+
 [_The Secret Language of Maps_](https://dschool.stanford.edu/book-collections/the-secret-language-of-maps), Carissa Carter
+
 [_Living in Data_](https://us.macmillan.com/books/9780374720513/livingindata), Jer Thorp
