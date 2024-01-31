@@ -5,6 +5,7 @@
 ## Recent updates
 
 Bibliography added (1/31)
+
 Much of the code has received a makeover and I even added a GeoJSON Redlining example. (1/30)
 
 ## Code
