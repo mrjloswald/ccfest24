@@ -16,7 +16,8 @@ The numbered subfolders represent different code examples. A few are interative 
 * 01-06 use the population dataset found here
 * 07 uses the Datasaurus dataset. A discussion about how this was generated is found [here](https://www.research.autodesk.com/publications/same-stats-different-graphs/)
 * 08 and 09 use the (massive) [2015 Flight Delays](https://www.kaggle.com/datasets/usdot/flight-delays/) dataset on kaggle
-* 10 data sources for redlining are discussed in the project. 
+* 10 data sources for redlining are discussed in the project.
+* 11 An example based on _Dear Data_
 
 ### The Appendices 
 
